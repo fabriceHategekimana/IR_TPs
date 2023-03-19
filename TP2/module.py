@@ -38,13 +38,13 @@ def extract_tar_file(path_to_file: str, path_to_extract: str = ".") -> None:
         tar.extractall(path_to_extract)
 
 
-def list_files_with_extention(extention: str, target_dir: str = ".") -> Sentences:
+def list_files_with_extension(extension: str, target_dir: str = ".") -> Sentences:
     """
     list the file having a given extension
     and in a specific target_dir (target directory)
     """
     return [
-            file for file in os.listdir(target_dir) if file.endswith(extention)
+            file for file in os.listdir(target_dir) if file.endswith(extension)
             ]
 
 
