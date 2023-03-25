@@ -73,3 +73,6 @@ def createTermDocumentMatrix(directory, number=15, kind="boolean", algo="tf", to
     normalization = boolean_normalization
     return normalization(df_matrix.copy())
 
+
+def vector_similarity(d, q):
+    return np.dot(d, q)/(np.norm(d)*np.norm(q))
