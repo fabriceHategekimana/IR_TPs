@@ -1,0 +1,60 @@
+ 
+
+FADD - Fracture Analysis by Distributed Dislocations
+
+A stress analysis method and graphical-user interface (GUI) system has been
+developed at NASA Langley Research Center. Fracture Analysis by Distributed
+Dislocations (FADD) uses an advanced method to model a crack or multiple
+non-straight cracks in an arbitrarily-shaped plate subjected to general
+internal and external loading. The GUI is menu driven with options to help
+the user input the cracked body and loading of interest.
+
+ 
+
+Potential Commercial Uses
+
+   * Aircraft damage tolerance analysis.
+   * Component level 2D stress analysis for the aerospace, automobile, and
+     nuclear power industries.
+   * Stress level prediction for structural components (e.g. pressure
+     vessel, piping, fittings).
+
+Benefits
+
+   * Very efficient method for solving planar crack problems.
+   * User-friendly menu-driven environment to input complex bodies and
+     loading.
+
+The Technology
+
+Researchers at the University of Texas, the Analytical Services & Materials,
+Inc., and NASA Langley have developed a graphical-user interface stress
+analysis system for two-dimensional cracked or uncracked bodies. The FADD
+methodology calculates stresses in a cracked body using a concept of
+distributed dislocations to model the crack, and ordinary boundary elements
+to model internal and external boundaries. The method requires very few
+elements to model a cracked structural component and produces very accurate
+stress and displacement solutions.
+
+FADD efficiently performs stress analysis of 2D cracked bodies containing
+single, multiple, and non-straight cracks. Other features of the FADD system
+include the capability to examine multiple body configurations, and
+calculate crack stress concentration and intensity factors. A user-friendly
+GUI has been developed, and stress analysis codes have been developed for
+both workstation and personal computer systems.
+
+Options for Commercialization
+
+NASA Langley seeks industry partners to cooperatively develop commercial
+products based on the FADD technology. This commercialization opportunity is
+part of the NASA Technology Transfer Program. The objective of this program
+is to proactively involve the private sector in NASA's programs to ensure
+that the technology will have maximum commercial impact. Suitability of this
+technology to specific needs can be investigated at NASA Langley.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,68 @@
+ 
+
+Composite Structures Technology
+
+The composite structures technology is focused on developing concepts for
+lighter-weight, damage-tolerant and cost-effective structural components.
+These concepts exploit the advantages that advanced composite materials
+offer over conventional materials such as aluminum and steel. This
+technology has been used in the fabrication of structural members for
+aircraft wings and fuselages. In addition, methodology for reliably
+predicting the response and failure of these structures is developed.
+
+ 
+Wing panel
+
+Potential Commercial Uses
+
+   * Structures for ground vehicles and ships
+   * Structures for civil, mechanical, electrical and electronics
+     engineering
+   * Weight-critical and stiffness-critical structures
+   * Prostheses, wheelchairs, crutches
+   * Structures for subsonic, supersonic and hypersonic aircraft
+   * Structures for space transportation systems, launch systems and
+     spacecraft
+
+Benefits
+
+   * Lighter-weight structures
+   * Higher specific strengths and stiffness'
+   * Directional tailoring of stiffness and strength properties
+   * Enabling technology for new and innovative structural concepts
+   * Better corrosion resistance
+   * Fewer parts to fabricate and assemble
+
+ 
+Fuselage panel
+
+The Technology
+
+Composite structures research is being conducted at NASA Langley for
+light-weight wing and fuselage primary structures for future transport
+aircraft and for spacecraft and launch vehicles. Advanced structural
+concepts are being developed that are both light weight and cost effective.
+Composite structural specimens are tested to identify new response and
+failure mechanisms, to determine true limits of performance, and to verify
+analytical methods that predict structural response and failure. Advanced
+structural analysis and sizing methods are developed to represent the linear
+and nonlinear behavior of damage-tolerant composite structures. Parametric
+studies are also conducted to identify trends in structural performance as
+structural parameters are changed.
+
+Options for Commercialization
+
+NASA is seeking partnerships with industry to develop further composite
+structures technology for advanced applications.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

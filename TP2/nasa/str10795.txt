@@ -1,0 +1,66 @@
+ 
+
+Quick-Attachment Joints
+
+The Quick-Attachment Joints were developed at the Langley Research Center
+for use by astronauts in assembling high-precision structures in space for
+future scientific instruments. The encumbrance of the pressurized space suit
+mandated a joint that could be easily assembled without special tools. The
+strict sensitivity requirements of the scientific instruments demanded a
+joint that could be repeatedly assembled and disassembled while maintaining
+exacting tolerances. In 1992, 30 Quick-Attachment Joints were carried on
+Space Shuttle mission STS-49 to evaluate their operation in space. The
+versatility of these joints was clearly demonstrated when the mission's
+primary objective of retrieving and repairing the failed INTELSAT spacecraft
+could only be accomplished using a temporary framework constructed with the
+joints.
+
+ 
+
+Potential Commercial Uses
+
+   * Situation where rapid configuration changes are required
+   * Scaffolding in hazardous (high-radiation) areas
+   * Where precision joints are needed
+
+Benefits
+
+   * Rapid assembling and disassembling of joints
+   * No tools are required
+   * Skilled labor not required
+   * Savings of time and labor
+   * Repeatable precision joints
+
+The Technology
+
+The Quick-Attachment Joint is designed to allow the efficient assembly of
+large, high-performance trusses in space by astronauts in Extravehicular
+Activity (EVA). Its repeatable and predictable structural performance is
+achieved through numerical machining of its components and precise alignment
+of its halves by tapered tongues and grooves. Once assembled, the joint
+exhibits a constant axial stiffness with negligible free-play due to its
+nearly-straight load path mechanism. The latch mechanism is easily operated
+without tools and incorporates an energy storage device to allow the
+pre-load to be maintained through load cycling of the joint.
+
+The joint has been scaled to different sizes for different applications, and
+many of its features can be translated into simpler designs with performance
+compromises offset by lower fabrication costs.
+
+ 
+
+Options for Commercialization
+
+The technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. The Quick-Attachment Joints have been fabricated,
+tested, and utilized in space. Two patents have been granted on the
+technology and NASA is seeking applicants to license the technology and/or
+partnerships to further broaden and refine the technology.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

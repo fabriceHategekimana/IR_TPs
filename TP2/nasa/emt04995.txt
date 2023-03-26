@@ -1,0 +1,57 @@
+ 
+
+Under NASA sponsorship, Analytical Services and Materials, Inc. developed
+this computer software for IBM PC compatible desktop computers. This
+software can be used by design engineers to calculate thermo-mechanical
+properties and microstresses within laminae and yarns of laminated and
+textile composites.
+
+Potential Commercial Uses
+
+   * Laminated composite analysis Textile composite analysis
+   * Microcracking analysis
+   * Strength and fatigue life analysis
+   * Composite development
+   * Polymeric composites
+   * Metal matrix composites
+   * Ceramic matrix composites
+
+ 
+MICSTRAN PC User Interface
+
+Benefits
+
+   * Performance:
+        o only minutes of computation time on IBM PC 386/486 computers
+        o supports MS Windows 3.0 and 3.1
+        o requires less than 1MB of memory on hard drive and 4MB of RAM
+   * Key Features: requires only brief description of fiber and matrix
+     properties, fiber volume fraction, and loading
+
+The Technology
+
+The fiber arrangement in a lamina or a yarn is often represented by a
+periodic square or diamond array. Thus, the bulk properties of a lamina or a
+yarn in a composite can be represented by those of a repeating unit cell.
+MICSTRAN models a single repeating unit cell with either a square or diamond
+fiber arrangement. MICSTRAN uses a classical elasticity solution to
+calculate accurate estimates of overall thermo-mechanical properties and
+microstresses under combined thermal and multiaxial mechanical loading.
+MICSTRAN provides a micromechanics approach for developing composites with
+improved cracking resistance and also provides a computational basis for
+predicting damage onset, strength, and fatigue life of composite materials.
+
+Options for Commercialization
+
+MICSTRAN is developed as part of NASA's Aeronautics Program and is available
+for commercialization by industry partners. This opportunity is part of the
+NASA Technology Transfer Program. The objective of this program is to
+proactively involve the private sector in NASA's programs to ensure that the
+technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

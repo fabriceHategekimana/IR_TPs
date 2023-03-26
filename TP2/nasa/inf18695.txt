@@ -1,0 +1,68 @@
+ 
+
+Data Acquisition System - Dynamic Open Architecture
+
+A dynamic data acquisition system has been developed for two different open
+architecture platforms. Such systems have traditionally been available only
+on proprietary hardware platforms. This system is cheaper to install and
+maintain, and has higher throughput than its proprietary counterpart.
+
+ 
+
+Potential Commercial Uses
+
+   * Aerospace: Wind tunnel testing and data acquisition
+   * Acoustics: Acoustics data acquisition and frequency analysis
+   * Structure and Material Laboratories: High frequency material stress,
+     strain and impact analysis
+
+Benefits
+
+   * Performance: This data system is capable of transferring data from its
+     front end at a rate of 1 million samples per second in real-time or
+     600K samples per second post-test. This throughput allows for a rapid
+     transition between test sets. The data acquisition front end supports
+     data sampling rates of up to 1 million samples per second per channel.
+   * Key Features: This data system uses off the shelf commercially
+     available hardware components and a commercial off the shelf software
+     package making it much cheaper to purchase than proprietary solutions.
+   * Hardware / Software Supported: The Dynamic Data Acquisition Software
+     runs on the Digital Equipment Corporation family of Alpha CPUs or the
+     Motorola 88100 family of CPUs operating under the OSF/1 and REAL/ IX
+     real-time UNIX operating systems respectively.
+   * Data Acquisition Front Ends Supported: Supports the Neff Instruments
+     System 495 Data Acquisition and Recording system for data input
+
+The Technology
+
+State of the art open architecture components are used in the dynamic data
+acquisition system along with real-time versions of the UNIX System V
+operating system. Data Acquisition software is coded in C. The man-machine
+interface is developed using the SL-GMS graphic user interface from SL
+Corporation. The data acquisition system included a custom device driver for
+the SCSI 2 controller that interfaces the system with the Neff Instruments
+System 495 Data acquisition system.
+
+The Acquisition and Computation software for the Data Acquisition System was
+developed by Langley Research Center to meet the needs of its structure and
+acoustics research facilities. The data acquisition software has built-in
+features making it particularly useful in these types of facilities such as
+the ability to display data in either the frequency or time domain.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop a commercial software
+product based on the Open Architecture Data Acquisition Software. The
+software is not copyrighted or patented at this time.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

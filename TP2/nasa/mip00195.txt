@@ -1,0 +1,89 @@
+ 
+
+Explosive Seam Welding of Metals
+
+Explosive welding, or bonding, is accomplished by an explosively driven,
+high velocity, angular impact of two metal surfaces. At impact, the surfaces
+(which always contain some level of oxidation) are melted, stripped off and
+ejected by the closing angle of the impact. The surfaces, which are now
+metallurgically pure, are pressed into intimate contact by the explosive
+pressure, allowing valence electron sharing and an atomic-level bonding. One
+or both of the metals to be joined can be driven by the explosive input(s)
+to accomplish this joining process. Narrow seam joining can be accomplished
+for metals in thickness' to 1/8-inch.
+
+Potential Commercial Uses
+
+   * Joining of tubes
+   * Joining of tubes to fittings
+   * Plugging of tubes
+   * Splicing sheet stock (scarf)
+   * Joining dissimilar thickness'
+   * Splicing wires, attaching to fittings; full conductivity
+   * Hermetically sealing vessels
+   * Attaching cooling fins
+   * Joining dissimilar/non-fusion weldable metals
+   * Remote joining in hazardous environments
+
+Benefits
+
+   * Cold working process
+   * Metallurgical bond
+   * No effect on parent properties
+   * Join metal combinations not possible with fusion
+   * Join thin sheets to thick
+   * Small scale (small quantities of explosive)
+   * Precision
+   * Minimum fixturing/jigs
+   * High speed
+   * Portable
+
+ 
+Example of explosive seam welding of pure aluminum to pure copper for
+electrical transformer application. The lower figure shows a peel test. The
+bond did not fail; the weaker aluminum was ripped out of the sheet.
+
+The Technology
+
+Explosive welding (bonding or joining) is accomplished by an explosively
+driven, high-velocity angular impact of two metal surfaces. At impact, the
+surfaces (which always contain some level of oxidation) are melted, stripped
+off and ejected by the closing angle of the impact. The surfaces, which are
+now metallurgically pure, are pressed into intimate contact by the explosive
+pressure, allowing valence electron sharing and an atomic-level bonding. One
+or both of the metals to be joined can be driven by explosive input(s) to
+accomplish this joining process. Langley Research Center has developed a
+unique seam process that allows the joining of metals at precise locations.
+The seams are 1/4 to 1/2 inch in width, depending on the material and
+thickness to be joined, and can be applied to complex geometries. The seam
+is produced by a "ribbon" explosive, which contains very small amounts of
+explosive, sheathed in lead for flexibility of application. The minimum
+length in which joining can be accomplished is approximately 1/4 inch. There
+is no upper limit in length. Safety issues have been addressed through the
+design of electrical firing circuits and containment systems. This process
+requires less volume than that used by a person in an arc welding booth. A
+major advantage of this process is its ability to be used for remote
+operation. The explosive materials and welding interfaces can be assembled
+outside of a hazardous environment, such as in nuclear reactors, and then
+inserted for final assembly.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products,
+using this fabrication process. To date, agreements and technology transfers
+have been accomplished in the fields of nuclear reactor repair, of tube
+plugging for heat exchangers and of wire splicing for electrical
+transformers. NASA holds a number of patents on this technology, which
+available for licensing. Future patentable processes, developed through
+joint agreements, be fully exploited without licensing, and with royalty
+sharing. This commercial opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's research programs to ensure that the technology developed
+will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

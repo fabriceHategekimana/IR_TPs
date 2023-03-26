@@ -1,0 +1,67 @@
+ 
+
+Precision Vibration Isolator
+
+The NASA Langley developed precision vibration isolator was designed for
+spacecraft payloads needing extreme pointing stability. Motors and other
+disturbances on the spacecraft necessitated the use of active vibration
+isolation to reduce unwanted movement. Precision pointing is achieved using
+an actuator and sensor system that can absorb the vibratory motion without
+drifting.
+
+ 
+
+Potential Commercial Uses
+
+   * Machinery Isolation
+   * Noise Control
+   * Optical Assemblies
+   * Micro-Actuators
+
+Benefits
+
+   * High stiffness compared to conventional isolation mounts
+   * Can be precisely set for static alignment
+   * Adapts to a wide range of disturbances
+
+The Technology
+
+The precision vibration isolator is designed to sense and compensate for
+unwanted motion. The isolator serves as an attachment between the device to
+be stabilized and surrounding structure. Movement in the isolator is
+achieved using piezoelectric actuators which can expand and contract.
+Sensing of the vibrations is performed with accelerometers, one on each end
+of the isolator. The accelerometer signals are fed into an analog (or
+digital) controller which then commands the actuator movement.
+
+The isolator has been tested in the laboratory and shown to reduce unwanted
+vibrations by 80%. The current isolator has force capabilities of several
+hundred pounds and a stroke capability of about 0.001 inches. The isolator
+has been operated to a frequency of 100 Hz and much higher operating
+frequencies are possible.
+
+Movement in the isolator is achieved using piezoelectric actuators which can
+expand and contract. Sensing of the vibrations is performed with
+accelerometers, one on each end of the isolator. The accelerometer signals
+are fed into an analog (or digital) controller which then commands the
+actuator movement.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop precision vibration
+isolators. Although NASA currently holds several patents for advanced
+sensing and actuation materials applicable to future isolator development,
+the current prototype can be packaged and developed using commercial
+products.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,89 @@
+ 
+
+Colorless and Low Dielectric Polyimide Thin Film Technology
+
+NASA seeks to transfer into the commercial sector NASA-developed
+technologies for producing high temperature, radiation resistant, colorless
+and/or low dielectric polyimide materials. These materials, developed at
+NASA Langley Research Center, offer the opportunity to develop optically
+transparent and/or electrically insulating films and coatings on various
+substrates. NASA seeks a commercial partner to work cooperatively with NASA
+experts to develop commercial application for the materials. Commercial
+licenses are available.
+
+ 
+
+ 
+
+Potential Commercial Uses
+
+   * Flexible printed circuit substrates
+   * High temperature wire and cable wrapping
+   * Electric motor and generator insulation >li> Multichip module
+     interlayer dielectric
+   * Solar cells and arrays
+   * Protective coating for art and outdoor statues
+   * Thermal control coatings
+   * Wire coatings
+
+Benefits
+
+   * Optically transparent at 400-600 nm wavelength
+   * Thermal use temperature of 300 deg.C
+   * Low dielectric constant (2.4-2.8 at 10 GHz)
+   * Good resistance to ultraviolet, electron, and proton irradiation
+   * Low water absorption
+   * Soluble in a variety of organic solvents
+
+The Technology
+
+A need exists for high temperature, flexible polymeric film and coating
+materials that have high optical transparency and radiation stability for
+space applications. Although there are several classes of transparent
+polyesters and aliphatic polyimides, these materials have limited long term
+thermal stability. NASA has long used Kapton(R) with a silicon dioxide
+topcoat as a protective coating for spacecraft applications. Kapton(R) has a
+yellow color that is acceptable for microelectronics and electrical
+insulation applications. However, for solar arrays, reflectors, and thermal
+control coating systems, NASA required a transparent colorless material with
+better thermal stability and greater resistance to radiation and atomic
+oxygen in low earth orbits.
+
+In the mid-to-late seventies, NASA began researching methods for reducing
+the possibility of inter- and intramolecular complex formation in polyimide
+materials. NASA believed these charge transfer complexes were responsible
+for the yellow polyimide color. Linear aromatic polyimide films and coatings
+were prepared by the polymerization of a highly purified aromatic diamine
+monomer and a highly purified dianhydride monomer in a solvent medium. This
+new process involved two conditions: (1) purification of both the reactants
+and the solvent, and (2) elimination of chromaphoric centers and reduction
+of both interspace and intrachain electronic interactions. The resulting
+polymer films were 80-100% transparent in the visible spectrum (400-600 nm),
+at 100% or greater improvement over commercially available polyimides.
+
+As part of this research, NASA introduced fluorine- containing groups to the
+polyimides back-bone, thus producing transparent polymers that were highly
+electrically insulative and resistant to moisture. NASA's investigation of
+over 100 polymers has resulted in numerous linear polyimides that exhibit
+low dielectric constants, in the range of 2.4 to 2.8 at 10 GHz. From a
+performance standpoint, these polyimides have the potential to be superior
+to commercially available polyimides currently used as materials for wire
+coating, flexible printed circuit boards, and multichip module interlevel
+dielectrics.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology.
+
+The Langley Research Center seeks a commercial partner to license the
+technology and develop commercial applications. NASA has received two
+patents on the colorless polyimide materials.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

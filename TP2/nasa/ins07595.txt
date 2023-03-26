@@ -1,0 +1,69 @@
+ 
+
+Instrumented Fasteners For Shear Force Measurements
+
+Sensitive shear force sensors have been developed using standard fasteners
+instrumented with strain gages. The new sensor provides a method for
+measuring individual fastener shear loads in a joint containing multiple
+fasteners.
+
+ 
+Potential Commercial Uses
+
+   * Monitor fastener shear loads in critical joints
+   * Monitor shaft line loads
+   * Research instrument for investigating load transfer in highly loaded
+     joints in composite structure and ceramic or low-strain-to-failure
+     structure or in special structural applications
+
+Benefits
+
+   * Performance: The newly developed sensor provides a direct measurement
+     of the loads carried by individual fasteners in joints as compared with
+     previous techniques which rely on measurements in other parts of the
+     joint to indirectly evaluate the performance of the individual
+     fasteners
+   * Key Features: Shear force sensors can be developed for a wide variety
+     of fastener sizes and types and for a wide range of fastener loads and
+     torque levels. The sensors can be used in both single and double lap
+     joints and can be used in single or multiple applications
+   * Fabrication: Shear force sensors can be fabricated from standard
+     commercially available fasteners using proven machining and strain gage
+     application techniques
+
+The Technology
+
+The development of advanced structural concepts and designs requires a good
+understanding of the distribution of fastener shear loads in structural
+joints. Present techniques for measuring the shear load distribution in
+joints are inadequate. A shear force sensor has been developed using
+commercial fasteners that provides a method for measuring individual
+fastener shear loads in single and double lap joints containing multiple
+fasteners. The sensors consist of commercial fasteners instrumented with a
+series of strain gages bonded to flats machined on the surface of the
+fasteners. The strain gages are oriented at ±45¡ to the axis of the fastener
+and are centered in the plane of the faying surfaces of the joint. The
+actual fasteners used in the joint can be instrumented and calibrated and
+used as the sensor or special sensors can be substituted for the actual
+fasteners. The sensors can be used to investigate how the loads are being
+transferred in the joint or can be used as a permanent installation to
+indicate when the fastener loads exceed a certain value.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on the shear force sensor technology. The shear force sensor
+technology has been in the public domain for several years and a license is
+not required.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

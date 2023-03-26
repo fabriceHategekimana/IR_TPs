@@ -1,0 +1,82 @@
+ 
+
+Global Flow-Field Velocity Mapping Using Particle Image Velocimetry (PIV)
+
+An optical imaging technique combined with digital image analysis to measure
+the fluid flow field in a plane. The result of this global technique is an
+instantaneous snapshot of the flow field at a fixed time. After a collection
+of 'snapshots' are taken, a turbulent flow may be monitored, analyzed, and
+possibly controlled.
+
+Potential Commercial Uses
+
+Type of flows:
+
+   * Turbulent and laminar flows
+   * Velocity regime - subsonic to supersonic
+   * Liquid and gaseous flows
+   * External flows:
+        o Flow over structures or obstacles
+        o Wakes, jets, and boundary layers
+        o Separated or reversed flows
+   * Internal flows
+        o Flow through ducts
+        o Turbine flows
+        o Flow in piston-driven engines
+        o Underhood flow around an engine block
+   * Single-phase and multiple-phase flows
+   * Code Validation:
+        o Extensive measurement of turbulence statistics to validate
+          turbulence models
+
+ 
+Generic car model
+
+Benefits
+
+   * Global measurement technique
+   * Measurement of mean field and turbulence statistics
+   * Measurement of turbulence structures
+   * Measurement of vorticity field
+   * Accuracy and spatial resolution approaching Laser Doppler Velocimetry
+     technique
+   * Significantly reduced testing time
+   * Quantitative flow visualization
+
+ 
+Underhood flow field
+
+The Technology
+
+Particle Image Velocimetry is an optical technique designed to acquire
+instantaneous, planar snapshots of the velocity field at regular grid points
+in space. Thus PIV captures the crucial spatial qualities of the flow of
+interest. With an ensemble of randomly sampled velocity fields, PIV provides
+the estimated mean flow, various flow statistics, vorticity, and the means
+to identify and categorize flow structures. This technique is particularly
+well-suited for turbulence research where basic understanding of organized
+structures may lead to the design of more efficient airfoils, aircraft,
+automobiles, engines, turbines, or turbulent mixing processes.
+
+Researchers at Langley are currently applying PIV to study various types of
+turbulent flows. Standard PIV measures the two components of velocity in the
+plane of interest. Three component velocity measurements in a plane is
+possible with the development of Stereoscopic PIV (SPIV), and work is
+currently ongoing in this field.
+
+Researchers at Langley are looking to integrate PIV capability with industry
+needs in the field of flow testing and diagnostics. Partnerships may be
+formed to investigate any number of internal and external flows encountered
+in industrial applications. Transfer of PIV technology is also a goal, and
+dissemination of PIV development information includes, but not limited to:
+
+   * Optical system design and setup
+   * Computer interrogation system setup
+   * Flow field data processing software
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

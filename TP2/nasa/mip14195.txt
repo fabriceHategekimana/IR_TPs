@@ -1,0 +1,71 @@
+ 
+
+Automated Imaging Technique for Determining Surface Changes
+
+The Automated Imaging Technique for Determining Surface Changes was
+developed at the NASA Langley Research Center for detecting and measuring
+postflight defects on lower surface Shuttle tiles. Postflight inspection of
+the 17,000 lower surface tiles is one of the most important inspections
+performed during an Orbiter refurbishment flow. During this inspection, all
+flight related damage to the Thermal Protection System is identified,
+measured and recorded. An initial version has been incorporated into Kennedy
+Space Center's prototype robot system for inspection and rewaterproofing of
+lower surface Shuttle tiles. This version detects gross defect types such
+as: (1) missing black ceramic glaze, exposing the white silicon substrate,
+and (2) missing silver-white pillow-type gap fillers.
+
+ 
+Robotic tile processing system
+
+Potential Commercial Uses
+
+   * Equipment inspection
+   * Tool-crib surveillance
+   * Process control
+   * Corrosion monitoring
+   * Artwork authentication
+
+Benefits
+
+   * Historical archive of surface appearance
+   * Detailed record of changes in appearance
+   * Reduce tedious detailed inspection
+   * Reduce labor and rework cost
+   * Increased throughput
+
+The Technology
+
+In order to protect the Shuttle's aluminum skin from excessive heat during
+reentry, the outer surface of each Orbiter is covered with over 20,000
+thermal tiles. Because a single failed tile can cause a catastrophic system
+failure, each tile is manually inspected after each flight. This inspection
+process is labor intensive and time consuming.
+
+The Automated Imaging Technique for Determining Surface Changes has been
+developed at NASA Langley to automatically detect and measure postflight
+defects on lower surface Shuttle tiles. The system accomplishes the
+detection by identifying anomalies between preflight and postflight images
+of each tile.
+
+The approach utilizes a technique where the preflight image of a tile serves
+as the template against which the postflight image of the tile is compared.
+Candidate anomalies are selected as a result of the comparison and processed
+to identify true anomalies. A variety of both standard and NASA Langley
+developed image processing techniques are employed to accommodate lighting
+variation and image misregistration and to perform pattern analysis.
+
+Options for Commercialization
+
+This technology is part of the NASA Technology Transfer Program. The program
+seeks to stimulate development of commercial applications from
+NASA-developed technology. The Automated Imaging Technique for Determining
+Surface Changes has been incorporated into Kennedy Space Center's prototype
+robot system for inspection and rewaterproofing of lower surface Shuttle
+tiles. Suitability of this technology to specific needs can be investigated.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

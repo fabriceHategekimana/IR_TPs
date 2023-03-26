@@ -1,0 +1,80 @@
+ 
+
+Low Cost, High Speed Signal Processing for Ultrasonic, Medical, and other
+applications
+
+NASA has developed a new technique to process data using a combination of
+hardware and software to provide a flexible and low cost method of high
+speed signal processing for a wide variety of applications. The Convolver
+for Real-time Image and Signal Processing or CRISP is a means of filtering a
+signal to extract information hidden by noise or system artifacts. Its
+objective is to provide repeatable and accurate measurements. This may be
+used to normalize signals from low cost unmatched sensors, or achieve higher
+performance by lowering system noise. Speed, accuracy and lower cost were
+primary goals in developing CRISP. These factors resulted in a Digital
+Signal Processing (DSP) board and software system that is currently being
+developed on a PC platform, but due to its modular architecture can be
+easily modified to support virtually any platform, even stand alone
+applications.
+
+ 
+
+Potential Commercial Uses
+
+   * Radar : Normalize antennas and receivers, signature analysis, removing
+     modulation and receiver noise, autocorrelation , etc.
+   * Medical : Sharpen images and extract weak signals
+   * Ultrasonic : Transducer standardization, range resolution
+   * Composites : Delaminations, impact damage
+   * Miscellaneous : Audio enhancement, Cable fault detection, High
+     Temperature NDE
+
+Benefits
+
+   * Superior speed improvements, exceeding 3 orders of magnitude, make
+     CRISP a desirable alternative to software analysis alone. May be used
+     in embedded systems for real time analysis of a wide variety of signals
+   * A low cost PC based (386 or higher) DSP board which can complement
+     testing and measuring (often expensive) systems commonly found in labs,
+     anachoic chambers, scanning facilities, etc.
+   * Modular system architecture permits CRISP to be modified for a wide
+     variety of platforms. Any changes to the CRISP I/O has no effect on the
+     computational engine which provides fast response and minimum cost for
+     customizing
+
+The Technology
+
+CRISP is a filter which uses a minimum error technique to map a sampled
+waveform to a desired quantitative waveform. A software-only implementation
+can take up to 50 hours for a typical 2 hour scan. One objective of CRISP is
+to move this process into real time while minimizing any loss of dynamic
+range.
+
+CRISP may be used in dedicated systems or it may be configured , via
+software , as a stand alone board. In this way CRISP may be used off line to
+enhance software analysis. CRISP also contains a software package for filter
+generation and general board operations.
+
+Computational throughput and mathematical models of CRISP signal processing
+performance are complete. System timing and protocol have been specified and
+are currently under design. Prototyping of some modules has been completed.
+
+Options for Commercialization
+
+NASA seeks industrial partners to cooperatively investigate new applications
+for the CRISP technology. NASA Langley currently has a Joint Development
+Agreement (JDA) for CRISP technology with two companies in NDE. The design
+of the DSP board is currently in progress. Many options were added to
+accommodate a wide variety of systems.
+
+Currently no JDA has been establish in using CRISP in the radar, medical or
+many other fields. NASA is seeking interested company(s) that can transfer
+this technology to these areas as part of the NASA Technology Transfer
+Program.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,74 @@
+ 
+
+Micro-Vortex Generators for Flow Separation Control
+
+Flow detachment or separation from the surface is usually extremely
+detrimental to the performance of a system in motion; for example, it can
+lead to increased vehicle drag or decreased airplane lift. The control of
+flow separation is an important engineering problem, since a reduction in
+the amount of flow separation can significantly decrease fuel consumption
+and improve system performance. Researchers at NASA Langley have
+successfully used very small flow control devices, called micro-vortex
+generators (micro VGs), to reduce flow separation. Micro VGs have improved
+the performance of high-lift airfoils, increasing lift by 10% and reducing
+drag by 50%. In addition, this technology has broad non-aerospace potential
+and can be used to solve a variety of performance problems.
+
+ 
+Micro VGs mounted on wing flap
+
+Potential Commercial Uses
+
+   * Commercial and General Aviation: Provides drag reduction, more
+     effective stall control, and improved performance of high-lift airfoils
+   * Race Cars: Improve rear wing spoiler effectiveness--resulting in
+     greater traction
+   * Automobile and Trucks: Reduces aerodynamic drag and decreases fuel
+     consumption
+   * Marine: Improve rudder efficiency and stability
+   * General Applications: Improve efficiency of turbines, wind mills,
+     heating, ventilation, and air-conditioning systems, etc.
+
+Benefits
+
+   * Increased fuel savings and improved system performance
+   * Passive system for drag reduction that is easy to install and maintain
+   * Economical device to alleviate flow separation
+
+The Technology
+
+The significance of micro VGs is in their compact size and low device drag
+characteristics. With their innovative low-profile and low-aspect-ratio
+design, combined with a sharp sweep angle at the their leading edges, the
+micro VGs produce an array of trailing streamwise vortices very efficiently.
+These miniature streamwise vortices (or little tornadoes) are highly
+effective in energizing the flows near the surface through wallward momentum
+transfer, and thereby, resulting in effective flow separation alleviation.
+
+The micro VGs, developed originally for the high-lift research at NASA
+Langley, can be made in the form of easy-mounting strips or individual
+pieces with a device height as small as 0.04 inches, using a specially
+developed manufacturing technique. Despite their small size, the micro VGs
+proved to be very effective in alleviating flow separation on flaps of
+multi-element high-lift systems, that are typical of those being used on
+modern commercial transport aircraft. Wind-tunnel tests showed a
+lift-to-drag ratio improvement of over 100% with the micro-vortex generator
+application.
+
+ 
+Effects of micro VGs on downstream flowfield
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial
+applications for the micro VG technology. This commercialization opportunity
+is part of the NASA Technology Transfer Program. The objective of this
+program is to proactively involve the private sector in NASA's programs to
+ensure that the technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

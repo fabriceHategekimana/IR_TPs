@@ -1,0 +1,74 @@
+ 
+
+An Efficient Method for Designing Strong and Safe Structures Under Dynamic
+Loading Conditions
+
+A dynamic loads analysis method, based on matched filter theory, has been
+developed for application to both linear and nonlinear structural design.
+The method determines the maximum load experienced by the structure for a
+given type of input.
+
+ Current Application: Gust Loads on Aircraft
+
+Potential Commercial Uses
+
+   * Aircraft Design: loads from atmospheric turbulence
+   * Building Design: loads from wind and earthquakes
+   * Ship Design: loads from wind and waves
+   * Bridge Design: loads from wind and earthquakes
+   * Automobile Design: loads from rough roads
+
+Benefits
+
+Performance: Gust-loads application can provide:
+
+   * Reduction in both computational effort and engineering time
+     requirements compared to other methods of calculating gust loads
+
+Key Features:
+
+   * Simple to implement
+   * Offers a consistent way of dealing with both linear and nonlinear
+     structural design problems
+   * Can calculate time-correlated loads
+
+ Potential Application: Earthquake Loads on Buildings
+
+The Technology
+
+For almost a decade NASA has been a consultant to the FAA in the latter's
+pursuit of identifying an analysis method for certifying an airplane for
+gust loads when the airplane contains control systems with significant
+nonlinear conditions. During this time NASA developed and refined its own
+analysis method using a technique called matched filter theory (MFT),
+originally applied in the detection of returning radar signals. NASA
+recognized that this method could be applied not only to airplane design but
+to the design of other vehicles such as automobiles and ships and to
+structures such as buildings and bridges. All that is required is equations
+of motion representing the vehicle or structure and equations representing
+the disturbance quantity. For systems whose equations of motion are linear,
+there is a duality between the time-domain results from MFT and the results
+from conventional random process analysis. For systems whose equations are
+either linear or nonlinear, the important quantities from MFT are also
+obtainable from stochastic simulation.
+
+Options for Commercialization
+
+NASA seeks to assist all interested parties in applying MFT to their
+structural design problem. The FAA recently funded NASA to develop a
+computer program to perform the MFT based method for nonlinear aircraft gust
+response analysis. This code is not strictly limited to aircraft
+applications, and it can be utilized on any structural design problem where
+an analytical model of the structure is available and the character of the
+excitation is known. This code, technical papers, and assistance are
+available upon request. This commercial opportunity is part of the NASA
+Technology Transfer Program. The objective of this program is to pro
+actively involve the private sector in NASA's programs to ensure that the
+technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

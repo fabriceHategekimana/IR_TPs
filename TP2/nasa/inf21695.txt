@@ -1,0 +1,90 @@
+ 
+
+Environment For Application Software Integration and Execution (EASIE)
+
+EASIE is a methodology and a set of software utilities developed by NASA
+Langley Research Center for integrating and coordinating the use of computer
+programs. Under user direction, EASIE controls the execution of
+independently developed programs and manages the flow of data to and from a
+common data base to accomplish design or analysis objectives. Software tools
+are provided to minimize the effort required of programmers to integrate
+programs. EASIE also provides a level of independence from the data base
+management system (DBMS) making conversion to another DBMS simpler than
+conversion through conventional techniques.
+
+Potential Commercial Uses
+
+   * Software tools for improving productivity of computer programmers
+   * Software tools for improving productivity of computer users
+
+Benefits
+
+   * Programmer productivity
+   * Aids in the integration of programs with a DBMS
+   * Eases the burden of program/data base maintenance
+   * Simplifies data transfer between data bases
+   * Documents data base contents and data flow among programs
+   * User productivity
+   * Provides a consistent, efficient (point-and-click) user interface
+     requiring minimal knowledge of computer operating systems
+
+The Technology
+
+EASIE is an integrated approach for data management and program integration.
+It is comprised of two major subsystems:
+
+Data base tools for program integration.
+Allows programmers to:
+
+   * Construct a data dictionary (logical description of data base contents
+     and data flow)
+   * Automatically generate data base from the data dictionary
+   * Automatically generate computer codes to store/retrieve data into/from
+     the data base >li>Automatically generate instructions for
+     spreadsheet-like Reviewer utility to view/edit data
+
+Executive program for control of interactive and batch environments.
+Allows users to:
+
+   * Construct custom menus to access applications
+   * Select a set of programs
+   * Select a configuration (data base)
+   * View and edit data
+   * Select and execute application programs
+
+Langley Research Center has found EASIE to be a valuable tool both in the
+initial integration of programs through a common data base and for continued
+maintenance of a system of integrated programs. Use of EASIE significantly
+increases the productivity of the integration programming staff and reduces
+the effort required to maintain and enhance a system of integrated programs.
+Added benefits include freeing the programmer from the need for detailed
+knowledge of a specific DBMS and automating the conversion from one DBMS to
+another. Thus, the resulting system of programs is not tied to a particular
+DBMS. EASIE provides a common, consistent interface for the user of the
+integrated system and does not require the user to have detailed knowledge
+of the DBMS or computer operating system to modify data and execute
+applications. EASIE has been distributed to Boeing Inc, and
+McDonnell-Douglas Inc. Boeing's Military Airplane Co. constructed an
+integrated system of programs using EASIE called Vehicle Synthesis System
+(VSS). VSS has been successfully demonstrated to Boeing's management to
+increase both programmer and engineer productivity while decreasing the
+maintenance burden of the system. Boeing's Commercial Airplane Co. has also
+requested EASIE for use in integration of its design and analysis programs
+and plans to use EASIE as a framework for analyzing data flow throughout the
+design process.
+
+Options for Commercialization
+
+NASA seeks industry partners to assist in developing EASIE.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,51 @@
+ 
+
+General Purpose PC Interface Using Printer Port
+
+A simple interface circuit has been developed that connects to any standard
+printer port on an IBM compatible PC, and converts the printer port to a
+general purpose bus. This circuit reduces the cost and complexity of
+interfacing to the PC. The bus created by this interface can be used to
+easily connect numerous devices to the PC using the minimum hardware.
+
+ 
+
+Potential Commercial Uses
+
+Devices that can take advantage of this interface include:
+
+   * EPROM/PLD Programmers
+   * Logic Analyzers
+   * A to D and D to A converters
+   * I/O ports
+   * Test vector generators
+   * Cable Testers
+
+Benefits
+
+   * A single interface with appropriate software can be used directly
+     connect a family of devices to the PC
+   * The interface is simpler and faster than RS232
+   * The interface is simpler and more convenient than connecting to the
+     PC's internal bus
+
+The Technology
+
+This interface uses standard commercially available integrated circuits, and
+software to operate the interface is available.
+
+Options for Commercialization
+
+NASA seeks industrial partnerships to cooperatively develop commercial
+products based on this device. NASA has a patent pending on the printer port
+interface. These commercialization/technological development opportunities
+are part of the NASA Technology Transfer Program. The objective of this
+program is to proactively involve the private sector in NASA's programs to
+ensure that the technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

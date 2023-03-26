@@ -1,0 +1,92 @@
+ 
+
+Autonomous Landing and Guidance System
+
+The ALG technical approach provides for the design, development, simulation,
+and testing of the prototype system during a 2-year Base Program. It will
+demonstrate that the civil/military operational requirements can be met, and
+that the system could be approved for in-service use under current
+regulations.
+
+ 
+
+Potential Commercial Uses
+
+This system will offer a low cost, high payoff solution to several major
+problems in commercial and military air transportation:
+
+   * Commercial airline industry - weather and related aircraft capacity
+     problems cause 24,000 commercial flight delays.
+   * Military operations - enabling strategic decisions based upon tactics,
+     not weather or visibility conditions.
+
+ 
+
+Benefits
+
+The ALG Alliance is unique, consisting of customers, government researchers
+and industry, formed to deliver a spin-off product that will yield the
+following compelling benefits to the U. S. economy:
+
+   * Creates tens of thousands of new long-term aerospace engineering and
+     manufacturing jobs across the country
+   * Sustains vital U. S. defense technology base
+   * Increases revenue returns to the U. S. Treasury [~$441 million per
+     year]
+   * Enhances U. S. military capabilities, both global and domestic
+   * Improves U. S. national security, productivity and economy
+   * Decreases U. S. airline flight delays, diversions, revenue losses;
+     enhances flight safety
+   * Extends U. S. airport runway accessibility, capacity and throughput -
+     without infrastructure investment
+   * Expands U. S. airline passenger productivity [$700-800 million per
+     year]
+   * Increases U. S. airline revenues  
+   * Improves U. S. airline passenger satisfaction and global
+     competitiveness
+
+The Technology
+
+Our technical objective is to demonstrate a prototype system that will meet
+FAA and DoD approval for operations in low-visibility conditions within 2
+years. This will be accomplished through test flights within 18-24 months.
+The ALG system is a spin-off and integration of existing defense
+technologies: a Global Positioning System (GPS) to arrive at decision
+heights, a proven Millimeter Wave Imaging Radar (MMWR) to see through clouds
+and fog, and a Forward-Looking Infrared (FLIR) System to augment landing,
+takeoff and ground operations in low-visibility conditions.
+
+Aircraft approaches the runway using onboard navigation. The pilot makes a
+landing decision by seeing the runway, landmarks and other objects on the
+head-up display, which overlays his actual window view. ALG sensors have
+demonstrated the ability to image the runway from sufficient altitudes to
+continue landing even in the densest fog. The pilot can see the runway, and
+thus continues the approach to landing. Low-visibility takeoffs are also
+facilitated by ALG. This system would allow military and commercial pilots
+the ability to operate and to avoid runway incursions in low-visibility
+conditions.
+
+Options for Commercialization
+
+The ALG Alliance Business Plan is a three-step effort to continue ALG
+development through the Alliance's commitment of resources and bring ALG to
+the marketplace within 3 years through continued industry investment,
+customer interest, and TRP funding for the first 5 years of development.
+
+This technology will give U. S. suppliers a definitive edge in the
+marketplace, but the beleaguered U. S. aerospace, defense, and airline
+industries do not have the funds to spin it off at this critical time. It
+must be a national priority to protect the U. S. technology lead and
+development investment in this vital field.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

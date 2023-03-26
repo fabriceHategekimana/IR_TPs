@@ -1,0 +1,83 @@
+ 
+
+A Software Development Process for the 21st Century
+
+ASTER is a software development environment that supports the next
+generation of software development processes. It offers automatic
+transformation of engineering specifications into source code and associated
+documentation. Application maintenance is done by maintaining the
+specification-not the code. This eliminates the duplicated effort of
+maintaining (and verifying) separate specifications, source code, and
+documentation for the various steps of traditional software development. And
+it lets you reuse specifications, not just code.
+
+Potential Commercial Uses
+
+ASTER can be used to develop real-time software components for embedded
+systems that implement guidance algorithms, mission planning algorithms or
+control systems in these application domains:
+
+   * Avionics/Aerospace
+   * Automotive
+   * High Speed Rail
+   * Robotics
+   * Factory Automation
+   * Biomedical Instrumentation
+   * Consumer Electronics
+   * Power Systems
+   * Communications
+   * Environmental Controls
+   * Multimodal Transportation
+
+ 
+Sample design using ASTER
+
+Benefits
+
+ASTER increases a software development team's capability to produce complex
+real-time systems.
+
+   * ASTER enables shared development, minimizing the delays and errors that
+     arise from "hand-off" from one team to the next, and increases parallel
+     development.
+   * ASTER improves a team's overall capability by enabling knowledge
+     sharing across the entire team.
+   * ASTER increases project management effectiveness by providing
+     electronic access to all work products, which permits automatic tools
+     to measure progress and collect data.
+   * ASTER facilitates reuse of designs, not just code.
+
+The Technology
+
+Over the past ten years researchers at The Charles Stark Draper Laboratory
+have been developing a software development environment to address many of
+the problems the Defense and Aerospace industries have encountered when
+building complex real-time software. Draper staff discovered at that time
+what many are now calling "business process re-engineering." With the
+support of NASA's Langley Research Center, they found that by automating
+much of the software development process, errors could be eliminated and
+productivity could be dramatically improved. Later, they discovered the
+important advantages of making all work products available from a central
+database-another of the central principles of business process
+re-engineering.
+
+The ASTER software development environment is implemented using advanced
+object-oriented technology. It is extensible, readily maintainable, and
+adaptable, having already survived the dynamic environment of desktop
+computing during this past decade. It now runs on SPARC based machines of
+SUN Microsystems. It is compatible with UNIX and X-Windows, and, with a
+reasonable effort, it could be ported to other standard desktop machines.
+
+Options for Commercialization
+
+NASA and Draper Laboratory are seeking an industrial organization to produce
+commercial software development environments based on ASTER technology and
+concepts. The Northeast Regional Technology Transfer Center (NASA CTC) has
+undertaken to place this technology in the hands of suitable licensees.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

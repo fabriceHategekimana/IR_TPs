@@ -1,0 +1,73 @@
+ 
+
+Ignitability Test Method
+
+This method provides a new approach for determining the ability of
+initiators (such as primers for munitions) to ignite combustible material
+(such as gunpowder), as well as for determining the ignition sensitivity of
+combustible material.
+
+Potential Commercial Uses
+
+   * For initiators and combustible materials
+        o Quality control
+        o Design
+        o Service life evaluations
+   * Design of gas generators
+   * Design of munitions
+   * Establish safety criteria
+   * Performance standard
+
+ 
+Cross sectional view of NASA Ignitability Test Method
+
+Benefits
+
+   * Measures total output of initiators, rather than components (heat,
+     light, gas, and burning particles)
+   * Measures material ignition sensitivity to typical initiators
+   * Can duplicate actual ignition on interfaces
+   * Reusable
+   * Highly reproducible
+   * Less expensive than testing materials in application (firing a gun)
+   * Provides performance standard among user agencies
+
+ 
+Definition of parameters used for Ignitability Test Method
+
+The Technology
+
+This test method provides an ability to: 1) measure the output of
+initiators, such as percussion primers, and 2) measure the sensitivity of
+materials to be ignited. The principal of this apparatus, in measuring the
+output of initiators, is to fire an initiator onto a bed of combustible
+material, such as black powder, and measure the rate at which the material
+burns. This rate of burning is measured by the material pressurizing a
+closed volume. The test is repeated with a different initiator and the
+results are compared to establish relative performance. In measuring the
+ignition sensitivity of materials, a highly reproducible initiator is fired
+onto different types of materials, measuring the rate at which the material
+ignites and burns to establish relative performance.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products,
+using this test method. This method was developed for the evaluation of
+percussion primers used in aircraft escape systems. Later, joint studies
+were conducted with the U.S. Army, Picatinny Arsenal on applying this method
+to evaluate the performance of both percussion and electrical primers for
+munitions. Also, several batches of gun propellants for two different
+caliber munitions were evaluated. NASA holds a patent on this method and
+apparatus, which is available for licensing.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to pro actively involve the private sector
+in NASA's research programs to ensure that the technology developed will
+have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

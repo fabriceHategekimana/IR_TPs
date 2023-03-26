@@ -1,0 +1,72 @@
+ 
+
+Institutional Information Management Using GIS
+
+A Geographic Information System (GIS) is a computer database management
+system. GIS software generates computer maps and links data stored in
+electronic databases or Management Information Systems (MIS) to these maps.
+Data which can be linked to the maps includes building floor plans,
+personnel information, utilities, land use categories, vegetation, images,
+and other information which is associated with particular points on a map or
+drawing.
+
+Potential Commercial Uses
+
+   * Manage natural resources
+   * Land usage and reclamation efforts
+   * Analyze environmental impacts and project profits and costs
+   * Plan roads, subdivisions, utility routes
+   * Assess property taxes
+   * "Enhanced 911" service
+   * Plan expansion, schedule maintenance, analyze energy usage
+
+Benefits
+
+   * Tasks completed 80% more efficiently within the Federal government
+     (USGS study)
+   * Eliminate redundant databases
+   * Quality improvement
+   * "What-if" analysis capability
+   * New products with same staff
+
+The Technology
+
+A GIS system consists of computer workstation(s), GIS software, CADD
+(Computer Aided Design/Drafting) drawings (maps, utilities, buildings, etc),
+raster photographs, scanned documents, and electronic databases. The
+particular hardware/software combination selected depends on budget, project
+type and scale, and user community. The databases can be in several existing
+formats which support SQL; most GIS packages read data using this language.
+Other databases can be read in as text. Drawings can be in many different
+formats, as long as they can be read out in a compatible exchange format
+such as DXF or IGES. The types of data required for the GIS are dependent on
+the desired application, and can be added as the system grows. A GIS package
+provides the tools to develop specific interfaces to develop particular
+applications. These interfaces are developed by one or more specialists; the
+general users should need no extensive training to operate the system.
+
+NASA Langley has developed several prototype GIS applications:
+
+   * Display of the entire underground utilities database overlayed on an
+     aerial photo of the center
+   * Building and room usage by organization and type of activity
+   * LaRC Master Plan, a Center overview with maps and narratives
+   * Environmental storm and sanitary drain analysis
+   * Safety emergency response system to give firefighters comprehensive
+     information about a facility in event of a fire or other hazardous
+     event
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. Langley Research Center will entertain partnering
+relationships with industry, Federal and local agencies to develop and
+advance GIS technology.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

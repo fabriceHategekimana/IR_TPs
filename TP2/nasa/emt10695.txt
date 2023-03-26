@@ -1,0 +1,97 @@
+ 
+
+Surface Modeling and Grid Generation Software Tools
+GEOLAB
+
+Software tools developed at NASA Langley Research Center decrease the
+bottleneck in surface modeling and grid generation required for numerical
+analyses. These tools aid in the rapid creation of surface models for
+conceptual design, the production of computational grids using structured
+and unstructured techniques, and evaluation and assurance of grid quality.
+As a result, analysis can be made timely and cost effective for design.
+
+ 
+A multiblock structured volume grid generated in CSCMDO
+
+ 
+An unstructured grid and surface generated using GridTool and VGRID
+
+Potential Commercial Uses
+
+   * Design of transportation vehicles such as aircraft, automobiles,
+     trucks, buses, ships, submarines
+   * Design of turbomachinery and pumps
+   * Analysis of flow through pipes and ducts
+   * Design of internal combustion engines
+   * Heat transfer analysis and design of heat exchangers
+   * Structural analyses using finite element methods
+   * Electromagnetic applications
+   * Biomedical applications such as design of prosthetics and anatomical
+     systems modeling
+   * Analysis of manufacturing processes
+   * Integration of analysis into CAD tools
+
+Benefits
+
+   * Fast and convenient generation of grids around complex configurations
+   * Increased accuracy in computational grids and analysis
+   * Usable by nonexperts
+   * Minimal training required
+   * Applicable to a wide variety of 2- and 3-D configurations
+   * More design alternatives can be evaluated due to shorter design cycle
+     turnaround
+
+The Technology
+
+Production of accurate surface representations and grids in the past has
+required large amounts of time and considerable training in the tools and
+techniques involved. The software tools outlined below are semiautomated and
+emphasize ease of use.
+
+SurfACe is an interactive tool for the visualization and analysis of surface
+grid data. Ten surface quality variables can be calculated and displayed in
+color to highlight subtle grid features that may lead to inaccurate analysis
+results.
+
+GridTool bridges the gap between CAD systems and standard grid generators
+that require point sets for surface definitions. GridTool reads surface
+patches or points as input, neglecting overlaps in the data, and projects
+user specified point distributions onto the geometry. GridTool has been
+especially useful in producing initial unstructured background grids for the
+volume unstructured grid generator VGRID.
+
+VGRID is an unstructured volume grid generator based on advancing front and
+advancing layer methods. It produces triangular and tetrahedral unstructured
+grids suitable for both inviscid and viscous flow computations. The
+animation and computer graphic capability of VGRID enables users to
+conveniently generate and debug grids on workstations.
+
+CSCMDO is a multiblock structured volume grid generator. It is designed to
+run either in a stand alone-mode or embedded in a design optimization loop.
+Changes in geometry shapes driven by processes to optimize performance
+require corresponding changes in the numerical grids. New volume grids can
+be calculated in seconds using CSCMDO to respond to the shapes imposed at
+each cycle of the loop.
+
+RAPID is a program designed for rapid airplane prototyping. The engineering
+design parameters defining an airplane are easily varied to provide a fast
+method to create a family of airplane configurations, grids, and grid
+sensitivities for conceptual design studies. This program can be customized
+to produce surfaces that are characteristic of other types of machines or
+objects.
+
+Options for Commercialization
+
+The surface modeling and grid generation software tools described can be
+used as stand- alone tools that supplement existing applications or can be
+embedded in other codes. NASA is actively seeking new users and applications
+for this technology. Contingent to NASA software distribution policies, the
+software can be made available to interested parties. Training and examples
+related to potential user interests can be provided upon request.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

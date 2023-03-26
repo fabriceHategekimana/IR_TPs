@@ -1,0 +1,73 @@
+ 
+
+High-Speed, Fiber Optic Flame Detection System
+
+NASA seeks to transfer into the commercial sector NASA-developed technology
+for the development of a high speed flame detection system capable of
+sustained operation in a high pressure combustion chamber. This device,
+developed at NASA's Langley Research Center, offers an opportunity for the
+development of a fast responding, optical based, flame sensing system for
+commercial applications. NASA seeks a commercial partner to work
+cooperatively with NASA experts to develop commercial applications for this
+device. Commercial licenses are available.
+
+Potential Commercial Uses
+
+   * Flame detection system for furnaces, burners, and free-standing flames
+   * Pilot light detector
+   * Welding flame sensor
+   * Any UV sensing application where optical access poses a problem
+
+Benefits
+
+   * Able to survive pressures up to 4000 psi
+   * -100 deg. F to 750 deg. F operating range for the optical probes
+   * Less than 10 millisecond system response time
+   * Optical probes enable optical sensing in applications where direct line
+     of sight is not possible
+
+The Technology
+
+A need existed for a fast responding flame detection system to monitor the
+main combustor flame at NASA Langley Research Center's 8-Ft. High
+Temperature Tunnel (8-Ft. HTT). Computer models of a combustor flameout
+suggested that current flame detection systems would respond too slowly in
+detecting an unplanned combustor flameout during tunnel operation. A fast
+responding flame detection system would prevent excessive quantities of
+additional fuel from entering the combustor after the main flame has gone
+out. If the mixture did re-ignite, the resulting theoretical pressure pulse
+would not exceed the design limits of the combustor. In addition, it would
+not be possible to make any additional perforations in the combustion
+chamber liner to view the main flame since this would seriously compromise
+the structural integrity of the chamber.
+
+The optical flameout detection system (OFDS) developed for this facility
+monitors light energy in discrete spectral bands (200-600 nanometers) with
+two independent electro-optical detectors. The detectors and their necessary
+electronics are located within a sealed enclosure outside the combustor.
+Light energy from the combustion process is optically coupled to the
+detectors through a pair of 20 ft. long, 0.0625 inch dia. fiber optic
+probes. These probes are optimized to detect the hydroxide emission line @
+312 nanometers from the oxidizing methane fuel. They are comprised of a
+single, fused silica core optical fiber enhanced for transmission in the UV
+portion of the spectrum.
+
+Selection of the sensor electronics and logic circuitry were made to
+optimize the OFDS for fast response. Calibration tests of the OFDS in the
+laboratory to a simulated flameout determined that the response time of the
+system from detection to relay closure is under 10 milliseconds.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate the development of commercial applications
+from NASA developed technology. The Langley Research Center seeks a
+commercial partner to license the technology and develop commercial
+applications.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

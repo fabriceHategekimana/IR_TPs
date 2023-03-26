@@ -1,0 +1,92 @@
+ 
+
+Assessment of Electromagnetic Interference on Digital Control Computers
+
+An assessment process is under development at NASA Langley Research Center
+for determining the effects of electromagnetic interference (EMI) on digital
+control computers. The EMI assessment process includes upset detection and
+performance monitoring for closed-loop dynamic testing, and electromagnetic
+field modeling. A laboratory facility at NASA Langley is used for performing
+EMI upset tests.
+
+Potential Commercial Uses
+
+EMI Upset Assessment of:
+
+   * Multi-processor Computers
+   * Fault Tolerant Control Computers For Critical Applications
+   * Control Computers For Automotive Applications
+   * Control Computers For Passenger Transportation Vehicles (Trains, Buses,
+     Etc.)
+   * Control Computers For Medical Applications
+   * Processor-based Implantable Medical Devices
+   * Control Computers For Nuclear Power Plants
+
+ 
+Quad-redundant controller on loan from Allied Signal Bendix under Space Act
+Agreement Executes b737 Autoland during closed-loop tests
+
+ 
+The controller under test is exposed to EMI in the test chamber
+
+ 
+The laboratory facility consists of 3 reverberation chambers of various
+sizes, a control room, and a high-power amplifier room
+
+Benefits
+
+   * EMI testing using closed-loop dynamics versus static open-loop testing
+   * EMI testing over the entire operating regime of a system rather than
+     static operating points
+   * Dynamic upset detection based on system- level performance requirements
+   * Modeling techniques for electromagnetic field mapping can be used in
+     place of expensive testing
+   * The Langley test facility enables higher power fields from lower power
+     signal sources.
+
+ 
+Electromagnetic field modeling is used for field mapping inside the test
+chambers
+
+The Technology
+
+Control computers are typically assessed for electromagnetic interference
+(EMI) through open-loop testing at static operating points. Thus, the
+dynamic closed-loop performance of the controller over the entire operating
+regime is not assessed for EMI susceptibility during these tests.
+
+The EMI assessment process being developed at NASA Langley Research Center
+enables dynamic closed-loop testing over the entire operating regime of the
+system. The assessment process can be applied to fault tolerant control
+computers with multiple processors, and is illustrated below for a flight
+control computer. The figure shows a fault tolerant controller with N
+processors contained inside the EMI test chamber. The controller is
+interfaced to a simulation of an aircraft. During testing, closed-loop
+dynamics are simulated over the flight envelope of interest. Electrical
+isolation of electromagnetic disturbances inside the EMI test chamber is
+achieved using fiber optics. Broken lines in the figure indicate fiber optic
+signaling. Outputs from the simulation of the aircraft are input to the
+control law calculation malfunction (CLCM) detector, as well as to each
+processor in the fault tolerant controller. Command calculations output from
+the controller are input into both the aircraft simulation and CLCM
+detector. The CLCM detector determines whether or not upset has occurred.
+The upset decision from the CLCM detector can be used to signal an upset
+alarm, to trigger the storage of upset data, or to initiate an upset
+recovery process.
+
+Options for Commercialization
+
+This technology development opportunity is part of the NASA Technology
+Transfer Program. The objective of this program is to actively involve the
+private sector in NASA's programs to ensure that the technology developed
+will have maximum commercial impact. The assessment process for
+electromagnetic interference on control computers is under development at
+NASA Langley Research Center. Suitability of this technology to specific
+needs can be investigated at Langley.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

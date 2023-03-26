@@ -1,0 +1,70 @@
+ 
+
+Blind Fastening Technique
+
+Blind-Anchor-Nut-Installation-Fixture (BANIF)
+
+The "Blind-Anchor-Nut-Installation-Fixture" (BANIF) was developed
+specifically for the purpose of replacing or installing anchor nuts in blind
+holes or other inaccessible places. Attachment of an anchor nut to the BANIF
+enables placement of the anchor nut on the blind side of a component.
+Previous methods required disassembly or remanufacturing of the component to
+achieve the same results.
+
+ 
+The BANIF Tool
+
+Potential Commercial Uses
+
+   * Sheet metal manufacturing and repair
+   * Automotive bodywork
+   * Aircraft skin attachment and repair
+   * Boat repair
+   * Repair of space hardware
+   * Inexpensive maintenance and repair of transportation systems
+
+ 
+
+Benefits
+
+   * Inexpensive
+   * Easy to use
+   * Allows the use of fasteners in inaccessible locations
+   * Eliminates the need for disassembly or remanufacturing of parts to be
+     repaired
+   * Quick and simple
+
+The Technology
+
+The Blind-Anchor-Nut-Installation-Fixture (BANIF) is a NASA invention which
+enables the user to install an anchor nut on the blind side of a component.
+First, a clearance hole for the bolt to be anchored is drilled into the
+component. An anchor-nut drill fixture is placed in the clearance hole, and
+one of two rivet holes is drilled. The fixture is then rotated 180 degrees,
+and the second rivet hole is drilled. Next, the anchor-nut ear is fed into
+the clearance hole, using the BANIF, and the entire anchor-nut assembly is
+passed through to the blind side. The BANIF is put into tension to pull the
+anchor-nut to the blind surface, and the anchor-nut ears are aligned with
+the rivet holes. Flush rivets are then placed in the rivet holes, on the
+accessible side, and the BANIF is removed.
+
+ 
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on the BANIF invention. NASA was issued a U.S. patent entitled "Blind
+Fastening Apparatus," (# 5,197,839), and welcomes inquiries regarding
+possible licensing of this technology.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's research programs to ensure that the technology developed will
+have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

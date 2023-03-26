@@ -1,0 +1,61 @@
+ 
+
+Vacuum-Bake Ultra Cleaning and Certification of Hardware
+
+Ultra cleaning by customized high-vacuum baking of hardware can remove
+molecular residues and solvents left by manufacturing and cleaning
+processes. The basic techniques for real time evaluation of the cleaning
+process and identification of light organic compounds are well established.
+Refinements in measurements and analyses requirements are continuing to be
+developed.
+
+Potential Commercial Uses
+
+   * Scientific Instruments
+   * Food and Drug Processing
+   * Immune Deficiency Medical Rooms
+   * Clean Rooms
+   * Leak Detection
+
+Benefits
+
+   * Cleaner Surfaces
+   * Increased Measurement Accuracy
+
+ 
+Vacuum-Bake Cleaning Facility
+
+The Technology
+
+Noxious fumes and odors from plastizers and cleaning solvents are often
+associated with new equipment. The vacuum-bake process can be applied to a
+wide variety of hardware where molecular contamination and residues are of
+concern and to hardware not suitable to solvent cleaning. Molecules of oils
+and cleaning solvent are readily released (outgassed) from hardware under
+high vacuum. Heating increases this outgassing. The molecules will become
+trapped on a very cold (<-100 degree F) surface and can be later weighed and
+analyzed for chemical composition. Trapping of the outgassed residues on
+cooled scavenger plates or refrigerated cold traps for gravimetric
+(quantitative) analysis and infrared spectroscopy (qualitative) analysis is
+an important part of the ultra cleaning. Refinements in measurements,
+analyses and in customizing the vacuum bake parameters to meet cleanliness
+requirements are continuing. For example, enclosing the test article with
+the scavenger plate in the vacuum chamber increases the collection of
+outgassed compounds and increases the measurement accuracy.
+
+Options for Commercialization
+
+NASA seeks to disseminate information to industry for the commercial
+development of products and processes based on Vacuum-Bake Ultracleaning and
+Certification technology. This technology is not patent protected by NASA.
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

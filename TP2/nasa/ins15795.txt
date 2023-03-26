@@ -1,0 +1,70 @@
+ 
+
+Miniature Electronic Temperature Controller
+
+A miniature electronic temperature controller was developed at NASA Langley
+Research Center to provide a constant temperature environment for
+transducers and electronics in the flaps and slats of a Boeing 737 aircraft.
+New packaging technology has allowed NASA Langley to build a miniature
+controller that can be mounted almost anywhere. The controller also provides
+a temperature monitor signal allowing the user to verify the equipment is
+controlled at the selected temperature.
+
+ 
+Miniature Electronic Temperature Controller
+
+ 
+Controller Installed on Pressure Array System
+
+Potential Commercial Uses
+
+   * Temperature sensitive electronics and transducers
+   * Limited volume applications
+   * Aviation and industrial applications
+   * Automatic temperature control in unmanned sites
+   * Laboratory or medical uses where precise temperature control is a
+     requirement
+
+Benefits
+
+   * Improves measurement accuracy
+   * Allows use of commercial grade sensors versus more expensive MIL-STD
+     units
+   * Simplifies data reduction
+   * Provides temperature monitoring capability.
+
+The Technology
+
+This miniature control system provides a stable temperature environment
+using a single printed circuit board 38.1mm x 31.75mm x 6.35mm. This is
+accomplished using surface-mounted components powered by an integral series
+regulator which provides 5V DC for the electronics. The primary power for
+the heater is 28V DC but the system can be easily modified to operate at
+other voltages. A comparator circuit maintains the set-point accuracy of the
+system to +/-1 deg. F. The set-point of the system is programmable. The
+possibility of transient electronic interference signals is avoided by the
+use of a "soft" turn-on/turn-off circuit. A buffer amplifier provides an
+output temperature signal for monitoring purposes. A resistance temperature
+detector (RTD) is used to sense the temperature at the point of measurement.
+Maximum heater control current is 5 amps. The controller has been thermally
+tested from -40 deg. F to 140 deg. F and at vibration levels of 8g sine from
+5Hz to 2000Hz, 30 minutes per axis. These controllers are currently flying
+on NASA B-737, OV-10 and F-18 aircraft.
+
+Options for Commercialization
+
+NASA seeks to disseminate information to industry for the commercial
+development of products based on miniature electronic temperature controller
+technology. This technology is not patent protected by NASA.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

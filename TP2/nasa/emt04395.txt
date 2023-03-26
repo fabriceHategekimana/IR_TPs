@@ -1,0 +1,74 @@
+ 
+
+Interface Technology for Finite Element Models
+
+A new method for connecting finite element models has been developed. This
+method, called Interface Technology, is an improved technique for joining
+multiple, dissimilar meshed models to form a single finite element model.
+Compared with conventional transition modeling techniques, this new method
+will allow designers to create models for structural analysis faster and
+more easily, and the computer simulations will be more accurate.
+
+Potential Commercial Uses
+
+   * Finite Element Analysis Software
+   * CAD/CAE software
+
+Benefits
+
+   * Performance: Method reduces complexity of finite element modeling
+     process and increases accuracy of analysis
+   * Key Features: Adaptable to general purpose finite element structural
+     analysis codes
+   * Construction: Programmed in machine independent FORTRAN and
+     demonstrated on numerous computer platforms
+
+The Technology
+
+Reliable predictions of detailed stress states are needed during the design
+of almost any structure to understand and predict the behavior and failure
+mechanisms of such structures. While the finite element method can provide
+accurate detailed stress predictions of structures with complex geometry,
+fine mesh discretizations of the structures are needed in the vicinity of a
+stress or strain concentration. The resulting finite element models
+generally contain both fine and coarse finite element meshes. Obtaining fine
+finite element meshes in certain regions and coarse meshes in other regions
+usually requires transition modeling that is tedious, costly, and time
+consuming. In addition, the transition modeling usually results in distorted
+elements throughout the transition region which introduces errors in the
+analysis. The Interface Technology method does not require nodal
+compatibility on substructure boundaries; therefore, the required fine mesh
+can be created and used without resorting to complex mesh transitioning.
+This technology allows detailed, independently created, component models and
+other models such as repair models, to be easily inserted into global models
+for analysis.
+
+For the engineer who is applying this interface technology, the models of
+the substructures can be developed in the usual manner (e.g., with PATRAN).
+The data that describes how the substructures are connected is the only
+additional information necessary. This ease of modeling along with the
+capability to easily integrate sub-models within a complex structure
+provides a significant benefit over other known methodologies for this type
+analysis. Results using this method have been demonstrated and validated
+using the NASA Computational Mechanics Testbed (COMET) code.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products or
+extensions to existing commercial products based on the Interface
+Technology. The MacNeal-Schwendler Corporation, through a Cooperative
+Research Agreement (CRA) has been granted nonexclusive cooperative research
+rights to develop and market a module for MSC/NASTRAN which will utilize the
+Interface Technology. The terms of this CRA, however, allow for additional
+commercialization of this technology.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to ensure that the technology
+developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

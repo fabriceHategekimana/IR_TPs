@@ -1,0 +1,94 @@
+ 
+
+Data Visualization Tools and Techniques
+
+The Data Visualization and Animation Lab at NASA Langley has developed two
+software tools to supplement environments which use video cameras and light
+sheets to visualize dynamic phenomena. The first tool, ILLUME, is used to
+analyze potential camera and light sheet positions well in advance of any
+hardware installation. The second tool, MAPPER, uses knowledge of camera
+position and scene geometry to project 2-D images into 3-D space.
+
+ 
+Comparison of light sheet images and CFD
+
+ 
+Analysis of camera position on an aircraft
+
+Potential Commercial Uses
+
+   * analysis of flow visualization images acquired from experiments on
+     models of aircraft, automobiles, submarines, etc.
+   * analysis of on-surface flow visualization images produced using tufts,
+     oils, paints, or liquid crystals
+   * analysis of off-surface flow visualization images produced by rotating
+     or translating laser light sheets
+   * analysis of optimal camera position and orientation in environments
+     such as surveillance areas, filming studios, robotic facilities, and
+     tele-operated systems
+   * an enhancement to existing scientific visualization software packages
+
+Benefits
+
+   * allows experimental flow visualization images to be displayed within
+     the same graphics environments commonly used for computational fluid
+     dynamics results
+   * allows experimentally acquired images to be viewed relative to objects
+     which may otherwise not be visible during the experiment
+   * removes the constraint of a single camera point-of-view of a flow
+     visualization experiment
+   * allows an analysis of possible camera positions and orientations
+     without installing physical instrumentation
+
+The Technology
+
+A computer-aided process has been developed at NASA Langley to analyze flow
+visualization images acquired from wind tunnel tests and flight experiments.
+These images are typically produced by applying a substance such as oil,
+paint, or liquid crystals to the surface of the object to be tested. A video
+camera then records the changes which occur to the substance as the object
+interacts with a flowfield. Characteristics of the fluid surrounding the
+object can also be obtained by illuminating the flowfield with a rotating or
+translating sheet of light. The two-dimensional (2-D) video images produced
+using these techniques provide valuable insight into the behavior of the
+flowfield around an object, but a computer-aided process is often required
+in order to extract quantitative three-dimensional (3-D) data.
+
+The computer-aided process integrates digital image processing and computer
+graphics concepts with a mathematical model for image reconstruction. The
+software, known as MAPPER, uses knowledge of camera, light sheet, and object
+locations to project 2-D images into 3-D space. A scientific visualization
+package is then used to display the reconstructed images from any viewpoint
+with respect to a geometric representation of the object under study.
+Flowfield features such as vortex core paths can be extracted and displayed
+simultaneously. This technique significantly enhances the capability to
+compare flight versus wind tunnel data and experimental data versus
+computational fluid dynamics solutions.
+
+Proper placement of cameras and/or light sheets is crucial to the success of
+flow visualization experiments, and this process has been made simpler
+through the development of an additional software tool known as ILLUME. The
+Interactive Lightsheet Locator Utility and Modeling Environment allows the
+user to test potential camera and light sheet positions graphically to
+ensure that all regions of interest are illuminated and made visible to
+recording cameras throughout a range of testing conditions. This software
+can be utilized well in advance of an actual experiment.
+
+Options for Commercialization
+
+NASA seeks industry partners to use, evaluate, and potentially commercialize
+products based upon the ILLUME and MAPPER software. Instructions for
+obtaining the code can be accessed from the NASA Langley Software Server:
+http://www.larc.nasa.gov/LSS
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

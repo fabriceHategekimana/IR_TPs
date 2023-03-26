@@ -1,0 +1,44 @@
+ 
+
+Molecular Flow Imaging: Rayleigh Scattering
+
+It is now possible to obtain planar Rayleigh scattering data in Mach 6 flow
+fields. This is due to the rapid technology advances in high power pulsed
+excimer lasers, gated single intensified charge-couple device (CCD) cameras,
+and fast frame grabbers. Because very short laser pulses (20 nanoseconds)
+are used, the flow will be essentially frozen for each data acquisition
+cycle. This allows snap-shots of the flow field to be taken. These
+snap-shots can then reveal the extent of the unsteadiness in the flow field.
+It is also possible to average these snap-shots and obtain a mean
+quantitative density map of the flow field.
+
+Benefits
+
+   * Multipoint, nonintrusive flow diagnostic technique
+   * High resolution
+   * Requires no seeding of the flow
+   * Signal is linearly dependent on the density of molecules
+   * The flow is essentially frozen during each laser shot Potential
+     commercial uses
+   * The system can be used to visualize flows in the boundary layer
+   * The system can be used to locate shock waves
+   * It can provide a measure of unsteadiness in the flow field
+
+ 
+Schematic drawing of the experimental setup in 15-inch, Mach 6 high
+temperature tunnel
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on molecular flow imaging technology. This commercial opportunity is
+part of the NASA Technology Transfer Program. The objective of this program
+is to proactively involve the private sector in NASA's programs to ensure
+that the technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

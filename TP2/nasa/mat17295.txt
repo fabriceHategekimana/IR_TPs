@@ -1,0 +1,85 @@
+ 
+
+Near Net Forming Aluminum-Lithium Alloys
+
+The combination of aluminum-lithium (Al-Li) alloys and near net shape
+forming enables the fabrication of low cost, lightweight products for
+structural applications. Al-Li alloys have higher strength and stiffness and
+lower weight than non-lithium aluminum alloys. These materials have good
+formability, are weldable, and can achieve maximum strength in as formed
+parts. Near net forming methods reduce final product costs by reducing
+material scrap, reducing part counts and requiring fewer manufacturing
+steps. A single piece, stiffened part can be formed to provide a higher
+strength, lower cost alternative to assembled structures.
+
+ 
+Al-Li Technology for Low Cost Commercial Launch Vehicles
+
+Potential Commercial Uses
+
+   * High stiffness, lightweight structures
+   * Automotive applications (frame and chassis components)
+   * Cryogenic storage tanks (Liquefied natural gas, liquefied fuels)
+   * High performance sporting equipment (tennis racket frames, bicycle
+     frames)
+   * Lightweight aircraft structures (floor panels, cargo bay decks, wing
+     structures)
+
+Benefits
+
+   * Higher strength and lower weight than non-lithium aluminum alloys
+   * Maximum strength achieved in net formed parts
+   * Material is easily formed and is weldable
+   * Al-Li alloys have excellent cryogenic properties
+   * Reduced material scrap through minimal machining
+   * Reduced manufacturing steps and part counts
+   * Reduced final structure costs
+
+The Technology
+
+NASA is working with an international industry team to further develop near
+net shape forming methods for aluminum-lithium (Al-Li) alloys. The processes
+under development include near net extrusion, roll forging, and spin
+forming. The alloys being formed include both US and Russian Al-Li alloys.
+NASA's goal is to reduce the cost of putting payloads into orbit by reducing
+launch vehicle weight.
+
+Aluminum-lithium alloys offer strength, stiffness, and weight benefits over
+conventional non-lithium aluminum alloys. Al-Li alloys are easily formed,
+are weldable, and have excellent cryogenic properties. Net formed parts can
+be heat treated to maximum strength. Al-Li alloys are more expensive than
+non-lithium aluminum alloys, but they can be cost effective replacements
+when near net forming methods are used.
+
+Near net forming methods allow integral formation of stiffening elements
+during fabrication of parts, reducing the amount of scrap material generated
+when compared with conventional machining methods. Replacement of multi-part
+structures assembled by welding or riveting with the single piece,
+integrally stiffened structure lowers final product costs by eliminating
+fasteners, reducing the number of parts, and requiring fewer manufacturing
+steps.
+
+Current domestic near net extrusion capabilities can produce stiffened
+panels 9 ft wide by 35 ft long with integral longitudinal stiffeners. In
+launch vehicle structures, the panels eliminate the need for costly
+machining from thick plate or the need for multi-part built up structures.
+In aircraft applications, near net extruded panels may eliminate riveted
+skin stringer aircraft construction.
+
+Current roll forging capabilities can produce integrally stiffened sections
+up to 10 feet in diameter. Stiffener elements can be complex in shape and
+can be formed simultaneously on both the inner and outer diameter surfaces.
+
+Options for Commercialization
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+the maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

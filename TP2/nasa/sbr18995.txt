@@ -1,0 +1,100 @@
+ 
+
+Advanced Engine Management and Predictive Analysis System
+
+Vision Micro Design Inc. is developing an innovative general aviation
+cockpit Engine Management and Predictive Analysis System (EMPAS) capable of
+providing detailed information on current engine status and prediction of
+future engine status including potential engine failure.
+
+The EMPAS system will utilize a form of predictive artificial intelligence
+to advise the pilot and suggest possible corrective action. Strategically
+located sensors in conjunction with sophisticated software will allow the
+prediction of impending engine failure.
+
+This system innovatively integrates newly developed and commercially
+available; software, hardware, sensors and display technologies currently
+produced or under development by Vision Micro Design Inc. The use of these
+commercially available parts promotes the successful commercialization of
+this product.
+
+The commercial potential of EMPAS is in providing the General Aviation
+industry with a cost effective engine monitoring system heretofore only
+available, in part, to the airline industry. This technology is usable at
+all levels of General Aviation, from the kit plane industry up the business
+class twin engine aircraft.
+
+Potential Commercial Uses
+
+   * General aviation aircraft - Single engine, multi-engine, OEM, new and
+     after market sales
+   * Maritime - Cruise ships, tugs, motor yachts, freighters
+   * Commercial vehicles - Delivery vehicles, taxies, buses, any revenue
+     producing vehicle
+   * Military vehicles - Tanks, auxiliary power units, diesel generators
+
+ 
+VM1000 Engine management system
+
+Benefits
+
+   * Higher operational efficiency - Better information means better
+     efficiency
+   * Higher engine reliability - Warning systems avoid operator abuse of the
+     engine
+   * Better utilization - Lower downtime resulting from a careful engine
+     operated engine
+   * Lower maintenance costs - Reduced engine wear and abuse means lower
+     total operating costs
+
+The Technology
+
+Microprocessor Electronics - Advanced microprocessors allow the design of
+'smart systems' capable of analyzing large amounts of information extremely
+fast. Automated decisions can then be made about the monitored engine health
+and the pilot can be informed accordingly. Because of the increased
+performance per dollar of today's microprocessor, this technology
+application results in an affordable commercial product that has immediate
+benefits to the general public.
+
+Digital Signal Processing - Digital Signal Processing is the science of
+capturing and processing an analog signal (one that has an infinite number
+of possible voltages, as opposed to digital usually having only two voltage
+levels) by using high speed digital sample and hold electronics. These
+technologies are now very affordable with extremely high performance and
+quality allowing their application in this system.
+
+Advanced Sensor Systems - Precision sensors for monitoring temperature,
+pressure, vibration, voltage and frequency are utilized to process the
+signals from various areas of the engine. This information is processed by
+the digital electronics and conveyed to the pilot. Sensor technologies
+developed both commercially and at NASA research centers can be utilized to
+fill these requirements.
+
+Options for Commercialization
+
+Vision Micro Designs seeks to commercialize the Engine Management and
+Predictive Analysis System with the General Aviation enthusiast and
+commercial aircraft companies.
+
+This commercialization opportunity has been facilitated by the NASA
+STTR/SBIR program. These programs provide needed resources to promote
+successful commercialization of a product. Without these programs, products
+such as these would be too expensive and take too long to develop and
+market, and the benefit to the public would be lost.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Lance G. Turk
+Vision Micro Design Inc.
+5501 East Road
+Bellingham, WA 98226
+Phone: 360-398-1833
+Fax: 360-398-1663
+

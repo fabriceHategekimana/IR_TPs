@@ -1,0 +1,77 @@
+ 
+
+The Smart Compass
+
+High Tech, Low Cost Aircraft Heading Reference
+
+A fresh approach to reliable, low-cost heading reference instrumentation for
+general aviation aircraft has been developed. It uses a simplified fluxgate
+magnetometer design in conjunction with microcomputer technology to solve
+the inherent problems of the magnetic compass so that the directional
+gyroscope currently used to circumvent these operational problems may be
+discarded with a resultant reduction in cost and an improvement in
+reliability.
+
+Directional autopilot capabilities can be realized with little added
+complexity.
+
+ 
+Smart Compass schematic
+
+Potential Commercial Uses
+
+   * Experimental Aircraft Association home- builder's aircraft kit
+   * General aviation aircraft instrument
+   * Boats and automobile reference instrument
+   * A heading reference for Remotely Piloted vehicles
+   * The fluxgate portion of the instrument can be used for bore-hole
+     surveys
+   * Study of the fluctuations of the earth's magnetic field
+
+Benefits
+
+   * Ultimate simplicity
+   * Low cost construction
+   * Low power requirements
+   * High accuracy
+   * Multiple applications
+   * Proven utility
+
+The Technology
+
+For many years, the accepted heading reference for general aviation aircraft
+has been the "wet compass" teamed with a directional gyro to circumvent its
+many faults. The compass provides an absolute heading reference, viable only
+during straight-and-level flight, while the DG is a stable secondary
+reference., immune to the effects or rough air and turning errors. The DG is
+relatively expensive, and, due to the high-speed rotor, enjoys an uncertain
+service life. The DG must be reset periodically to correspond to the
+magnetic compass to correct for inherent drift.
+
+Researchers at NASA Langley have developed means for overcoming the
+deficiencies of the magnetic compass, so that the directional gyroscope is
+no longer needed. The Smart Compass utilizes an exceptionally simple
+fluxgate magnetometer, together with a microcontroller chip to calculate and
+display the magnetic heading of the vehicle. The presence of the
+microcontoller allows other useful features to be incorporated at little
+added complexity.
+
+The addition of a solid-state sensor measuring turning rate provides
+compensation for northerly turning error.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on the Smart Compass technology.
+
+This technology development opportunity is part of the NASA Technology
+Transfer Program. The objective of this program is to actively involve the
+private sector in NASA's programs to ensure that the technology developed
+will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

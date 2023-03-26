@@ -1,0 +1,79 @@
+ 
+
+Passive Millimeter Wave Camera
+
+As part of a Technology Reinvestment Project (TRP), TRW and McDonnell
+Douglas are leading a consortium which includes the NASA Langley Research
+Center, that is developing a sensor that will allow a wide variety of
+military and commercial users to overcome the limitations of adverse
+weather. Operating in a region of the electromagnetic spectrum that provides
+significant advantages over imaging radar and infrared, the Passive
+Millimeter Wave Camera (PMMW) projects a tv-like image of the terrain ahead
+under various low visibility conditions. Day or night, users will see
+through fog, clouds, dust, smoke and sandstorms, extending their operational
+limits and avoiding hazards.
+
+ 
+
+Potential Commercial Uses
+
+   * Rule the Weather, Rule the Night. The camera will guide military
+     aircraft during covert autonomous landing and takeoff, in-flight
+     refueling and targeting missions. Armored vehicles will have more
+     freedom to maneuver on foggy, dusty, and smoky battlefields.
+   * On Time, Safely. Socked-in airports will no longer deter commercial
+     airliners and parcel carriers. Ships will navigate foggy harbors and
+     channels. Rescue vehicles will be able to operate in dense fog and
+     smoke.
+
+Benefits
+
+   * Enhanced Industrial Base. Sales projections indicate a market value of
+     $900 million over the next 10 years.
+   * Improved Airline Operations and Safety. It will reduce delays and
+     canceled flights due to adverse weather, increase operational safety by
+     detecting runway obstacles, and result in significant fuel savings and
+     reduced air pollution.
+   * Enhanced Military Operations. It will provide covert navigation and
+     surveillance imaging through fog, smoke, and sandstorms.
+
+The Technology
+
+The camera operates very much like a television camera except that it
+operates at mm-wave frequencies (near 90 GHz) instead of in the visible
+spectrum. It has components analogous to a television camera: optics to
+focus the image, a readout device to convert the electromagnetic energy into
+electrical signals, signal processing electronics to prepare the signals for
+display, and display unit to view the scene. The optical system images the
+blackbody radiation emanating from the scene on the Focal Plane Array (FPA),
+which consists of an array of small antennas, each coupled to a very small
+MMIC W-band (90 GHz) direct-detection receiver. It is this large array of
+independent receiver channels that enables a camera frame rate high enough
+to support the stressing aircraft landing task. Each receiver output is
+processed by electronics on the FPA and the outputs combined into a simple
+digital output stream. The signal processor enhances the detected image and
+conditions it for display. The camera has automatic calibration of the
+sensor. It will be packaged to accommodate all requisite aircraft thermal,
+electrical, and mechanical interfaces.
+
+Options for Commercialization
+
+Commercialization of the PMMW camera will be synchronized to the user
+community's evolving requirement definition. The industry is establishing
+enhanced/synthetic vision system requirement specifications and preparing
+for FAA certification. Participating in that system definition will allow
+the incorporation of the appropriate operational capabilities and interfaces
+in the preproduction prototype camera product. This is compatible with the
+industry's certification effort, scheduled to complete in 3 years.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

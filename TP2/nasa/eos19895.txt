@@ -1,0 +1,89 @@
+ 
+
+High Temperature Strain Gage Accuracy & Reliability To 1500 Degrees F
+
+A high temperature strain gage concept that utilizes one "active" gage
+element and one "compensating" gage element to null undesirable, thermally
+generated outputs has been developed. This gage has had service application
+where it achieved a 97 percent success rate at test temperatures up to 1500
+degrees F. The gage provided an order of magnitude reduction in the unwanted
+spurious signals typically seen when using high temperature strain gages.
+
+ 
+Strain Data with Langley gage at 1200 deg. F
+
+ 
+Metal matrix composite "Heavy loads" joint panel
+
+ 
+Close up view of installed gage
+
+ 
+Gage installed -- ready for thermal blanket
+
+Potential Commercial Uses
+
+   * Automotive engine testing at high temperatures
+   * Automotive exhaust system testing
+   * Aircraft engine static testing at high temperatures
+   * High-temperature testing for nuclear industry
+   * Mechanical properties testing of high temperature composites
+   * Aerospace thermal structures testing
+
+Benefits
+
+   * Data accuracy: This gage reduces "apparent strain" by an order of
+     magnitude, thus greatly improving data accuracy
+   * Reliability: This gage has posted a 97 percent success rate in high
+     temperature tests performed throughout the United States
+   * Key Features:
+        o Gage design enables use on almost any high temperature material
+        o Half-bridge configuration does not require special data system
+        o Lead-wire effects are negligible
+        o Gage is adaptable to a wide variety of test environments (gage is
+          available with wire or foil elements)
+        o Gage can be installed using ceramic cements or flame-spray guns
+
+The Technology
+
+A high temperature strain gage concept has been developed that utilizes a
+half-bridge approach incorporating an active gage in conjunction with a
+compensating gage to greatly reduce the undesirable effects of apparent
+strain on the strain measurement. These two gage elements are wired to form
+adjacent arms of a Wheatstone bridge circuit. Thus, when both gates are
+subjected to temperature excursions, the circuit remains nulled. At the same
+time, when the substrate is mechanically strained, only the active gage
+responds.
+
+In practice, the gage elements are placed on an electrical insulating
+basecoat which is bonded to the surface where strain is to be measured. The
+active gage is then bonded to the basecoat while the compensating element is
+only tack-bonded such that it cannot respond to mechanical strains. Since
+both gage elements are positioned on the same thermal conductor, both should
+change temperature at the same rate during thermal excursions. When
+measuring strain on materials that have a thermal expansion coefficient
+which differs from the active gage element, a length of platinum wire is
+added to the appropriate gage element to minimize the resultant apparent
+strain.
+
+Options for Commercialization
+
+Advanced Hi-Temp Strain Sensors of San Diego, CA has a partially exclusive
+license for manufacturing the gage from BCL alloys. JP Technologies, Inc. of
+Upland, CA has a partially exclusive license for manufacturing the gage from
+Kanthol alloys. Each company has a non-exclusive license for manufacturing
+the gage from other materials (except the other company's alloy). Users are
+encouraged to contact these companies directly regarding sales or
+sublicenses.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

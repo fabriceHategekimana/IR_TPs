@@ -1,0 +1,100 @@
+ 
+
+Optical Fiber Stain Gage Using NASA Polyimides
+
+Fiber & Sensor Technologies (F&S), through a NASA-sponsored SBIR program, is
+developing commercial products based on optical fiber strain gage
+technology. Optical fiber strain gages are being fabricated using
+LaRC(TM)-SI and LaRC(TM)-IA thermoplastic polyimides as protective optical
+fiber coatings as well as high-strength adhesives to bond the gage together
+and to surface-attach the strain gage to various materials. The
+thermoplastic polyimides developed by NASA Langley researchers are tough,
+lightweight, and durable at elevated temperatures (>180 deg. C) and in
+hostile environments that destroy ordinary plastics. Hence, the polyimides
+are well suited as high-temperature protective coatings for silica-based
+(SiO ) optical fibers and optical fiber strain sensors, which themselves
+can operate reliably up to approximately 900 deg. C.
+
+Potential Commercial Uses
+
+   * NDE of High-Temperature Materials
+   * Intelligent Low-Cost Process Monitoring
+   * Characterization of Polymer Composites
+   * Civil Structure Health Monitoring
+   * Pressure Sensing
+   * High-Temperature Dieplacement
+   * Strain Monitoring of Aging Aircraft
+   * Corrosion Sensing
+   * Smart Highway Sensors
+   * Impact Detection and Location
+   * Acoustic Emission Detection
+   * Hydrogen Sensing
+
+Benefits
+
+   * High-temperature strain sensing
+   * Corrosion resistance
+   * Can be embedded
+   * Small size and weight
+   * Very small thermal drift
+   * Real-time digital readout of strain
+   * Immunity to electromagnetic interference
+
+The Technology
+
+Over 100 million electrical strain gages are employed annually for a wide
+range of strain monitoring applications. For many applications, however,
+such as for high-cycle fatigue loading, high-temperature testing,
+measurements in large electromagnetic fields, and for embedded measurements,
+no reliable electrical strain gages currently exist. Fiber & Sensor
+Technologies (F&S) intends to develop a practical, reliable, and
+cost-effective optical fiber strain gage based upon the patented extrinsic
+Fabry-Perot interferometer (EFPI) invented by researchers at Virginia
+Polytechnic Institute and State University (VPI&SU) in 1989. Using
+sophisticated laser-based processing techniques, extremely small strains can
+be measured with the EFPI strain gage.
+
+Polyimide coatings are being applied to the hair-thin optical fibers during
+fabrication using an optical fiber draw tower. During the Phase I SBIR
+program, F&S and VPI&SU will fully characterize the strength, wear
+resistance, and self-bonding properties of polyimide-coated optical fibers
+and optical fiber sensors to determine the feasibility for further research
+development, and commercialization during subsequent program phases.
+
+ 
+The EFPI strain gage is fabricated using high-strength polyimide-coated
+optical fibers and capillary tubes.
+
+ 
+Draw tower used to fabricate polyimide-coated optical fibers.
+
+Options for Commercialization
+
+F&S and their development partner, the Fiber & Electro-Optics Research
+Center (FEORC) at VPI&SU, have demonstrated the EFPI sensor in many military
+and industrial laboratory-based applications.
+
+In this NASA-sponsored SBIR program, F&S will now develop the EFPI strain
+gage from the laboratory environment to its full market potential in the
+industrial environment. The last crucial problem to be solved to obtain and
+optical fiber strain gage capable of having a broad market appeal are the
+sensor reliability and attachment issues. User-friendly sensor attachment
+and operation procedures will allow the sensors to be utilized even by those
+unfamiliar with optical fiber sensor methods.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Johnathan Greene
+Fiber & Sensor Technologies, Inc.
+250 Arbor Drive NE
+Christiansburg, VA 24073
+Phone: 703-382-7556
+Fax: 703-382-8072
+Email: fiber@bev.net
+

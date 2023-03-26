@@ -1,0 +1,89 @@
+ 
+
+Pulse Detonation Technology Development
+
+Pulse detonation technology takes advantage of the gasdynamic and
+thermodynamic processes associated with detonative combustion for use in
+propulsive systems, energy conversion, materials production, waste disposal,
+and thermal coatings applications. The technology is based upon the rapid
+combustion via a detonation wave of a pre-mixed fuel/ oxidizer mixture
+contained in a tube which is open at one end and closed at the other. The
+fuel/oxidizer mixture is introduced at the closed end and is detonated once
+the tube is completely filled. The detonation produces a high pressure and
+temperature reservoir of combustion products which may be used in a variety
+of manners. Once the high pressure combustion products have expanded out the
+open end, the process is repeated in a rapid, cyclical manner, producing a
+quasi-steady flow of high pressure and temperature combustion products.
+
+Potential Commercial Uses
+
+   * Efficient coal combustors for power generation
+   * Efficient natural gas combustors for power generation
+   * Advanced materials synthesis techniques for production of ceramics
+   * Advanced thermal coating techniques for high wear, high temperature
+     components
+   * Advanced hazardous waste disposal techniques
+
+ 
+6" and 2" Shock Tubes, ASI Test Facility
+
+Benefits
+
+   * Significant improvements in efficiency over current or proposed
+     combustion concepts
+   * Energy conversion applications take advantage of the increased cycle
+     efficiency which translates into potential reductions in energy costs
+   * The potential to produce superior thermal coatings over present
+     techniques
+   * Low cost, high quality ceramic materials synthesis
+   * High temperature combustion products can be utilized to thermally break
+     down hazardous waste materials in an efficient manner
+
+The Technology
+
+Pulse detonation technology is currently being developed by Adroit Systems,
+Inc. (ASI) for various defense applications. Based on the use of detonative
+combustion, pulse detonation technology utilizes its inherent advantages to
+provide higher efficiency propulsion and energy conversion systems, and
+produces superior ceramic materials, and thermal coatings over current
+technology.
+
+A new and unique Pulse Detonation Engine concept which has application to a
+variety of systems including Single Stage to Orbit, Multi-Stage to Orbit,
+Horizontal Takeoff to Orbit vehicles, as well as many other airbreathing and
+rocket. Compared to current or proposed systems, pulse detonation engines
+are more fuel efficient, possess higher thrust to weight and thrust to
+frontal area ratio's, and are relatively mechanically simple.
+
+Currently the propulsion system applications are being investigated by ASI
+through a series of SBIR Phase I and Phase II contracts through NASA and
+various other government agencies. Experimental testing of the pulse
+detonation engine has been carried out and prototype pulse detonation engine
+(PDE) components and systems are presently being developed and tested. The
+application of pulse detonation technology to materials synthesis is
+currently being demonstrated by ASI through a SBIR Phase I program.
+
+ 
+6" Shock Tube, NASA White Sands Test Facility
+
+Options for Commercialization
+
+This technology opportunity is being developed under NASA SBIR funding. ASI
+has been granted several United States patents on various elements of the
+PDE design. ASI is currently looking for a partner in the fields of energy
+conversion, materials synthesis and thermal coatings.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Dr. Thomas R. A. Bussing
+ASI, 411 108th Ave. NE, Suite 1080
+Bellevue, WA 98004
+Phone: 206-450-3930
+Fax: 206-450-9334
+

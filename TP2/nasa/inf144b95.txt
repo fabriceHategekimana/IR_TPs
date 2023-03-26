@@ -1,0 +1,73 @@
+ 
+
+Water Wings
+
+A spinoff of NASA's aircraft wake research
+
+As a spinoff of NASA's aircraft wake research, water wings have been
+developed to demonstrate the feasibility of improving the water quality in
+the Chesapeake Bay by enhanced oxygen mixing. Beneficial characteristics of
+airfoil wake vortices were applied to the sea environment.
+
+ 
+Sketch of typical water wing concept
+
+ 
+Photo of water wings under construction
+
+ 
+Photo of water wings during retrieval after testing
+
+ 
+Photo of water wings during retrieval after testing
+
+ 
+Photo of water wings during retrieval after testing
+
+Potential Commercial Uses
+
+   * Design of enhanced mixing systems for:
+        o Atmospheric environments
+        o Marine environments
+
+Benefits
+
+   * Water wings extract the energy required for mixing from the ambient
+     environment and thus requires no power source
+   * Improve oxygen mixing in seawater
+   * Improve mixing in atmospheric environments
+
+The Technology
+
+During hot weather, water in the Chesapeake forms layers with warm,
+less-dense water overlaying colder water. This inhibits the vertical mixing
+of oxygen from water near the surface and often causes death to marine life
+near the bottom. A wing generates a fluid motion with two important
+features:
+
+  1. A linear motion which can transport fluid
+  2. A pair of long-lasting, tornado-like motions, termed vortices, which
+     are imbedded in the linear motion.
+
+In an airport environment these vortices can be hazardous to other aircraft
+and therefore NASA has developed technology for predicting both the extent
+of linear transport and the duration of the hazardous vortices. The Water
+Wing was designed using this technology to provide optimal transport and
+mixing of oxygen in the Bay environment. The design, development, and
+testing of the Water Wing was a joint program involving the Virginia
+Institute of Marine Science, College of William and Mary, the NASA Langley
+Research Center, and AS&M Inc.
+
+Options for Commercialization
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

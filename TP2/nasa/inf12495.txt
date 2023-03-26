@@ -1,0 +1,61 @@
+ 
+
+Graphical Weather Information in the Cockpit (CWIN)
+
+A live graphical weather information system has been conceived, developed,
+and tested at NASA Langley Research Center for utilization in domestic
+airline operations. This system, called the Cockpit Weather Information
+(CWIN) system, displays live ground based weather data that is not available
+in today's aircraft. The interactive CWIN system was built using a color
+display with an overlaid touch screen.
+
+Potential Commercial Uses
+
+   * Cockpit weather information
+   * Preflight weather briefing
+   * Dispatcher weather information
+   * Interactive mobile weather information for the military, shipping and
+     transportation industry
+
+ 
+
+Benefits
+
+   * Efficiency: Complete and easily yields more efficient reroute decisions
+     when adverse weather is encountered
+   * Safety: Better weather information leads to enhanced adverse weather
+     avoidance and resulting smoother and safer flight paths
+   * Situation Awareness: Graphical real time weather displays results in
+     enhanced weather situation awareness in flight crews
+
+The Technology
+
+The cockpit weather information (CWIN) system utilizes a color graphical
+display with a touch screen overlay for building a user friendly pilot
+interface. A state of the art digital communications system between the air
+and ground is assumed, implying graphical weather data can be broadcast to
+all aircraft in flight. The CWIN system displays national radar mosaics, air
+to ground lightning strikes, and surface observations.
+
+Simulation test results show that the CWIN graphical weather system improves
+flight efficiency, safety, and situation awareness. Pilot comments and
+questionnaires showed that the pilots liked the graphical weather system,
+felt that it enhanced safety of flight during adverse weather conditions,
+and increased their weather monitoring ability.
+
+Options for Commercialization
+
+NASA LaRC seeks industry partners to cooperatively develop commercial
+products based on CWIN Technology.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

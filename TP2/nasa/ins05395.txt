@@ -1,0 +1,66 @@
+ 
+
+Measuring Seebeck Inhomogeneity of Thermocouples
+
+The measurement accuracy of a thermocouple is severely impacted if a
+significant inhomogeneity and a temperature gradient are present in the same
+region of the probe. The Seebeck inhomogeneity is an abnormal variation of
+the Seebeck coefficient from point to point in the thermocouple material and
+is not disclosed in conventional calibration. An apparatus has been
+developed that measures the Seebeck inhomogeneity of a sheathed thermocouple
+probe and expresses the results as a measured quantity.
+
+ 
+System for measuring the Seebeck inhomogeneity of sheathed thermocouples
+
+ 
+Platinum sheathed type R thermocouple with 20 cm insertion into an 1100 deg.
+C furnace with stainless steel exposure for 16 hours
+
+Potential Commercial Uses
+
+   * Thermocouple manufacturers - Quality assurance requires knowledge of
+     inhomogeneity
+   * Calibration laboratories - Evaluating inhomogeneity is a necessary step
+     in calibration
+   * Research laboratories and industrial plants - In-house quality
+     assurance and calibration departments, especially where thermocouples
+     are used in harsh environments, at high temperatures, or for long
+     durations
+
+Benefits
+
+   * Ability to calibrate to a definite accuracy
+   * Ability to make uncertainty analysis
+   * Ability to assess damage to probes
+   * The study of thermoelectric thermometry
+
+The Technology
+
+The extent to which an inhomogeneous thermocouple probe produces an error is
+dependent upon the variation in the Seebeck coefficient and the temperature
+gradient along the probe. Seeback inhomogeneity is not disclosed in
+conventional calibrations. With this apparatus, the Seebeck coefficient of
+each segment along the probe is measured by passing the probe, step-by-step,
+through a narrow, well-defined temperature differential. One end of the
+probe is maintained at room temperature with forced air, and the other end
+of the probe is heated by inserting it into a bath of liquid metal at 100
+deg. C. Thus, the measured emf is contributed to the segment of the probe
+that is at that time being subjected to the temperature step.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on measuring the Seebeck Inhomogeneity of thermocouples. This
+technology is protected by Langley patent applications. This commercial
+opportunity is part of the NASA Technology Transfer Program. The objective
+of this program is to proactively involve the private sector in NASA's
+programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

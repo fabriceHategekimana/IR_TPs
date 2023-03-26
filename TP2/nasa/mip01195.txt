@@ -1,0 +1,77 @@
+ 
+
+Braze Assisted Diffusion Bonding-High Temperature, Low Pressure Metal
+Joining Technique
+
+Braze assisted diffusion bonding is an inexpensive approach to diffusion
+bonding of metal structural components. It is typically a less expensive
+method of joining metals than other methods currently used in industry.
+Bonding is unique in that it is accomplished without the addition of filler
+materials. The key factors in the bonding procedure are time, temperature,
+and pressure.
+
+ 
+Hard shell vacuum vessel
+
+ 
+Metal vacuum envelope
+
+Potential Commercial Uses
+
+   * Non-welded or non-brazed laminated metal sheets
+   * Custom filtration systems or strainers
+   * Exotic internal orifices within large or small structures
+   * Bimetallic laminates
+
+Benefits
+
+   * Braze assisted diffusion bonding offers a low cost alternative to
+     expensive standard diffusion bonding methods
+   * Braze assisted diffusion bonding does not require elaborate, high
+     maintenance equipment
+   * Process can also be used for brazing applications
+
+The Technology
+
+An extensive study has been done by NASA Langley on 300 series stainless
+steels using braze assisted diffusion bonding. This technique is not new to
+industry. Typical metal-to-metal diffusion bonding is often accomplished in
+vacuum hot press furnaces using pressures as high as 600 PSIG. Particular
+surface finishes and extreme cleanliness are very important as are time and
+temperature to ensure good diffused mating surfaces.
+
+The metals joining applications developed at NASA Langley incorporate the
+use of vacuum enveloping technology. Hardware is positioned in a metal bag
+(envelope) equipped with a vacuum hookup line. The assembly is placed in a
+furnace, the air is evacuated from the metal bag, and heat is applied.
+Through use of the atmospheric pressure on the envelop an evenly distributed
+14.7 PSI is employed onto the hardware. When used on a larger scale,
+hardware can be placed in a vacuum vessel with a thin vacuum membrane on top
+of the vessel. Atmospheric pressure on the membrane aids in bonding the
+components.
+
+NASA Langley has been using this process in the construction of all (backup)
+wind tunnel nozzle sections for the Eight Foot High Temperature
+Transpiration Cooled Mach Seven Nozzle. The technology developed using these
+types of fabrication processes enables bonding to be done at relatively low
+pressures on thin intricately detailed hardware.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+using the Braze Assisted Diffusion Bonding technology. Some of the options
+available for cooperative technology development include collaborative
+research under Memorandums of Agreement, patent acquisition and licensing,
+and industry-led solution development to specific problem statements.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's research programs to ensure that the technology developed will
+have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

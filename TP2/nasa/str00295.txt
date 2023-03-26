@@ -1,0 +1,95 @@
+ 
+
+Helicopter Tail Boom Strakes
+
+A simple, inexpensive means to increase performance and control
+
+An inexpensive and simple means to improve control of helicopters has been
+developed. During hovering flight in windy conditions, the pilot's ability
+to maintain heading control is greatly enhanced by the addition of strakes
+horizontally mounted along the helicopter tail boom. Without the strakes,
+the tail boom "flies" in the winds from the main rotor and crosswinds which
+causes the tail rotor to work harder and use up control available to the
+pilot to maneuver the helicopter. The tail boom strakes act like a fence to
+the airflow moving over the boom and changes the reactions of the boom in a
+way to result in more control for the pilot and less power needed for the
+tail rotor.
+
+ 
+Tail rotor power saved vs. crosswind velocity
+
+Potential Commercial Uses
+
+   * Most single-rotor helicopters
+   * Major candidates for application:
+        o Virtually all private, commercial, and military single-rotor
+          helicopters
+
+This technology is currently being applied on the following aircraft:
+
+   * AS-3504-355 (French)
+   * MD-500N and MD-630N (McDonnell-Douglas)
+   * S-61 (Presidential fleet)
+   * NASA/Army UH-1H
+   * S-61 (United Kingdom)
+   * EH-101 (United Kingdom)
+
+Benefits
+
+   * Performance (if the helicopter is yaw control limited)
+        o Increases operating altitude (~4,000 ft)
+        o Increases operating gross weight; payload (1,200 lbs)
+        o Increases yaw control margin (7 percent)
+
+The Technology
+
+During hovering flight in crosswinds, the helicopter tail boom acts like an
+airplane wing and "flies" in the airflow produced by main rotor downwash and
+crosswinds. The resulting aerodynamic side load on the boom reacts on the
+helicopter and causes the tail rotor yaw control to use more power. As the
+helicopter tries to operate at higher altitudes and gross weights, the tail
+rotor power and the yaw control problems are made more difficult. When the
+strakes are added, they "spoil" this airflow, and thus reduce the tail rotor
+power needed which gives the pilot more control.
+
+Army and NASA researchers at the NASA Langley Research Center have conducted
+wind tunnel and flight experiments to develop this technology. Benefits
+predicted from wind-tunnel data agree well with flight-test results. The
+critical wind angle where the need for yaw control is at a maximum was found
+to occur between 45-deg. and 105-deg. off of the right of the nose of the
+helicopter and at crosswind speeds between 15-25 knots, depending on the
+particular helicopter design under consideration. The use of the tail boom
+strakes reduces the power going to the tail rotor during critical hovering
+flight conditions which reduces drive shaft, gearbox, and tail rotor loads,
+reduces tail rotor noise, gives the pilot additional yaw control, and
+increases the gross weight and altitude capability of the helicopter.
+
+   * Key Features
+       1. Simple, inexpensive
+       2. Can be used in lieu of development of a new, more powerful tail
+          rotor system which would cost $20M to design, develop, and qualify
+       3. Significant control and performance gains
+
+   * Fabrication
+          Inexpensive to fabricate and install
+
+ 
+Close-up photo of tail boom strakes installed
+
+Options for Commercialization
+
+This technology is documented in formal NASA reporting, patented by NASA,
+and is available for licensing and/or joint development under a NASA Space
+Act Agreement.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

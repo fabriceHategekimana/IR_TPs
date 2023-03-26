@@ -1,0 +1,77 @@
+ 
+
+Doppler Global Velocimetry
+
+A new laser velocimetry technology, based on the use of atomic absorption
+lines in Iodine and Cesium as optical frequency discriminators, is being
+developed. This technology provides a direct measure of the Doppler shift
+frequency imposed on laser light scattered from moving particles or other
+objects. Three-component velocity measurements have been made using point
+and planar configurations.
+
+Potential Commercial Uses
+
+   * Flow Field Diagnostics:
+          turbulence power spectra, spatial cross correlations and mean
+          velocity and standard deviation images
+
+   * Industrial Monitoring:
+          motion of stock in steel mills, canneries, etc., fluids in
+          pipelines, petrochemical processes, slurries
+
+   * Two-Phase Flows:
+          Fuel injector and sprayer design, steam flow monitoring
+
+   * Combustion Flows:
+          Internal combustion and jet engine flow diagnostics, burner design
+
+   * Rotating Machinery:
+          Computer disk drive testing, turbo and compressor design
+
+Benefits
+
+   * Expanded capabilities:
+          focal distances exceeding 20 meters (planar), 450 meters (point,
+          Velocity range - subsonic to hypersonic without particle lag,
+          Continuous output (point); Point measurement volumes less than 20
+          microns in diameter
+
+   * Key features:
+          Global optical system only slightly more complicated than standard
+          laser light sheet visualization systems; Can use CW lasers for
+          versatile measurement location and size, and pulsed lasers for
+          instantaneous measurements; Resolution of individual seeding
+          particles not required
+
+The Technology
+
+The edge of an atomic absorption line is used to measure changes in the
+optical frequency in much the same way as a frequency discriminator obtains
+music from a carrier wave in FM radios. The amount of frequency shift is
+directly proportional to the velocity of the object scattering the
+illuminating laser light.
+
+Researchers at the Northrop Electronics Division of Hawthorn, California,
+and ThermoTrex of San Diego, California invented the global and point
+measurement systems respectively. Researchers at NASA Langley Research
+Center have advanced this technology into practical fluid diagnostics
+measurement systems.
+
+Options for Commercialization
+
+NASA, and the patent holders Northrop, U.S. patent 4,919,536 and ThermoTrex,
+U.S. patent 5,267,010, seek industry partners to cooperatively develop
+commercial products based on the Doppler Global Velocimetry technology. This
+revolutionary technology is available for licensing.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximium commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

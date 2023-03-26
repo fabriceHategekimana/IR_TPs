@@ -1,0 +1,85 @@
+ 
+
+World Wide Web Technology Access Services
+
+The World Wide Web (WWW) is the latest in Internet based Client/Server
+information discovery and distribution technology. World Wide Web browsers
+such as NCSA Mosaic*, Netscape*, and Cello allow people using popular
+platforms like Macintosh*, PC's, and UNIX* to see, hear, and communication
+Internet. This exhibit will highlight Langley projects and business
+processes that have incorporated WWW technology to reduce administrative
+cost, streamline communication processes, and enhance distributed
+information systems.
+
+* indicates a Trademark
+
+Potential Commercial Uses
+
+   * Streamline communication processes
+   * Reduce administrative handling costs
+   * Increase distribution of corporate technical reports while reducing
+     cost of distribution
+   * Distribute corporate-developed software
+   * Increase corporate R&D awareness to industry, academia, and other
+     potential partners
+
+Benefits
+
+   * Reduces cost in administrative rework
+   * Expedites text and graphic review processes
+   * Increases distribution of information at minimal cost
+   * Minimizes costs of information revision
+   * Allows for multi-media presentation
+   * Software is freely available and runs on common platforms
+
+ 
+
+The Technology
+
+WWW stands for "World Wide Web". The WWW project, started by CERN (the
+European Laboratory for Particle Physics), seeks to build a distributed
+hypermedia system.
+
+Hypertext is one aspect of hypermedia. Hypertext is text with pointers to
+other text. The advantage of a hypertext document is that, if you want more
+information about a particular subject mentioned, it can usually be "clicked
+on" to read further detail. In fact, documents can be and often are linked
+to other documents by completely different authors - much like footnoting,
+but the referenced document can be obtained instantly.
+
+To access the web, a browser program is run. The browser reads documents and
+can fetch documents from other sources. Information providers set up
+hypertext servers from which browsers obtain documents.
+
+The browsers can also access files using standard Internet protocols such as
+FTP, NNTP (the Internet news protocol), Gopher, and an ever-increasing range
+of other methods. Further, if the server has search capabilities, the
+browsers will permit searches of documents and databases.
+
+Hypermedia is a superset of hypertext - it is any medium with pointers to
+other media. This means that browsers might not just display a text file,
+but might also present still images, sound, or animations.
+
+Langley Products using the World Wide Web:
+
+LSS: Langley Software Server
+http://www.larc.nasa.gov/LSS/
+
+NTRS: NASA Technical Reports Server
+http://techreports.larc.nasa.gov/cgi-bin/NTRS
+
+Cicero: Package Installation System
+http://ice-www.larc.nasa.gov/ICE/Cicero/
+
+TOPS: Technology Opportunities Showcase Marketing and Data Archiving
+http://tag-www.larc.nasa.gov/tops/tops.html
+
+TCT: Project Management Capability
+http://www.larc.nasa.gov/~ggott/tct/tcthome.html
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

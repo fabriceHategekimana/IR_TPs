@@ -1,0 +1,76 @@
+ 
+
+RAINBOW Piezoceramics - High Displacement Actuator Materials
+
+A new class of piezoelectric ceramics with improved performance
+characteristics has been developed. These materials, called RAINBOWs
+(Reduced and Internally Biased Oxide Wafer), offer both high displacement
+and moderate force capabilities.
+
+ 
+
+Potential Commercial Uses
+
+   * Transducers: loudspeakers, tweeters, microphones, tone generators
+   * Ultrasonic Generators: ultrasonic cleaners, sonar, ultrasonic welding,
+     pest control devices
+   * Sensors: pressure sensors, accelerometers
+   * High-Voltage Generators: gas igniters, spark pumps, impact fuses
+   * Optics: adaptive optics, variable-focus lens and mirror assemblies
+   * Miscellaneous: solid-state fluid transfer pumps, actuators,
+     positioners, motors, fans, printers
+
+Benefits
+
+   * Performance: RAINBOW ceramics exhibit increased displacement (i.e.
+     strain) over conventional piezoceramics while under moderate loads
+   * Key Features: RAINBOW ceramics enable reduction of the size and power
+     requirements for conventional actuator systems
+   * Fabrication: RAINBOW wafers have been fabricated in a wide variety of
+     sizes, ranging from 0.5 to 4 inches in diameter
+
+The Technology
+
+Piezoelectricity is a phenomenon observed in a select group of ceramic
+materials. These materials generate mechanical movement in the presence of
+an electrical field. They also generate an electrical charge in response to
+mechanical stress.
+
+Researchers at Clemson University, NASA Langley Research Center, and Aura
+Ceramics have developed a new processing method for producing piezoelectric
+ceramics. This technique produces a ceramic wafer which is capable of very
+high axial displacements (500 µm) under moderate loads (85 psi). In
+addition, multiple wafers can be stacked together to amplify linear
+displacements. The use of RAINBOWs in this manner reduces the size of an
+actuator stack required to achieve unusually high displacements.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on the RAINBOW piezoceramic technology. Aura Ceramics, Inc. is the
+exclusive licensee to the manufacturing rights for RAINBOW hardware.
+
+For further information concerning RAINBOW piezoelectric materials, please
+contact:
+
+Andrew Melcher
+Aura Ceramics
+5121 Winnetka Avenue North
+Minneapolis, MN 55428
+Phone: 612-535-9660, ext. 101
+Fax: 612-535-9655
+
+Aura Ceramics can supply any sales information, engineering properties, or
+materials characterization figures.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

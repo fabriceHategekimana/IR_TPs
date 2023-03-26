@@ -1,0 +1,62 @@
+ 
+
+HIPPI to Multiple SCSI II Drive Interface
+
+Most instruments communicate to other instruments by using some type of
+standard interface. Hard drives and other peripheral share often connected
+to a host computer using the Small Computer System Interface (SCSI). Larger,
+faster computers often have to transfer much more data than personal
+computers, therefore, they often use a high performance, parallel interface
+(HIPPI) to communicate to external devices. The electronic chip described in
+this exhibit performs the control required to allow a device that has a
+HIPPI interface to communicate to multiple devices that have SCSI II
+interfaces.
+
+Potential Commercial Uses
+
+The HIPPI to SCSI II Drive Interface allows:
+
+   * HIPPI protocol to SCSI II protocol conversion
+   * Data rate conversion between high and low speed devices
+   * Host communication to multiple devices simultaneously
+   * Real time device selection and switching
+   * RAID (Redundant Arrays of Inexpensive Disks) implementations
+
+Benefits
+
+   * Smaller size: one chip contains 12,000 equivalent gates
+   * Less weight: one chip is functional equivalent of two fully populated
+     circuit boards
+   * Less power consumption: 0.25 watts
+
+ 
+HIPPI to SCSI II drive interface
+
+ 
+ASIC functional organization
+
+The Technology
+
+The electronic chip is called an ASIC (Application Specific Integrated
+Circuit). An ASIC performs the same functions as several discrete
+components, thus it provides a cost-effective means to reduce size, weight
+and power consumption of electronic circuits. The ASIC on display contains
+the equivalent of 12,000 gates of digital logic. It is housed in a ceramic
+144 pin grid array and is based on CMOS 1.0 micron technology. It operates
+at up to 50 MHz and consumes 0.25 watts of power.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on the HIPPI to SCSI II Drive Interface. This commercialization
+opportunity is part of the NASA Technology Transfer Program. The objective
+of this program is to proactively involve the private sector in NASA's
+programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

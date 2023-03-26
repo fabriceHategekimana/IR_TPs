@@ -1,0 +1,81 @@
+ 
+
+Computational Electromagnetics
+
+Computer Programs for Advanced Antenna Design and Electromagnetic
+Scattering/Interference Studies
+
+A series of new computer programs have been developed combining several
+analytical methods to form a fast and accurate hybrid solution technique.
+The computer programs can be used to analyze and design antennas on a broad
+range of vehicles for virtually any application. These programs can also be
+used to predict how electromagnetic energy is scattered from a vehicle and
+potential interference due to external electromagnetic radiation sources.
+
+Potential Commercial Uses
+
+   * Vehicle Antennas: analysis and design of communication and navigation
+     antennas (satellite TV, Airphone, Global Positioning System, cellular
+     telephone) for cars, trucks, boats, airplanes, satellites, etc.
+   * Interference: analysis and prediction of electromagnetic penetration
+     through windows and openings into the airplane cockpit, vehicle
+     interior, and electronic devices and instrumentation including health
+     and medical devices such as pacemakers, hearing aids, etc.
+   * Radar Systems: scattering analysis for aircraft, cars, ships, building
+     structures, etc.
+   * Hand-held equipment: antenna design and propagation analysis for
+     hand-held telephones, mobile radios (police, etc.), GPS.
+
+ 
+
+Benefits
+
+   * Optimal System Performance: antenna locations optimized for a given
+     vehicle without expensive hardware testing
+   * New Antenna Designs: conformal and low profile antennas can be designed
+     and modified for a specific vehicle or application
+   * Validated Code: hybrid computational methods validated experimentally
+     for scattering and antenna design on NASA sponsored projects
+   * Improved computational efficiency: advantages of each individual
+     technique are retained, common graphics interface is used, fast matrix
+     solvers are employed
+
+The Technology
+
+Electromagnetic wave scattering, penetration and antenna radiation on a
+user-defined complex vehicle can be determined by various analytical
+methods. At low frequencies (long wavelengths) techniques such as method of
+moments (MoM), finite element method (FEM), and finite difference time
+domain (FDTD) are used while at high frequencies (short wavelengths) other
+techniques such as physical optics (PO), geometrical optics (GO) and
+diffraction techniques are used. Researchers at the NASA Langley Research
+Center in cooperation with Arizona State University, the University of
+Michigan, the Ohio State University, and Hampton University have developed
+hybrid methods which take advantage of a combination of the above techniques
+for user defined applications. The use of efficient mathematical
+formulations and computer modeling routines has resulted in considerable
+reduction in the computational time required to perform electromagnetic
+simulations.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop and/or enhance
+commercial products utilizing a menu driven integrated electromagnetic
+solver program employing the hybrid analytical technique approach. The joint
+partnership would provide commercialization opportunities which are
+important to the NASA Technology Transfer Program. In addition, it assures
+that the technology developed through a cooperation effort will have
+commercial utility and foster assistance to the partners in establishing a
+stronger competitiveness in the global marketplace.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

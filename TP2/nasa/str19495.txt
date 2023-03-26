@@ -1,0 +1,73 @@
+ 
+
+Compact Low Stiffness Support Device
+
+Development of suspension devices for ground testing spacecraft has resulted
+in the development of a small compact low stiffness support device. The
+device can be designed to support weight of an object such that conditions
+of weightlessness can be emulated at the point where an object is connected
+to the device.
+
+ 
+
+Potential Commercial Uses
+
+   * Orthopedic: Low stiffness support for limbs, muscles, joints, and
+     bones.
+   * Shoes: Technology used in this device can be used to design shoes with
+     less impact when walking
+   * Structures: Structural support of cantilevered or hinged articles
+     during vibration testing
+   * Aircraft: Structural/vibration testing of aircraft wings
+   * Robotics: Provide support during slewing maneuvers
+
+Benefits
+
+   * Performance: Unlike other suspension devices, this device is designed
+     to eliminate the need for a large vertical overhead facility to reduce
+     the suspension stiffness associated with the traditional use of cables.
+     The device has no constraint on horizontal motion and minimal
+     constraint on vertical motion.
+   * Key Features: This device is very compact, lightweight, simple, and
+     convenient to use.
+   * Fabrication: The device is simple to design and to fabricate. The
+     design and device size are dependent upon the amount of weight it is to
+     support and the range of desired vertical motion.
+
+The Technology
+
+The device consists of three main parts: a zero-spring rate mechanism, a
+coupling rod, and a support base that allows compressed air (20 psi) to form
+an air cushion.
+
+A coupling rod has an attachment for the supported article. A set of two
+tension springs is connected to the rod and to a support plate on the
+device. The springs support the weight of the article. A coupling rod also
+connects the article to a zero-spring-rate mechanism. The mechanism offsets
+the stiffness due to the springs used to support the weight of the article.
+
+The air cushion provides an almost frictionless and unconstrained horizontal
+motion. Graphite/Epoxy tubes are used to provide support for very heavy
+objects. If supported weight is less than 200lbs, the tubes may be replaced
+with aluminum or other less expensive material.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+using this technology. Inquiries into licensing, Memorandums of Agreement,
+and solutions to specific individual problem statements are welcomed.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to pro-actively involve the private sector
+in NASA's research programs to ensure that the technology developed will
+have maximum commercial impact.
+
+Currently this device/technology is controlled under NASA Langley Patent
+Case Number LAR 14684-1-CU.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

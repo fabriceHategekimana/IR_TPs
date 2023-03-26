@@ -1,0 +1,60 @@
+ 
+
+Formal Methods for Safety-Critical Digital System Design
+
+Formal methods is the applied mathematics of computer systems engineering.
+It can serve a similar role in computer system design as Computational Fluid
+Dynamics (CFD) plays in aeronautical design, providing a means of
+calculating and predicting what the behavior of a digital system will be
+prior to its implementation. World Wide Web users can learn more about
+Langley's Formal Methods Program by visiting the following URL:
+http://atb-www.larc.nasa.gov/fm-top.html
+
+Potential Commercial Uses
+
+   * Avionics Systems
+   * Train Switching and Control Systems
+   * Advanced Automotive Systems
+   * Power Generation Systems
+   * Medical Diagnosis and Monitoring Systems
+   * Microprocessors
+   * Application-Specific Integrated Circuits
+
+ 
+
+Benefits
+
+   * Safety: Use of formal methods can increase confidence that a digital
+     system performs safely
+   * Reliability: Use of formal methods can increase confidence that a
+     digital system performs the tasks it is intended to perform
+   * Flexibility: Use of formal methods can allow investigation of design
+     alternatives that are too complex to consider using conventional
+     techniques
+
+The Technology
+
+Traditional engineering relies heavily on mathematical models and
+calculation to make judgments about designs. This is in stark contrast to
+the way in which most digital systems are designed with ad hoc technique and
+after-implementation testing. Formal methods brings to software and hardware
+design the same advantages that other engineering endeavors have exploited:
+Mathematical analysis based on models. Formal methods may be used to specify
+and model the behavior of a system and to formally verify that the system
+design and implementation satisfy system functional and safety properties.
+In principle, these techniques can produce error-free design; however, this
+requires a complete verification from the requirements down to the
+implementation, which is rarely done in practice.
+
+Options for Commercialization
+
+NASA seeks industry partners to assist in developing production-quality
+formal methods tools, and to participate in realistic demonstration projects
+in a wide range of domains.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

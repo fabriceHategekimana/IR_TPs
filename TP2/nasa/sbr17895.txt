@@ -1,0 +1,94 @@
+ 
+
+Adaptive Predictive Controller
+
+A new type of adaptive predictive controller, which is well suited for
+controlling complex systems with large numbers of inputs and outputs using
+standard PC hardware, is now available. The Orbital Research Intelligent
+Control Algorithm (ORICA) has shown excellent performance in controlling a
+variety of simulated and physical complex, time-varying, and non-linear
+systems.
+
+The identifier module of ORICA has also been shown to be a powerful tool
+that can save thousands of design hours. This module can estimate the system
+model, on-line, while the controller module safely controls the system. This
+allows for efficient monitoring and recording of the system's dynamic
+characteristics (even for unstable systems) at each sampling interval. The
+transfer functions can then be easily derived from the output of the
+identifier module.
+
+ 
+ORICA controller structure
+
+Potential Commercial Uses
+
+   * Flight Control Systems, particularly for systems with large number of
+     sensors and actuators
+   * Automatic Delivery of Drugs (or anesthetic compounds)
+   * Robotics, particularly in remote or hazardous environments
+   * Autonomous or Intelligent Vehicles
+   * Machine Tools (Milling, Rolling, Machining)
+   * Power Systems
+   * Process Plants
+
+Benefits
+
+ORICA provides excellent real time control for dynamic systems. It uses
+standard PC hardware to control the following systems, which are difficult
+or impossible for traditional controllers to control.
+
+   * Multi-input/multi-output complex systems
+   * Non-minimum phase systems
+   * Lightly damped systems
+   * Systems with long and/or varying time delays
+   * Noisy systems
+   * Non-linear systems
+   * Systems with time varying parameters (e.g., damping ratio)
+
+The Technology
+
+Extensive work has been performed in academia in the areas of adaptive and
+predictive control. However, these advanced controllers have only found
+limited commercial and military use due to their computational intensity and
+lack of robustness. The ORICA controller eliminates much of the
+computational complexity of these controllers. It is based upon algorithms
+developed by Case Western Reserve University and Orbital Research Inc. These
+algorithms exploit a special matrix representation to obtain substantial
+reductions in the amount of computation (floating point operations). Its
+unique block predictive structure provides gains in computational
+efficiencies that vary with the cube of the number of sensors, square of the
+model order, and linearly with the number of actuators and horizon look
+ahead.
+
+ORICA is two generations beyond the current state-of-the-art controllers
+(Auto-Tuning PIDs). It adds predictive features to an adaptive controller
+and its C language computer code is easily transportable among hardware
+platforms. When combined with fast DSP or PC based hardware, ORICA provides
+the first practical, computationally efficient, robust, adaptive, real-time
+feedback control technique for multivariable time-varying dynamic systems.
+
+In addition, the adaptive and predictive features of ORICA have been shown
+to be very effective in providing excellent control of an airfoil subjected
+to flutter condition at the Transonic Dynamics Tunnel, located at NASA
+Langley Research Center (LaRC).
+
+Options for Commercialization
+
+This technology opportunity is being developed under NASA SBIR funding.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Robert N. Schmidt, President
+Orbital Research Inc.
+11000 Cedar Ave., Suite 461
+Cleveland, OH 44106-3052
+Phone: 216-791-6720
+Fax: 216-229-3236
+Email: ori-cmdi@ix.netcom.com
+

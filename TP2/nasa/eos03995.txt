@@ -1,0 +1,76 @@
+ 
+
+Advanced Multi-Wavelength Solid-State Lasers and Laser Material
+
+Frequency agile, solid-state lasers and non-linear devices have been
+developed for remote sensing, spectroscopy, velocimetry and medicine. The
+simplicity, reliability, and compactness of diode pumped solid-state lasers
+make them a very attractive tool for future space based Differential
+Absorption Lidar (DIAL) and backscatter lidar missions. These missions
+propose to measure ozone, greenhouse gasses including water vapor, aerosols,
+winds, and clouds. These measurements are pertinent to NASA's Mission to
+Planet Earth (MTPE) Program which is chartered to globally monitor the
+earth's atmosphere, and the general conditions of the earth's lands and
+oceans.
+
+ 
+The optical layout of the LASE titanium-doped sapphire tunable laser system
+
+ 
+
+Potential Commercial Uses
+
+   * Chemical sensing
+   * Illumination
+   * Surgical tools
+   * Dermatology
+   * Ophthalmology
+   * Dentistry
+   * Probes
+
+Benefits
+
+   * Frequency agile
+   * Simplicity in design
+   * Compact
+   * Reliability
+
+The Technology
+
+NASA Langley Research Center has a strong presence in remote sensing
+measurements of atmospheric constituents from both airborne and spaceborne
+platforms. Two recent NASA Langley laser missions were the LITE (Lidar
+In-Space Technology Experiment) and the LASE (Lidar Atmospheric Sensing
+Experiment).
+
+LITE was deployed on the shuttle's STS-64 mission to measure aerosols and
+clouds. LITE used a flashlamp pumped neodymium yttrium aluminum garnet
+(Nd:YAG) laser. The Nd:YAG fundamental laser energy at a wavelength of 1.06
+micrometer, its second and third harmonics at 0.53 and 0.35 micrometer,
+respectively, were directed to the earth's atmosphere. The backscattered
+light from these wavelengths was detected by a telescope receiver with the
+data downlinked to computer data systems. The data was subsequently analyzed
+to determine the altitude resolved densities and profiles of clouds and
+aerosols.
+
+LASE was flown on an ER-2 aircraft, NASA's version of the military U-2, at
+altitudes from 65- 70 K ft. LASE made use of a tunable, from 0.66 to 1.1
+micrometer titanium sapphire laser to measure H2O vapor profiles of the
+atmosphere.
+
+Options for Commercialization
+
+NASA Langley seeks industry partners to cooperatively develop commercial
+products based on Multi-Wavelength Solid-State Laser technology.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,70 @@
+ 
+
+Shaping Joints to Reduce Thermal Stress
+
+A procedure for reducing thermal stress by shaping a material interface
+between two materials with different coefficients of thermal expansion
+(CTE's) has been developed at Langley Research Center. The technique allows
+materials to expand thermally while remaining in contact to provide a snug,
+thermal-stress-free joint at all temperatures. A partial differential
+equation, which governs the shape of such an interface, was derived and
+solved to produce and algebraic equation for the shape of a
+thermal-stress-free fastener.
+
+ 
+Sample thermal-stress-free fastener shapes for various material
+combinations.
+
+Potential Commercial Uses
+
+   * Metal fasteners for joining high temperature materials
+   * Rotors on shafts in gas turbine engines.
+   * Carbon/carbon piston inserts.
+   * Ceramic leading-edge wing design.
+
+Benefits
+
+   * Snug, thermal-stress-free joints are maintained at all temperatures.
+   * Materials with different coefficients of thermal expansion can expand
+     freely with temperature yet remain in contact.
+
+The Technology
+
+Carbon or ceramic-based composite materials are becoming an increasingly
+attractive design option for structural components exposed to high
+temperature, because they reduce weight and increase efficiency. Many of
+these composite components will be joined to metal components in some
+fashion. The high-temperature materials have much lower coefficients of
+linear thermal expansion then the metals they are joined to, which makes it
+difficult to design a structural joint that remains tight over the
+operational temperature range. An approach for shaping the interfaces
+between dissimilar materials to reduce or eliminate thermal stresses while
+maintaining a snug fit has been developed. The graphic shows joints in which
+a fastener has been designed such that the fastener and structural materials
+are free to expand thermally while remaining in contact to provide a snug,
+thermal-stress-free joint at all temperatures.
+
+Currently this approach has been used to find an interface between two
+materials with different CTE's in all three principal material directions,
+such that the two materials remain in contact without interference or
+separation, as temperature changes. The joint was modeled and tested
+numerically, and the thermal stresses in the shaped fastener are
+considerably lower that those measured in a typical cylindrical fastener.
+The technique used for the design of the fastener can be applied over a
+range of applications including carbon/carbon piston inserts and rotor-shaft
+designs in gas turbine engines.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. A procedure for thermal-stress-free joining has
+been developed and tested for shaped fasteners. Suitability of this
+technology to specific needs can be investigated at Langley.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

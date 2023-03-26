@@ -1,0 +1,76 @@
+ 
+
+Energy Absorbing Structural Concepts for Improved Crash Safety
+
+Composite structural components are being designed to crush in a controlled
+manner during impact or crash loading. Controlled crushing of the structure
+limits the impact loads applied to occupants or other objects. The
+structures may be tailored to the application by varying the materials and
+geometric parameters.
+
+ 
+
+Potential Commercial Uses
+
+   * General Aviation Aircraft: subfloor structure for crash safety
+   * Automotive: front and side loading crash protection
+   * Department of Transportation: bridge abutment and highway safety
+     railing structure for automotive impact safety
+   * Military: energy absorbing structure for aerial dropped precision
+     equipment (robotics, etc.)
+   * Miscellaneous: ground or air transportation of specialized equipment;
+     loading dock bumpers
+
+ 
+
+Benefits
+
+   * Performance: controlled sustained crush load with high stroke
+     efficiency; maintains structural integrity after crush; exceeds
+     performance of sine wave base-line
+   * Key Features: structures can be tailored for the application by varying
+     materials and geometric parameters
+   * Fabrication: low-cost manufacturing tooling and process as compared
+     with sine wave structure
+
+The Technology
+
+An experimental program was conducted to study the behavior of low cost
+energy absorbing composite subfloor structures. The study, part of a broader
+full-scale aircraft test program, examines the efficiency of generic energy
+absorbing composite structures applicable to new crashworthy aircraft
+designs and existing aircraft that could be modified, cost effectively, to
+meet crashworthiness requirements. Static and dynamic tests have shown that
+the subfloor structure is usually too stiff and too strong to provide
+survivable occupant lumbar loads of 1500 lbf or less at vertical crash
+velocities of 30 ft/sec or greater. Therefore, the energy absorbing subfloor
+structures or beams have been tailored to meet the following criteria:
+
+   * Meet normal flight and landing loads requirements
+   * Initiate crushing at a given load
+   * Crush progressively while maintaining sustained crushing loads with a
+     lower load boundary ( 200 lb/in.) to ensure adequate energy absorption
+     for a given depth ( 8 in.) and an upper load boundary ( 300 lb/in.) to
+     limit occupant loads to acceptable levels
+   * Achieve high stroke efficiency ( 80% of the initial height) while
+     maintaining sustained crushing loads
+   * Maintain a substantial residual bending stiffness
+   * Maintain structural integrity after crushing which is critical for
+     seat, and thus, occupant retention
+
+The energy absorbing structures shown in the two photographs were
+constructed of glass fabric, Kevlar fabric and foam. The data trace is a
+graphical representation of the desired characteristics.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to ensure that NASA developed technology
+will have maximum benefit in the private sector.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

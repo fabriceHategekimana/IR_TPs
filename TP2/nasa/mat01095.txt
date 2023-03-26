@@ -1,0 +1,74 @@
+ 
+
+Gas Permeable Polymeric Materials
+
+The processing of plastics in space could enable manufacture of new, highly
+specialized materials impossible to prepare on earth. Recent flight
+experiments have shown that new and otherwise unobtainable polymer products
+with characteristics designed to meet special requirements could be
+obtained. The development of new space produced contact lens and other
+materials could lead to market production demands which could only be met
+using a space based facility such as the Space Station.
+
+Potential Commercial Uses
+
+   * Instrumentation for Measurement of Gas Permeability
+   * Gas Analysis Instrumentation
+   * Selective Gas Sampling Devices
+   * Control and Monitor Spacecraft Atmosphere
+   * Extended Wear Contact Lenses
+   * Contact Lenses for Astronauts and Pilots
+   * Manufacturing and Process Control
+   * Food and Beverage Production and Processing
+   * Dialysis and Blood Gas Monitoring
+
+Benefits
+
+   * Newer and More Highly Specialized Plastic Materials may be Formed in
+     Space.
+   * More Homogeneous Plastic Materials are Formed in Space.
+   * Lighter Materials may be Formed in Microgravity.
+   * Higher Gas Permselectivity for Materials Processed in Microgravity.
+
+ 
+Gas Selective Materials: Specific gases will pass through a gas selective
+permeable material while all others are excluded.
+
+The Technology
+
+The Gas Permeable Polymeric Materials (GPPM) flight experiment is a NASA
+payload developed under the Office of Advanced Concepts and Technology
+(OACT) with industrial participation in conducting the experiment and in
+post flight analysis and publication of the results. The objective of the
+experiment is to determine the effect of microgravity on the composition and
+physical characteristics of highly crossed-linked polymers. It is expected
+that polymers that are homogeneous in molecular composition and density will
+result, and these may lead to the development of new polymers that have very
+high permeability for specific gases. These polymers cannot be successfully
+formed in 1-G due to gravitational effects that occur during the
+polymerization process. These effects cannot be removed by annealing or
+other treatment of the polymerized material, hence, the only means to verify
+any material enhancement is to conduct an experiment in reduced gravity with
+a duration sufficient to assure complete polymerization. For the materials
+studied, a minimum of 72 continuous hours in reduced gravity is required.
+
+ 
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on Gas Permeable Materials technology under a space act agreement.
+NASA has no patent coverage in this area at this time, therefore there are
+no associated royalty fees to commercialize this technology.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

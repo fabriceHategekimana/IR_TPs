@@ -1,0 +1,70 @@
+ 
+
+Low Energy Positron Generator -
+High Flux Thermal Positron Source for Characterizing Thin Polymer Films
+
+A new technique has been developed for producing high fluxes of low energy
+positrons. It generates thermal positrons with an efficiency which is about
+an order of magnitude higher than the highest reported value from the
+conventional sources.
+
+ 
+Langley generator produces 10 times more thermal positrons than conventional
+sources
+
+ 
+Moderator-Source Assembly
+
+Potential Commercial Uses
+
+   * Non-destructive microstructural characterization of thin polymer films
+   * Monitoring adhesion quality of protective thin film coatings
+   * Development of low dielectric constant polymer films
+   * Development of gas selective membranes
+
+Benefits
+
+   * Performance: This generator produces about 10 times more low energy
+     positrons than conventional sources
+   * Key features: It requires no special sample preparation; the test
+     sample remains in ambient (room temperature and atmospheric pressure)
+     environment
+   * Assembly: The generator can be readily assembled in any research or
+     industrial laboratory
+
+The Technology
+
+Positrons are antiparticles of electrons. Upon entering condensed matter,
+they thermalize readily and then annihilate with the host electrons. The
+annihilation process is very sensitive to the density and momentum
+distribution of the host electrons. The microstructure of the materials is
+manifested in these annihilating electrons. Thus, a measurement of the
+survival time (lifetime) of the positrons in materials (molecular solids
+such as polymers) provides direct information about defects and microvoid
+distributions in it. This information about the microstructure reveals the
+physical and electrical properties of the test material.
+
+The investigation of microstructural fractures of thin, high performance
+polymer films usually requires high fluxes of low energy positrons for quick
+characterization. The NASA Langley generator meets this need very
+conveniently and more efficiently.
+
+Options for Commercialization
+
+The NASA Langley generator has been patented and is available for use by the
+industry - particularly the high performance polymer industry. NASA Langley
+scientists are willing to demonstrate the capability and applicability of
+the generator for thin film improvement/development for specific
+applications.
+
+This commercial opportunity is part of the NASA Technology Transfer Program
+. The objective of this program is to proactively involve the private sector
+in NASA's program to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

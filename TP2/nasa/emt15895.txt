@@ -1,0 +1,87 @@
+ 
+
+Software Tool for Modal Analysis and Control Design
+
+The Eigensystem Realization Algorithm (ERA) is a software tool for
+calculating modes of vibration from test data. Engineers use modes of
+vibration to solve practical vibration problems and to design
+active-vibration-control systems. To date, ERA has been used primarily on
+spacecraft and aircraft structures; however, it is highly effective for
+structures of any type.
+
+ 
+1st Bending Mode
+
+ 
+2nd Bending Mode
+
+Potential Commercial Uses
+
+   * Automotive and construction vehicles
+   * Rotating machinery
+   * Sports equipment (e.g., skis)
+   * Musical instruments (e.g., violins)
+   * Active control of building vibration
+   * Active control of bridge vibration
+   * Active noise control
+   * Precision manipulators (robotics)
+   * Failure detection
+   * Characterization of electrical circuits
+
+Benefits
+
+   * Accuracy:
+          ERA is accepted throughout the aerospace industry based on its
+          proven accuracy with both simple and complex structures. Numerous
+          publications document these tests.
+   * Features:
+          Technical features of ERA include multiple-input, multiple-output
+          formulation for closely spaced modes and accuracy indicators for
+          result validation.
+   * Versions: Available in 2 software versions:
+          1. VAX VMS FORTRAN (emphasizes structural modal analysis)
+          2. MATLAB (emphasizes control design)
+   * Heritage:
+          NASA engineers have continuously improved this software since
+          1984.
+
+The Technology
+
+Vibration occurs whenever mechanical systems move. Excessive vibration can
+cause discomfort or annoyance (including noise), and damage or
+inefficiencies in the system. Engineers solve vibration problems using
+"modes of vibration," which are "natural" frequencies of a structure at
+which large vibration occurs. ERA calculates modes of vibration from test
+data.
+
+Engineers at NASA Langley Research Center developed ERA in 1984 as a tool
+for modal analysis and control design of future large space structures, such
+as NASA's space station. Since then, it has been used and improved
+considerably. The VAX VMS FORTRAN version of the software includes a main
+program and 70 pre- and post-processors. It provides complete modal analysis
+capabilities. There are no limits on problem size. The MATLAB version of the
+software is a library of functions for generating state-space models and
+observer gains. More than 100 requests have been received from other
+organizations for the ERA software.
+
+ 
+Space Application (Earth observation satellite)
+
+ 
+Aeronautics Application (Perseus aircraft wing)
+
+Options for Commercialization
+
+NASA offers this software to commercial users at a minimal fee. A User's
+Guide accompanies the software. The developers seek users' comments and
+experiences, and they are available on a limited basis for consultation. An
+exclusive license to market the ERA software will NOT be granted at this
+time because software development continues as an integral part of NASA's
+internal research program.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

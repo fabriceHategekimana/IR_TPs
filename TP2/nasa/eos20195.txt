@@ -1,0 +1,70 @@
+ 
+
+Atomic Mass Spectroscopy Over Long Distances
+
+ 
+Lunar Rover Atomic Mass Analyzer
+
+Atomic mass spectroscopy is an important analytical technique for industry.
+The determination of elemental composition of materials leads to a better
+understanding of their origin and characteristics, leading to more advanced
+materials for special requirements. While atomic mass spectroscopy has been
+used for many years, the technology described herein focuses on performing
+mass spectroscopy over long distances. Such technology is of interest to
+NASA for the remote determination of the chemical composition of lunar and
+asteroid surfaces from lunar rovers or satellites.
+
+Potential Commercial Uses
+
+   * Analysis of dangerous, radioactive, or  corrosive material from a
+     distance
+   * Analysis of deep wells (oil, natural gas, etc.)
+   * Remotely determine contents of leaking toxic waste storage containers
+
+Benefits
+
+   * High spectral resolution mass spectroscopy
+   * Analysis of difficult to reach targets or targets that are not
+     physically close to one another
+   * Isotopes can be easily measured
+
+The Technology
+
+A laser pulse, having sufficient energy, focused on a distant target
+material can be used to vaporize a small portion of the target material. The
+laser pulse produces a plasma from the material surface. The energy of the
+plasma can be quite high, causing high energy ions to escape. These high
+energy atomic ions characterize the material in the target object. The ions
+released from the material are unique (like a fingerprint) and can be used
+for identification purposes. Some of these ions, in a vacuum environment,
+will fly in the direction of the remote mass detector.
+
+In the case of the present experiment, the target to detector distance was
+16 meters. Two mass resolution technologies were evaluated for separating
+ions of different masses at the detector. The first technique is called
+ion-trap mass spectrometry and the second is called reflection mass
+spectrometry. The advantage of the reflection technique is that it can
+analyze higher energy ions (100-500 eV) coming from the target plasma.
+
+This technology can provide a complete mass spectrum of any target material
+over very long distances, using a single laser pulse.
+
+ 
+Reflectron Atomic Mass Analysis Results for a Lunar Simulant. The box
+contains the manufacturers measured atomic concentrations
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial
+applications based on the Remote Atomic Mass Spectroscopy technology. This
+commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

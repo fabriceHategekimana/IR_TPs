@@ -1,0 +1,74 @@
+ 
+
+Ultra-High Speed Photo Detectors for Atmospheric Sensors and Optical
+Communication
+
+Ultra-fast photo detectors with near THz bandwidth performance have been
+developed and optimized. By using nanoscale features (<0.2 microns), novel
+device geometry developed at NASA, and correct scaling rules, these devices
+have achieved record high-speed operation. When fabricated on GaAs or
+InGaAs, these photo detectors can be easily integrated with signal
+processing electronics to produce monolithic OEIC circuits.
+
+Potential Commercial Uses
+
+   * 100 Gbit/sec. fiber-optic receivers
+   * Wide-range (60 GHz) swept-frequency mm and sub-mm signal sources
+   * Time-resolved measurement instrumentation with sub-picosecond
+     resolution
+
+Benefits
+
+   * Novel device geometry for reduced parasitics (capacitance and
+     inductance)
+   * Passivation to reduce surface recombination, which degrades high-speed
+     performance
+   * Correct scaling rules to optimize bandwidth and utilize ballistic
+     transport, velocity overshoot effects
+
+ 
+
+ 
+
+The Technology
+
+Metal-semiconductor-metal (MSM) photo detectors can be used to achieve
+unprecedented high-speed response because the response time is controlled by
+the spacing between electrodes in the device structure, a feature which can
+be controlled in the fabrication process. Using direct-write e-beam
+lithography, this spacing can be made very small, thus allowing extremely
+fast response times. Using such state-of-the-art techniques to produce
+devices with electrode spacings on the order of 100 nm and less,
+subpicosecond response times have been achieved.
+
+Investigators at NASA Langley Research Center in cooperation with the Naval
+Research Laboratory and the University of Virginia, have developed this
+technology to yield unprecedented performance in support of remote
+atmospheric sensing applications. A novel device geometry employing circular
+electrodes has been used along with carefully developed scaling rules to
+optimize the performance of these devices. Additionally, several forms of
+passivation have been explored, including the use of InGaP (developed in
+conjunction with NASA Goddard Space Flight Center) to avoid the long-term
+aging and stability problems sometimes associated with AlGaAs.
+
+Options for Commercialization
+
+NASA seeks industry partners to develop products based on the application of
+these devices. In addition to the most obvious application involving
+high-speed fiber-optic links, Picometrics, Inc., has identified
+swept-frequency signal sources, a derivative of NASA's original atmospheric
+sensing application for these devices, as a particularly promising area of
+application. However, no licenses have been granted and no formal
+arrangements between NASA and Picometrics, Inc., currently exist.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+the maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

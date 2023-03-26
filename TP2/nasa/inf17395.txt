@@ -1,0 +1,77 @@
+ 
+
+Content Addressable Memory (CAM) ASIC Collaboration (NASA, CEBAF, CNU)
+
+A collaboration group has formed with NASA, the Continuous Electron Beam
+Accelerator Facility (CEBAF) and Christopher Newport University (CNU). This
+group is developing an Application Specific Integrated Circuit (ASIC)
+Content Addressable Memory (CAM) chip. The CAM will be a 256 x 32 bit
+specialized memory chip.
+
+The project has two important technology transfer items. The first is the
+CAM chip design. Although the chip is designed for a detector system of a
+high energy particle system, other applications would include routing
+networks, or in Artificial Intelligence applications. The second item is the
+process of partnering to find solutions to a common goal. In this case, the
+common goal is the Integrated Circuit design process.
+
+Potential Commercial Uses
+
+   * Pattern Recognition Systems
+   * Network Communication and Routing
+   * Inference Engine for Expert Systems
+   * Associative Processor for Artificial Intelligence
+   * Other Collaborations between Universities, Industry
+
+ 
+
+Benefits
+
+   * 32 bit, 16 bit or byte wide operations
+   * Matches are latched on a byte basis
+   * Sequential output of all addresses that matched
+   * Time Independence when matching bytes
+   * Majority logic that will allow word matches on 1-4 bytes matching
+
+The Technology
+
+A CAM chip behaves much like ordinary computer memory. The basic operation
+of the chip is to compare data taken from the detectors to known data tracks
+of particles and give an indication if a match occurs. You can write data
+into the memory, and you can read data from it. But, the CAM chip also has
+the ability to compare a piece of data to the internally stored data. If the
+data compared matches any of the internally stored data then the CAM signals
+that there was a match. The current version of the CAM would then
+sequentially output the addresses of all internal words that matched.
+
+When the CAM chip has a match on a byte, a hit bit is latched internally. A
+special feature of the current version of the CAM chip allows a programmable
+number of hits (1-4), before announcing that a match has occurred. Also, the
+CAM design has been generalized to make it useful in other applications. The
+chip can be used in 32 bit, 16 bit or 8 bit wide systems.
+
+As an added feature the current version of the chip exhibits time
+independence in the matching of bytes. This means that before a word match
+is announced each byte must match, in any order and without any time
+dependencies.
+
+ 
+
+Options for Commercialization
+
+Although the CAM design is being released through publication, we are also
+seeking partnership with industry to further develop technology.
+
+NASA is actively promoting partnerships that involve industry, and
+universities, in developing new technologies that have commercial uses, as
+well as research opportunities. This commercial opportunity is part of the
+NASA Technology Transfer Program. The objective of this program is to pro
+actively involve the private sector in NASA's programs to ensure that the
+technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

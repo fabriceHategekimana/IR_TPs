@@ -1,0 +1,75 @@
+ 
+
+Crew Response Evaluation Window (CREW)
+
+An interactive, integrated display tool for analyzing human physiological
+and behavioral responses
+
+A new interface design has been developed that can show and record where a
+person is looking, what they are interacting with, and how they are being
+affected. All this information is shown on a single screen and recorded onto
+videotape for later review.
+
+ 
+
+Potential Commercial Uses
+
+   * Product usability testing labs
+        o CREW can illustrate how actual users respond to/interact with a
+          new product (in the real world or a test environment)
+   * System operator training
+        o CREW can assess operators' developing skill at managing stress and
+          keeping alert
+   * Audience response testing for advertising and media programming rating
+        o CREW can provide impact feedback to advertising agencies
+   * Sports assessment and training
+        o CREW can monitor an athlete's training progress from several
+          perspectives
+   * Educational and psychological evaluations
+        o CREW can capture an individual's behavior in learning and
+          therapeutic environments
+
+Benefits
+
+   * Applicability
+        o The biocybernetic technology embodied in CREW for measuring
+          attention can assist in the manned system design process
+   * On-line monitoring capability
+        o Observe human responses and supervise experiment progress in real
+          time
+   * Off-line playback capability
+        o Review and analyze videotape recordings of the CREW display using
+          standard video data analysis tools
+   * Customizability
+        o Display any combination of human physiological signals and various
+          views of the test setting in CREW
+
+The Technology
+
+Several methods of measuring human responses are combined into a single
+integrated display window using virtual instrument programming. The
+individual response technologies include video, eye lookpoint measurement,
+physiological stress monitoring, and brainwave signal processing. The
+physiological responses include heart rate, skin conductance and temperature
+(blood flow) measures. The brainwave measure employed in CREW was developed
+in the NASA Langley Human Engineering Methods Laboratory. The fully
+functional prototype of CREW is implemented on a Macintosh with
+physiological, video and oculometry peripherals. It displays and records
+physiological and behavioral data from piloted experiments conducted in
+flight simulators.
+
+Options for Commercialization
+
+Invention Disclosure submitted. NASA seeks industry partners to
+cooperatively develop commercial products based on the CREW technology. This
+commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

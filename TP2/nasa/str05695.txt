@@ -1,0 +1,75 @@
+ 
+
+Broadband Noise Absorbers
+
+A broadband noise absorber was developed under a NASA grant to Georgia
+Technical Research Institute (GTRI) for potential use in future aircraft
+engines. The ceramic microspheres act as a bulk absorber, providing
+broadband noise attenuation. However, unlike traditional bulk absorbers such
+as fiberglass and foam, the microspheres can be used in high-temperature
+environments up to 1200 degrees Fahrenheit. The microsphere bulk absorber
+can also be tuned to a particular noise source by varying the geometry of
+individual spheres.
+
+Potential Commercial Uses
+
+   * Noise absorption in high temperature environments like steel mills or
+     industrial furnace smoke stacks
+   * Noise abatement in transportation systems such as subways, trains or
+     highway acoustic barriers
+   * Noise attenuation in industries such as mining, utility companies or
+     manufacturing sites
+
+ 
+
+Benefits
+
+   * Attenuates broadband noise sources
+   * Conforms to any geometry
+   * Withstands high temperatures
+   * Can be tailored to a specific noise source
+
+ 
+
+The Technology
+
+Proof of concept testing has shown small hollow spheres to be effective for
+broadband noise attenuation due to their bulk absorber properties. Like
+conventional bulk absorbers, the microspheres present high torturosity
+values to incident sound waves and use an overall depth equal to a quarter
+wavelength of the lowest frequency to be absorbed. However, unlike
+traditional bulk absorbers, the microspheres can be tailored to a particular
+noise source. This is accomplished by incorporating orifices in the
+spherical shells, creating Helmholtz-resonator-type micro-absorbers. In
+addition, all dimensions of the sphere's geometry (such as shell diameter,
+shell thickness and orifice diameter) can be varied to create preferential
+absorption tailored to a specified acoustic field. Thus a broadband noise
+source with dominant tonal characteristics could be effectively attenuated.
+
+The microspheres have another distinct advantage in that they are
+conformable to any geometry; they can be poured into any shape container.
+However, a limiting factor for potential commercial applications is that
+they have not been tested in dirty environments, so their wicking and
+clogging properties have not been studied.
+
+ 
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. A patent application has been filed on this
+technology, and NASA is actively seeking applicants to license and/or form
+partnerships to refine this technology. Suitability of this technology to
+specific needs can be investigated at NASA Langley.
+
+ 
+Absorption Coefficient of Ceramic Spheres with Holes and Pyrell Foam, Df=8
+Hz, SPLi=105 dB.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

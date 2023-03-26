@@ -1,0 +1,83 @@
+ 
+
+Cryogenic Pressure Sensors For High Vibration/ Shock Environments
+
+A multichannel cryogenic pressure sensor capable of measuring pressures as
+high as 6,000 psi in hostile oxygen and hydrogen environments at
+temperatures as low as -261 deg. C and as high as 100 deg. C and shocks to
+400 g's has been developed.
+
+ 
+
+Potential Commercial Uses
+
+   * Cryogenic gas level gauging and transfer monitoring
+   * Space Shuttle Main Engine
+   * Rocket engines
+   * Cryogenic wind tunnels
+   * High vibration and shock applications
+   * Industrial cooling
+   * Particle physics
+   * Cryogenic gas production
+
+Benefits
+
+   * Operational in high vibration and shock environment - significant
+     improvement over commercially available sensors (80 g's from 25 Hz to
+     2,000 Hz)
+   * Can withstand shocks to 400 g's
+   * Compatible with most of the gases
+   * Compatible with liquid hydrogen and liquid oxygen
+   * Frequency bandwidth: 0 - 2,000 Hz
+   * Operational in high vibration and shock environment - significant
+     improvement over commercially available sensors (80 g's from 25 Hz to
+     2,000 Hz)
+   * Can withstand shocks to 400 g's
+   * Compatible with most of the gases
+   * Compatible with liquid hydrogen and liquid oxygen
+   * Frequency bandwidth: 0 - 2,000 Hz
+
+The Technology
+
+Currently employed pressure sensor units for the Space Shuttle Main Engine
+(SSME) have a dual-channel strain gage Wheatstone bridge bonded on a
+metallic diaphragm that is exposed to the pressure media of rocket engine
+fuel. These strain gage pressure sensor units have their operational
+temperature range from -65 deg. C to +165 deg. C, which is well over 100
+deg. C above the temperature of liquid hydrogen and oxygen.
+
+The three most important areas in developing a cryogenic multichannel
+pressure sensor unit are: silicon pressure sensor dice, cryogenic compatible
+packaging of the pressure units, and signal conditioning circuits which are
+integrated within the unit or attached next to the pressure sensor dice. The
+silicon pressure sensor dice used have their diffused impurity density in
+the range of 5x10^19 to 2x10^20 atoms per cubic centimeter, to avoid
+unpredictable variations of the sensor's offset voltage and sensitivity due
+to charge carrier freeze-out of the sensors at temperatures below -100 deg.
+C.
+
+Two remaining areas, namely cryogenically compatible packaging and
+electronic circuits, were investigated with primary emphasis on packaging of
+a cryogenic pressure sensor unit. These developed cryogenic pressure
+transducers were installed on the Technology Test Bed Engine at Marshal
+Space Flight Center. Previous cryogenic transducers have exhibited a severe
+drift at stable cryogenic temperature. These developed cryogenic transducers
+exhibited no drift during the TTB-048 test firing. All 12 sensors in the 3
+installed transducers followed the test profile very closely.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on cryogenic pressure sensor technology.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's program to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

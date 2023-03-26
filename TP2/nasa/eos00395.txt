@@ -1,0 +1,84 @@
+ 
+
+Product Design-Life Estimation
+
+An automated computerized tool system to estimate product design-life has
+been developed by a consortium comprised of industry, university, and
+government. The HiRel (hybrid automated reliability predictor, HARP,
+integrated reliability) tool system for reliability/ availability estimation
+offers a toolbox of integrated programs that can be used with HiRel's
+graphics user interface to customize the user's application in a workstation
+or non-workstation environment.
+
+Potential Commercial Uses
+
+   * Automotive systems
+        o Engine controllers, ABS, powertrain systems
+   * Aircraft/spacecraft/submarine systems
+        o Flight/attitude/engine control systems
+   * Military avionics
+   * Railroad switching systems
+   * Telecommunications
+   * Chemical processing control/monitoring systems
+   * Nuclear power control systems
+   * Computer systems
+
+Benefits
+
+   * Versatile, powerful, easy-to-use tool system with graphical user
+     interface
+   * Runs on most popular computers including the IBM compatible
+   * Mature, well documented product
+   * Beta tested in field for over 9 years
+   * Independently evaluated within NASA
+
+ 
+HiRel component programs
+
+The Technology
+
+HiRel is an engineering tool that was designed and implemented to be
+applicable to a wide variety of systems that require
+reliability/availability assessment. The most powerful and practical
+mathematical techniques were employed in HiRel while still retaining
+modeling techniques familiar to the industry.
+
+The user has the option of modeling a system with the popular fault tree
+notation or with the more detailed Markov modeling technique. The fault tree
+capability in HiRel incorporates four unique dynamic gates that give the
+HiRel fault tree capability the full power of the Markov technique. HiRel
+offers two solution engines, an analytical method and a Monte Carlo
+simulation. The Monte Carlo method also does non-Markovian modeling to
+include cold or warm spares for systems with decreasing failure rates, an
+important consideration for spacecraft systems.
+
+Another important feature is HiRel's ability to model ultrahigh reliability
+systems. These are systems that are designed to probabilities of system
+failure on the order of less than 1 part in 100,000,000. Seven
+fault-handling models are available to model fault coverage and other
+pertinent data. An efficient mathematical modeling technique called
+behavioral decomposition utilizes the disparity of the widely separated time
+constants in such models to greatly simplify the modeling of fault-handling
+and its solution.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop and commercialize
+HiRel. Over 120 institutions in industry, university, and government have
+participated in the beta testing of HiRel over a nine-year period. The beta
+site users made many important contributions during HiRel's development, but
+many enhancements were not implemented because of our limited resources.
+Although HiRel is presently a powerful and useful capability, many
+improvements that have been identified would further enhance its acceptance.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

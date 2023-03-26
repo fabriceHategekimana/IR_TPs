@@ -1,0 +1,77 @@
+ 
+
+Integrated Methods in Systems and Control
+
+As the level of technology increases it becomes more and more difficult to
+advance the practical state of the art by considering only the
+accomplishments in a single field. Efforts are currently being made to
+integrate material from several fields in two projects. One project combines
+control theory and digital system theory to study the interplay between the
+plant and fault tolerant controllers using redundancy and reconfiguration.
+Another blends discrete mathematics and statistics to provide methods for
+establishing ultra high reliability by fault-injection experiments.
+
+Potential Commercial Uses
+
+   * Design of control algorithms and digital control systems for
+     performance and fault tolerance in harsh environments.
+   * Experimental validation of the reliability models for fault tolerant
+     systems
+
+ 
+System Perturbation
+
+Benefits
+
+   * Improve the performance and increase the robustness of digital control
+     systems
+   * Provide a quantitative method of demonstrating high reliability for
+     fault- tolerant real-time systems
+
+ 
+Redundant Reconfigurable Systems
+
+The Technology
+
+Previous work in the design and analysis of redundant digital control
+systems assumed independent failures of single components, and it assumed
+the controller had always to be in control. In operation, however, these
+systems experience massive transient failures, network down-time, and missed
+deadlines. Previous work in design and analysis either ignored these
+problems or declared system failure upon their occurrence. Recent work
+examines the possibility that system inertia may give the system some
+tolerance to a control system that is temporarily faulty. If the control
+computers recover from the upsets quickly enough, then the performance of
+the system may remain acceptable. Current theoretical efforts attempt to
+give precise meaning to the ideas of quick-recovery and
+acceptable-performance. An obstacle in establishing ultra high reliability
+by experiment is that if the experiment is conducted in the usual manner
+then an enormous number of trials are needed to establish a low probability
+of failure at a high confidence level. An approach, that combines discrete
+mathematics and statistics, has been developed to overcome this obstacle. It
+takes advantage of two characteristics for systems that achieve reliability
+by redundancy and reconfiguration-- these systems have a small failure rate
+compared to the operating time, and they quickly remove a faulty component
+from the system. The approach begins by computing the number of trials
+needed for a natural-life experiment where a trial corresponds to an
+operating period of the system. Since the failure rate is small, a
+mathematical analysis shows only a few of these trials will have a component
+failure. Only these trials need to be examined by statistical fault
+injection. The rest of the trials, which contain no fault occurrences, are
+handled by an argument from design (discrete mathematics) that the system
+operates correctly if it is fault-free.
+
+Options for Commercialization
+
+This Technological Opportunity is part of the NASA Technology Transfer
+Program. The program seeks to stimulate development of commercial
+applications from NASA-developed technologies. The Langley Research Center
+is seeking partners for the initial development of these research
+activities.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

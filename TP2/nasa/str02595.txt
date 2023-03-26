@@ -1,0 +1,75 @@
+ 
+
+Suppressing or Generating Vibrations - Smart Structures Concepts
+
+Smart structures can be defined as structures that are self-sensing and
+self-compensating. Integrating piezoelectric materials as actuators within a
+conventional structure can be a first step toward developing a smart
+structure. As actuators, piezoelectric materials can provide a lightweight,
+nonintrusive and cost effective means of suppressing or generating
+vibration. This technology was applied to a model wing where fifteen sets of
+piezoelectric patches were adhered to the top and bottom of the main
+structural member of the model. Piezoelectric actuation was used to suppress
+and control vibrations due to flutter and to external excitations such as
+turbulence. Piezoelectric actuation was also used to generate vibrations by
+exciting the mode shapes of the structure.
+
+ 
+Model of wing with piezoelectric actuators
+
+Potential Commercial Uses
+
+   * Suppressing or controlling undesirable vibrations on: household
+     appliances, machinery, automobiles, trains, airplanes, and bridges
+   * Generating vibrations for: pagers, therapeutic devices, machining
+     devices, biomedical devices, and pumps
+
+Benefits
+
+   * Weight savings
+   * Nonintrusive actuation
+   * Minimal power requirements
+   * Highly efficient in obtaining multiple redundancy requirements for
+     safety
+   * Long service life of actuators
+   * Low and high frequency vibrations can be effectively controlled
+
+The Technology
+
+Piezoelectricity is the ability of a material to develop an electrical
+charge when subjected to a mechanical strain and viceversa. The NASA Langley
+Research Center and the Massachusetts Institute of Technology have been
+working together to advance the state of the art in applying
+piezoelectricity to aeroelastic systems. The Piezoelectric Aeroelastic
+Response Tailoring Investigation (PARTI) involved finite element and
+aeroservoelastic analyses and ground and wind-tunnel testing of a multi-
+degree-of-freedom semi-span wind-tunnel model with distributed piezoelectric
+actuators. Active control laws were designed using a system identified plant
+model developed from experimental data. Control effectiveness was determined
+by measuring power spectral densities of model response and changes in
+natural frequencies. The actively controlled piezoelectric ceramic actuators
+improved the aeroelastic characteristics of the flexible five-foot span
+wind-tunnel model. Improvements in the flutter boundary were demonstrated as
+were significant reductions in model response at dynamic pressures below
+flutter. Flutter is an interaction between the aerodynamic, elastic and
+inertial forces of a structure that can lead to divergent and destructive
+oscillations of motion. Conventional flutter suppression techniques that do
+not use smart structures concepts can result in increased weight and cost.
+
+ 
+Piezoelectric actuator
+
+Options for Commercialization
+
+This technology is part of the NASA Technology Transfer Program that
+provides the opportunity to partner with industry to develop commercial
+applications from NASA-developed technology. Piezoelectricity, active
+vibration control and vibration generation are well developed technologies
+that have significant commercial potential when combined.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

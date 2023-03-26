@@ -1,0 +1,93 @@
+ 
+
+Electronic Angle-of-Attack and Stall Warning Device
+
+A completely new approach using the latest advances in microelectronics and
+flow diagnostic techniques have been used to develop an electronic
+angle-of-attack and stall warning device for civil and military aircraft
+applications. The new device, developed by Tao Systems under a NASA SBIR
+Phase II Program for the Langley Research Center, has no moving parts and
+possesses high dynamic response characteristics. The probe and micro-thin
+hot-film sensors can be fully conformal with the surface of the flight
+vehicle and their operation is independent of outside air temperature,
+pressure, and density changes resulting from variations in flight conditions
+(altitude). The innovative approach can also be extended to obtain the
+angle-of-side slip by mounting the probe in the vertical plane (e.g., on the
+vertical tail).
+
+ 
+Prototype AOA sensor probe on aircraft
+
+Potential Commercial Uses
+
+   * Inexpensive angle-of-attack, side-slip, stall-warning device for GA,
+     commercial, and military aircraft
+   * Non-intrusive local flow angularity measuring device for
+     wind/water-tunnel testing
+   * Gust alleviation monitoring
+   * Wind-direction indicator
+   * Instantaneous, local angle-of-attack measuring device for unsteady
+     aerodynamic applications (e.g., flutter of flexible wings, HSCT,
+     missiles, large transport aircraft, sail boats, etc.)
+
+Benefits
+
+   *
+   * High dynamic response
+   * No mechanical moving parts
+   * High signal-to-noise ratio
+   * Automated and compact
+   * Independent of flight altitude, speed, and outside air temperature,
+     pressure, and density
+   * Less sensitive to RFI and EMI
+
+The Technology
+
+The totally new generation of angle-of-attack technology introduced by this
+product is based on electronically locating the leading-edge stagnation
+point (where the airflow attaches itself to the flight vehicle) and relating
+it to the direction of motion (see Fig. 1). An array of practically
+non-intrusive, micro thin hot-film sensors (another innovation by NASA
+Langley) is operated by a bank of constant voltage anemometers (CVA, a Tao
+Systems invention) to identify the stagnation point with a logic circuit
+based on Tao Systems' patented flow diagnostic techniques. A schematic of
+the innovative system is shown in Fig. 2.
+
+ 
+
+The electronic angle-of-attack system has built-in multiple redundancy both
+in sensors and in operating hardware system (anemometers, analog
+processors.) The same technology can be extended to obtain angle-of-side
+slip and electronic stall warning devices. The new device has no moving
+parts and offers high dynamic response, making it particularly useful for
+high frequency response to sudden aircraft maneuvers and in the presence of
+safety hazards such as wind shear, icing and turbulence caused by gusts.
+
+Options for Commercialization
+
+The NASA SBIR Program places maximum emphasis on the commercialization in
+Phase III of products developed in Phase II. Tao Systems has entered into an
+Agreement of Intent to market with Avionics Specialties, Inc., a
+Charlottesville, Virginia based company well known for its specialized
+manufacture of angle-of-attack devices for military and civilian aircraft.
+This effort is part of Tao Systems' initiative to proceed with its
+commitment on Phase III commercialization. The revolutionary new approach to
+flow measurements also offers other applications for commercial
+exploitation.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Mr. W. Don Harvey
+Vice President
+Tao of Systems Integration, Inc.
+22 Enterprise Parkway, Suite 150
+Hampton, VA 23666
+Phone: 804-827-4434
+Fax: 804-827-4706
+

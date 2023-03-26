@@ -1,0 +1,90 @@
+ 
+
+Engine Monitoring and Control System (E-MACS) Display
+
+An innovative display software technology has been developed at NASA Langley
+Research Center to aid pilots in the monitoring and control of aircraft
+engines. This technology, called the Engine Monitoring And Control System
+(E-MACS) display, has been shown to provide pilots with a better
+understanding of engine operational health than commercially available
+displays. This technology has a broad non-aerospace potential, since the
+display software is applicable to any system whose characteristics can be
+modeled.
+
+Potential Commercial Uses
+
+   * Aircraft, Automotive and Marine Engine Monitoring:
+        o Adaptable to a wide range of engine-monitoring applications;
+          providing the ability to rapidly detect degraded engine operation
+   * Hospital Patient Monitoring:
+        o Used in the medical field to provide "deviation" data; the degree
+          of deviation in a patient's physical condition from accepted norms
+          can rapidly be detected
+   * Power Plant Facilities:
+        o Easily detect small changes in the pressure and fluid levels
+          within steam pipes
+        o Nuclear power facilities where pipelines often transport hazardous
+          waste; abnormal readings may indicate a dangerous task
+   * Industrial Applications:
+        o Achieve new standards of quality control and reduce manufacturing
+          costs
+   * Process Control Monitoring:
+        o Monitor dynamic, interdependent systems including pumping, piping
+          and environmental control systems
+
+Benefits
+
+   * Quick detection of degraded and/or abnormal conditions
+   * Reduced operator training
+   * Operators can more effectively monitor complex systems
+
+ 
+Figure 1. E-MACS Concept
+
+ 
+Figure 2. Conventional Display
+
+The Technology
+
+The Engine Monitoring And Control System (E-MACS) is a display software
+technology designed to aid human operators to monitor dynamic systems. This
+technology is based upon a knowledge of the normal response characteristics
+of the systems that are monitored. The display software takes advantage of a
+human operator's natural ability to process visual information.
+
+The computer's knowledge of the system's characteristics can be based upon
+something as simple as prerecorded data from a normally operating system.
+This knowledge can also be obtained from something as complex as a
+multi-mode polynomial model. This model provides sensor data for a normally
+functioning engine operating at the same flight conditions as the actual
+aircraft engine.
+
+The real power of this technology comes from combining the current system's
+sensor data with the internal data from the computer and then presenting
+this information in a form that is easy for the human operator to interpret.
+The combined sensor data are shown on a column-deviation graph (Figure 1).
+The column indicates the difference or deviation between an actual sensors
+value from the computer's value at the same flight conditions.
+Column-deviation graph(s) allow the human to perform what is called visual
+holistic processing. Instead of the operator viewing each sensor value
+independently, as is currently done with traditional displays (Figure 2),
+the operator can obtain the "whole" picture from the column-deviation
+graph(s). In addition, the height of the column is a direct indication of
+the amount of the abnormality: the larger the column, the larger the
+problem.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. The E-MACS technology has been implemented and
+flight tested. A patent has been granted on the technology and NASA is
+seeking applicants to license the technology and/or to foster further
+refinement of the technology in the private sector.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

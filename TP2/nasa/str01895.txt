@@ -1,0 +1,81 @@
+ 
+
+Variable Geometry Truss Manipulator Arm
+
+An innovative Robotic manipulator design has been developed at NASA Langley
+for space robotics missions. This unique manipulator design is much more
+maneuverable and stronger than traditional manipulators. A novel joint
+design permits the geometry changing mechanism to be embedded in the battens
+of the truss structure.
+
+The Variable Geometry Truss (VGT) is a truss mechanism that functions like a
+two axis gimbal in a truss manipulator arm. In applications requiring even
+greater dexterity, VGT joints may be chained together, one after another.
+The manipulator has been linked to a computer to allow an operator to orient
+the manipulator using a conventional joystick. The result is a very strong
+dexterous manipulator that offers advantages over traditional manipulators
+for a wide variety of industrial applications.
+
+Potential Commercial Uses
+
+   * Dexterous manipulator for nuclear waste clean up
+   * Deployable, mobile, stowable truss beam
+   * Replacement for a two axis gimbal with greater load-carrying capability
+   * Antenna pointing and tracking mechanism
+   * Motion simulator for a carnival ride
+   * Joint for a truss type robot arm with vibration suppression capability
+
+ 
+
+Benefits
+
+   * Strength: The deployed truss is much stronger than conventional
+     manipulators.
+   * Stowable: Unlike conventional manipulators, the VGT is stowable.
+   * Dexterous: The embedded joint actuators permit a wide variety of arm
+     orientations.
+   * Manufacturable: The system uses many off the shelf parts. The special
+     parts do not require expensive machining.
+   * User Friendly: The joystick provides a user friendly environment.
+
+The Technology
+
+The variable geometry truss manipulator arm is a truss structure that uses a
+variable geometry truss (VGT) to provide joint rotations. The VGT is a truss
+mechanism with three variable length battens in it's mid-plane. The three
+variable length battens form a triangle and connect to two other triangular
+planes (one on each side of the mid-plane) by struts called cross longeron.
+Six cross longerons, in a Stewart platform configuration, connect each
+triangular end plane to the triangular mid-plane so that there are twelve
+cross longerons. The two triangular planes on each side of the variable
+length battens mid-plane contain three fixed length battens. Moving in the
+longitudinal direction along the VGT, first three fixed length battens are
+connected by six cross longerons to the three variable length battens. Next
+the three variable length battens are connected by six cross longerons to
+the remaining three fixed length battens.
+
+The three variable length battens allow the orientation of one end plane
+with respect to the other end plane to be changed in a controlled manner.
+This is accomplished by solving the inverse kinematics of the VGT which
+relate the lengths of the variable length battens to the relative
+orientation of the two end planes. These equations have been programmed in C
+and executed on a 486 based PC system. Given a command corresponding to the
+desired relative orientation of the two ends, the controller changes the
+length of the variable length battens to accomplish this orientation.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA developed technology. The basic elements of the manipulator has been
+designed and fabricated at LaRC. A patent for this technology has been
+obtained. NASA is seeking applicants to license the technology and/or
+partnerships to further broaden and refine the technology for industrial
+applications.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

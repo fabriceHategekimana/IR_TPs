@@ -1,0 +1,60 @@
+ 
+
+A Compact, Frequency Stable Optical Oscillator
+
+Recent advances in lasers, optical materials and stabilization techniques
+have dramatically improved the frequency stability and linewidth of lasers.
+This reference is compact, lightweight and has the potential to achieve 1
+part in 10^14 resolution in frequency.
+
+ 
+Frequency stable laser system
+
+Potential Commercial Uses
+
+   * Astronomic and atmospheric spectroscopy
+   * Frequency referenced communications
+   * Global Positioning Systems (GPS)
+   * Laser gyro sensors
+   * Applications requiring a wavelength stable and/or narrow linewidth
+     laser
+   * Precision range finders
+   * Optical frequency reference
+   * Submillimeter wavelength local oscillator
+
+Benefits
+
+   * All solid state
+   * Comparatively inexpensive
+   * Small - 0.2m^2
+   * Lightweight - 10 kg
+   * Low power consumption
+   * Portable
+
+The Technology
+
+This frequency stable laser utilizes three main components: a commercially
+available diode pumped Nd:YAG laser, a highly frequency selective
+Fabry-Perot interferometer and an electronic control system. Relay optics
+couple the laser's energy into the Fabry-Perot cavity. The cavity acts as a
+frequency discriminator producing a signal proportional to the difference
+between the average and the instantaneous laser frequencies. This error
+signal is conditioned by the control electronics and applied to a piezo
+electric element attached to the laser.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on stable laser technology.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

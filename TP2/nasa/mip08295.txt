@@ -1,0 +1,69 @@
+ 
+
+Ultra Cleaning and Certification of High Performance Optics
+
+The performance of an optical system degrades with decreasing cleanliness
+levels. Therefore, quantitative cleanliness measurements help determine when
+it is necessary to clean or replace optics in high performance applications
+or schedule-sensitive programs. Knowledge of the optical cleanliness levels
+needed to maintain the required system performance, together with the means
+to monitor those levels, are powerful tools to help insure cost-effective
+and trouble-free system performance.
+
+Potential Commercial Uses
+
+   * High energy laser optics
+   * Low light level measurements
+   * Bright out-of-field sources
+   * Medical optics
+
+Benefits
+
+   * Efficient optical performance
+   * Cost-effective optics
+   * Trouble free system performance
+
+ 
+
+The Technology
+
+Optical, photographic and electron microscopy are used at NASA Langley to
+measure and document particle cleanliness and cleaning efficiencies using
+MIL-std-1246A cleanliness criteria. Surface densities of one to 100 micron
+particles are generally used to determine cleanliness levels 10 to 500. Both
+bright field and dark field microscopy with several illumination and
+photographic systems are used. Microextraction and oblique illumination are
+used to see molecular films. Cleaning of new optics is compared with
+cleaning of extensive-service optics. Generally new optics are about 100
+times easier to clean than extensive-service (more than one year old)
+optics. Molecular films tend to trap and/or cement small particles to
+optical surfaces, and thereby contribute to particle deposition and strongly
+affect cleaning efficiency of in-service optics. Evaluation of robustness of
+in-service optics is usually required in order to customize (time of
+ultrasonication and type of cleaning solvent) a cleaning procedure that will
+achieve a satisfactory cleanliness level with minimal damage to the optics.
+Degradation of the performance of an optical system (e.g. optical damage or
+excessive scatter) can be empirically correlated with cleanliness levels.
+Therefore, quantitative cleanliness measurements help determine when it is
+necessary to clean or replace optics in essential instruments in high
+performance applications or schedule-sensitive (i.e. spacecraft, aircraft or
+medical) programs.
+
+Options for Commercialization
+
+NASA seeks to disseminate information to industry for the commercial
+development of products based on Ultra Cleaning and Certification of High
+Performance Optics technology. This technology is not patent protected by
+NASA.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

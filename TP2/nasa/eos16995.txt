@@ -1,0 +1,65 @@
+ 
+
+Optical Measurement System with Parallel Processing for Tracking
+Applications
+
+The Optical Measurement System (OMS) has been developed to meet the growing
+need for high accuracy, real-time position measurement in the next
+generation of aerospace facilities. The first application of OMS is the
+Advanced Controls Test Facility Large Gap Magnetic Suspension System
+(LGMSS). In the LGMSS, a cylindrical element containing a permanent magnet
+core is levitated above a planar array of electromagnets. Position and
+attitude information is fed from the OMS to the LGMSS control to stabilize
+levitation of the cylindrical element.
+
+Potential Commercial Uses
+
+   * Motion analysis for sports or medical applications
+   * Precision position measurement in manufacturing or testing
+   * Position measurement for control of a rigid body
+   * Surface contour measurement
+   * Machine vision for robotics applications
+
+Benefits
+
+   * High speed target tracking
+   * Simple computer architecture
+   * Measures 6 degrees of freedom
+
+The Technology
+
+The OMS consists of 16 linear charge-coupled device (CCD) cameras arranged
+in pairs. Each pair, or sensing unit, has an x camera and a y camera
+oriented at right angles. Small infrared light-emitting diode (LED) targets
+are embedded in the surface of the rigid body whose position and attitude
+are to be determined. When the LED targets flash on, images of the targets
+are acquired by the cameras in parallel. A high speed analog-to-digital
+converter is used in each camera to digitize the analog video image.
+Digitized images are stored in random access memory located on a digital
+signal processor (DSP) board. There is one DSP per camera. Locations of the
+target images along the CCD array are calculated by the camera DSP. Using
+the camera locations of the target images, the location of the target with
+respect to an external reference frame is determined. Eight target images
+are acquired in sequence, the locations of the targets are determined and
+used to calculate the position and attitude of the rigid body. The position
+and attitude of the rigid body are updated 40 times per second.
+
+Options for Commercialization
+
+NASA seeks industry licensees for commercialization of this multi-sensor
+multi-processor architecture for distributed parallel computing.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+ 
+
+ 
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

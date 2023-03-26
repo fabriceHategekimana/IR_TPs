@@ -1,0 +1,79 @@
+ 
+
+Natural Gas Energy Monitor
+
+A new, fast technique to monitor the energy content of natural gas has been
+developed. Energy content may be monitored in real-time, on-line, from any
+station from well to consumer location. No elaborate set-up is required.
+This combustion-based natural gas energy monitor provides quick and accurate
+results in the lab or in the field.
+
+Potential Commercial Uses
+
+   * Manufacturing plant process control & monitoring
+   * Power plant process control & monitoring
+   * Oil refinery process control & monitoring
+   * Natural gas well, pipeline, & pumping station monitoring
+   * Natural gas combustion diagnostics
+   * Consumer gas supply quality monitoring
+
+Benefits
+
+   * Speed: Energy content is displayed in real-time
+   * Simplicity: A minimum of components. 3-point calibration minimizes
+     error
+   * Flexibility: Works over a range of flowrates & under adverse conditions
+
+ 
+System diagram
+
+ 
+
+The Technology
+
+Chemical energy is converted to heat when natural gas is burned. Since
+natural gas is a mixture of pure hydrocarbon gases (methane, ethane,
+propane, etc.) each with its own characteristic energy content, the bulk
+energy content of a natural gas sample can vary from well to well and
+consequently from point to point in a pipeline or distribution system. And,
+since natural gas is sold by energy content as well as by volume, a quick
+and accurate means of monitoring energy content is necessary.
+
+Energy content may be monitored in real-time in the lab, manufacturing
+plant, power plant, or at any location in a distribution system. This
+monitor offers several features:
+
+   * Combustion-based method assures accurate results
+   * Energy content is updated at user-selected intervals
+   * May be used over a range of flowrates
+   * Flame-heated sample probe tip ensures complete combustion
+   * Operates in less-than-optimum environments
+   * Simple three-point calibration
+
+The Natural Gas Energy Monitor mixes the natural gas with air which is then
+burned to produce a preset level of oxygen in the exhaust. The flowrate of
+the natural gas required to maintain this preset level of oxygen is
+inversely related to the energy content of the natural gas. The higher the
+energy content of natural gas, the lower will be the required flowrate. The
+monitor converts this flowrate directly to energy content in units selected
+by the user.
+
+Test results involving methane, ethane, and methane/nitrogen mixtures
+validate this technique.
+
+Options for Commercialization
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+NASA seeks partners in industry to cooperate in the further development of
+this technology for which the patent application process has been initiated.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

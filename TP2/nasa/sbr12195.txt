@@ -1,0 +1,86 @@
+ 
+
+High Sensitivity, Large Bandwidth Constant Voltage Anemometer (CVA) for
+High-Speed Transition Research
+
+A revolutionary, high-sensitivity, large bandwidth constant voltage
+anemometer (CVA) system is being developed by Tao Systems under a NASA SBIR
+Phase II Program for the Langley Research Center. Development of this
+innovative instrument is in response to NASA's R&D efforts to measure
+low-amplitude, high-frequency disturbances in laminar-to-turbulent
+transition flows at supersonic and hypersonic speeds. Instrument design
+features include the capability to obtain fluctuating mass flow and
+temperature from hot wire probes at low overheat ratios without sacrificing
+bandwidth. One-time adjustment and special features that include sensor
+protection from burn-out make CVA user friendly and productive. Its compact
+size and significantly lower sensitivity to EMI and RFI make it particularly
+favorable for flight as well as ground test applications.
+
+ 
+Prototype CVA unit
+
+Potential Commercial Uses
+
+   * Dynamic mass flow and temperature measurements in internal flows
+     (pipes, ducts, ventilation system, heat exchangers, etc.)
+   * Wind-tunnel and flight test applications in steady and unsteady flows
+   * Dynamic mass flow and temperature measurements in jets and propulsion
+     systems (air-intakes, compressors and turbines of turbomachinery and
+     inlet manifold and exhaust pipes of automobiles, etc.)
+   * Dynamic flow and temperature measurement system as an
+     educational-cum-research tool for use in university and research
+     laboratories
+
+Benefits
+
+   * High dynamic response over 400 KHz bandwidth
+   * High productivity with high fidelity signals
+   * Cable capacitance effects and bridge balancing eliminated (allows long
+     cable lengths.)
+   * Automatic, programmable overheats
+   * Sensor protection from burn-out
+   * No critical adjustments and one-time operational set up even for
+     relatively large changes in flow and environmental conditions
+   * Negligible set up time makes it especially useful for high-speed
+     facilities with short run times
+   * Small size and high level of automation makes it particularly suitable
+     for flight test applications
+
+The Technology
+
+A revolutionary new constant voltage anemometer (CVA) has been developed by
+Tao Systems. Large bandwidth with high front-end sensitivity are obtained by
+operating the sensor at constant voltage with innovative use of the latest
+advances in microelectronics. Maintaining the sensor at constant voltage
+eliminates the conventional bridge network and thereby makes the CVA system
+much simpler to operate: no complex set-up and tuning procedures,
+elimination of long cables and capacitance matching, highly automated and
+compact. The CVA has customer-specified, high-frequency response. A one-step
+operation (switch on the system!!) versus elaborate set up and adjustment
+procedures for conventional thermal anemometers makes CVA extremely useful
+for transition research in flight as well as in high-speed facilities with
+short run times.
+
+Options for Commercialization
+
+The NASA SBIR Program places maximum emphasis on the commercialization in
+Phase III of products developed in Phase II. Tao Systems is actively
+pursuing the commercial potential of the new large bandwidth anemometer and
+is interested in teaming to manufacture CVA under license.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Mr. W. Don Harvey
+Vice President
+Tao of Systems Integration, Inc.
+22 Enterprise Parkway, Suite 150
+Hampton, VA 23666
+Phone: 804-827-4434
+Fax: 804-827-4706
+

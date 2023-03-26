@@ -1,0 +1,108 @@
+ 
+
+Mathematical Tool for Computing Sensitivity Derivatives by Automatic
+Differentiation
+
+Automatic Differentiation technique is a powerful computational method that
+provides a means to obtain exact sensitivity derivatives from existing
+computer programs for use in multidisciplinary design optimization or in
+sensitivity analysis. Argonne National Laboratory and Rice University have
+developed a pre-compiler automatic differentiation tool for FORTRAN programs
+called ADIFOR that has been easily and quickly applied by NASA Langley
+researchers to assess the feasibility and computational impact of AD in MDO
+with numerous different FORTRAN programs.
+
+Potential Commercial Uses
+
+Uses by Problem Application:
+
+   * Manufacturing
+   * Computers, Automobiles, Aerospace
+   * Vehicles, Chemical Products, Shipbuilding, Structures
+   * Agriculture, Forestry, Environmental Studies, Oceanography,
+     Meteorology,
+   * Astrodynamics, Hydraulics, Finance and Economics, Power Generation
+
+Uses by Problem Type:
+
+   * Design, Control, Error Analysis, Approximation, Optimization,
+     Prediction, Synthesis, Trade-off Studies, Parameter Estimation,
+     Sensitivity Analysis
+
+ 
+
+Benefits
+
+Automatic differentiation provides significant benefits compared to other
+methods, such divided differences, symbolic manipulators, and
+hand-differentiation, for obtaining sensitivity derivatives for
+multidisciplinary design optimization.
+
+   * Exact sensitivity derivatives
+   * Automatic - dependency tracing, derivative formulation, and code
+     generation
+   * Robust - full Fortran 77 support
+   * Flexible - allows for changes in design variables and objective
+     functions
+   * Easy - simple user interface and exception handling
+   * Reliable - no guess of proper step size as in divided differences
+   * Exploits sparsity in gradient calculation
+   * Execution speed comparable to, or faster than, other SD methods
+   * Extendable to other languages and higher- order derivatives
+
+ 
+
+The Technology
+
+Computer models of many seemingly diverse systems including aerospace
+vehicles, consumer products, economics, and manufacturing processes
+generally admit certain free parameters, chosen within some reasonable
+domains. The models produce one or more measures of goodness about a product
+or process, but the system may be required to satisfy a number of
+constraints imposed for safety, quality, and profitability. The measures of
+goodness are generally related in complex ways to the free parameters and
+the constraints within the model. The effects of the individual parameters
+and constraints on the measures of goodness within a system can be
+quantified by a matrix of terms known as sensitivity derivatives (SD). The
+system SD can be approximated by divided differences (DD), obtained exactly
+by hand differentiation of analytic relationships, or through symbolic
+manipulators. However, each of these methods has certain disadvantages,
+which become more significant as the size and complexity of the problems
+increase. An entirely new way to obtain the desired SD matrix, which
+addresses many of these problems, is through the computational technique of
+automatic differentiation (AD), as embodied in the ADIFOR tool. The ADIFOR
+tool has been easily and quickly applied by NASA Langley researchers to
+assess the feasibility and computational impact of AD in MDO with numerous
+different FORTRAN programs, including a complex solver for a wing in
+transonic turbulent flow. With ADIFOR, the user identifies sets of dependent
+and independent variables within an existing computer code. Then ADIFOR
+traces the dependency path throughout the code, applies the chain rule to
+all elementary operations and math functions encountered in the dependency
+path, and generates new FORTRAN code that computes the required SD matrix.
+The ADIFOR tool works quickly and robustly with minimal user intervention.
+The resulting AD codes have been verified to compute the exact SD in about
+the same time as that required for a single SD evaluation using centered DD
+for extremely complex problems; in other instances AD has been shown to be
+substantially faster than DD. Moreover, the AD codes also have been shown to
+provide reliable SD in cases for which DD failed to give an accurate answer.
+The technique may also offer significant benefits for parallel problem
+implementations on distributed memory machines and networks of workstations.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based upon the computational technique of automatic differentiation under a
+Space Act Agreement. Research in automatic differentiation is jointly funded
+by the Department of Energy, the National Science Foundation, and NASA.
+ADIFOR is licensed through Argonne National Laboratory and Rice University.
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to involve the private sector in
+NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

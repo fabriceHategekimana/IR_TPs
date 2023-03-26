@@ -1,0 +1,67 @@
+ 
+
+Technique for Obtaining 3-D Laminography Images of Structures from Reverse
+Geometry X-Rays
+
+Motionless 3-D imaging of materials and structures for improved
+characterization and inspection has been realized with reverse geometry
+x-rays. This method enables more rapid 3-D inspections of structures than
+conventional techniques.
+
+Potential Commercial Uses
+
+   * Electronics circuit board inspections
+   * Composite structure characterization
+   * Inspection of limited access structures such as:
+        o Aircraft
+        o Power Plants
+        o Bridges
+
+Benefits
+
+   * Performance: Rapid 3-dimensional cross sectioning of structure or
+     material for characterization or defect detection
+
+   * Key Features: Imaging performed without mechanical movement of either
+     the detector or the source as is required by conventional systems
+
+The Technology
+
+Digiray's Reverse Geometry X-Ray(TM) system uses a unique electronically
+scanned x-ray source for radiographic imaging of materials and structures.
+By scanning the x-ray source, multiple detectors can be used to obtain 3-D
+laminographic images of a structure.
+
+Researchers at NASA Langley have developed algorithms for reducing the data
+from the multiple detectors to 3-D information about the structure. This 3-D
+information can either be viewed or analyzed to give a 3-D characterization
+of the structure and determine the location of defects in the structure in a
+much more cost-effective manner than with conventional x-ray tomography.
+These algorithms have been transferred to Digiray and incorporated into a
+commercially available system.
+
+In addition, a recent improvement, made possible by the NASA SBIR Program,
+has been an increase in the energy of the x-rays. The higher energy x-rays
+are able to penetrate through thicker materials as well as materials of
+interest for aerospace applications such as turbine blades.
+
+Options for Commercialization
+
+NASA Langley seeks industrial partners to cooperatively investigate new
+applications for the motionless laminography system. Digiray Corporation
+currently owns the patents for and manufactures the Reverse Geometry
+X-Ray(TM) System. In collaboration with Digiray, NASA has been developing
+analysis techniques for quantification of materials and structural
+properties.
+
+NASA Langley is currently seeking other applications for this technology as
+part of the NASA Technology Transfer Program. The objective of this program
+is to proactively involve the private sector in NASA's programs to ensure
+that the technology will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

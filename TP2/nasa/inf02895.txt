@@ -1,0 +1,84 @@
+ 
+
+Distributed Mass Storage System with Network Attached Peripherals
+
+There is a trend in institutions with high performance computing and data
+management requirements to explore mass storage systems with peripherals
+directly attached to a high speed network. The Distributed Mass Storage
+System (DMSS) Project at the NASA Langley Research Center has placed such a
+system into production use. The system consists of an IBM RS6000
+workstation, an IBM 9570 disk array, an STK robotic tape library, a High
+Performance Parallel Interface (HIPPI) network, and NSL/UniTree storage
+management software. Although the system consists of many off the shelf
+components, software was developed in the areas of high speed data transfer
+over the HIPPI network, user interfaces, and efficient conversion from one
+mass storage system to another. World Wide Web users can learn more about
+DMSS activities by visiting the following URL: http://www.larc.nasa.gov/DMSS
+
+Potential Commercial Uses
+
+   * Cost effective high performance data transfer
+   * Large scale mass storage and archiving
+   * Converting large amounts of data from one system to another
+
+Benefits
+
+   * High performance data transfer from the mass storage system to high
+     speed client machines (50 megabytes/sec)
+   * User friendly interface to the mass storage system
+   * User-transparent conversion of terabytes of information from one system
+     to another with minimal outage time
+
+ 
+Put Image Caption Here
+
+The Technology
+
+HIPPI/IPI3 Third-party Transfer Driver (HITTD) Conventional mass storage
+solutions have to route the data through the file server. One has to pay a
+premium price to get a machine capable of routing data at a high speed.
+Using network attached peripherals in a mass storage system has the effect
+of "cutting out the middleman" by routing data directly from the peripheral
+to the client. This allows for very high performance for a fraction of the
+cost of conventional mass storage systems. LaRC's development of HITTD has
+enabled this kind of transfer between the supercomputer and the file server
+disks and thus permits the use of an inexpensive workstation class machine
+to provide the file server functionality.
+
+Mass Storage System Conversion (MSSC) NASA Langley's development of the MSSC
+package has provided an efficient mechanism to transition all of our data
+from the previous mass storage system, based on Cray's Data Migration
+Facility (DMF), into the DMSS system. It would have taken 6 months to copy
+all of the DMF data into DMSS, resulting in long system outages and poor
+performance. The MSSC package converted the file information into
+NSL/UniTree format but did not copy the data. The data conversion happened
+upon a user request for a file. The conversion process was transparent to
+the users and only caused a minor outage in service of a couple of days.
+
+NSL-UniTree Enhanced Environment (NEE) The LaRC developed NEE package
+consists of a user friendly interface and a set of system management tools
+for DMSS. The interface is available on all UNIX platforms. The management
+tools provide added functionality to the NSL/UniTree environment including:
+statistics gathering, prompt problem diagnosis, and visibility into the
+NSL/UniTree databases.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial packages
+for various UniTree platforms involving operation/analyst tools or mass
+storage solutions. This commercialization opportunity is part of the NASA
+Technology Transfer Program. The objective of this program is to proactively
+involve the private sector in NASA's programs to ensure that the technology
+developed will have maximum commercial impact.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to pro actively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

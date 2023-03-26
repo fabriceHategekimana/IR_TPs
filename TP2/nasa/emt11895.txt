@@ -1,0 +1,72 @@
+ 
+
+Applied Computational Fluid Dynamics
+
+Applied Computational Fluid Dynamics (CFD) pertains to the use of various
+computational methods for predicting the behavior and effects of fluid
+(i.e., liquids and gases) flows on configurations (e.g. airplanes, cars,
+boats, buildings) to provide additional insight to the engineer for solving
+complex aerodynamic and fluid dynamic problems. Computer models can provide
+guidance for properly shaping surfaces which interact with moving fluids,
+such as air or water. These models can provide estimates of the loads or
+heating characteristics commonly encountered in such problems.
+
+ 
+High angle-of-attack flow simulation about the F/A-18 aircraft. (solution
+obtained by CFL3D code)
+
+ 
+External/underhood flow simulation for a generic car research model.
+(solution obtained by USM3D code)
+
+ 
+External/internal-propulsion flow simulation. (solution obtained by PAB3D
+code)
+
+Potential Commercial Uses
+
+   * Car aerodynamics and design
+   * Wind load analysis on buildings/bridges
+   * Boat sail and hull design
+   * Internal combustion engines
+   * Pump design and pipe flow analysis
+   * Design of heat exchange
+   * Ventilation system analysis and design
+   * Parachute load analysis and design
+   * Biomechanical devices
+
+Benefits
+
+   * Applicable to a wide variety of fluid flow problems
+   * Capability for both internal and external flows analysis
+   * Applicable to a wide range of flow speeds and conditions
+   * Suitable for simulating the flow of liquids and gases
+   * Provide detail information difficult to achieve experimentally
+   * Detail analysis can reveal flaws before fabrication
+
+The Technology
+
+Applied CFD is the process of utilizing various technologies such as
+configuration surface modeling, flowfield grid generation, flow solver and
+solution analysis. These technologies are commonly based on either
+structured (quadrilateral-panel/hexahedral-cell) or unstructured
+(triangular-panel/tetrahedral-cell) grid elements to represent the surface
+geometry and the corresponding computational domain. These technologies and
+accompanying expertise are available from NASA for solving a variety of
+aerodynamic problems. While the more sophisticated codes generally require
+supercomputers, many have been modified to execute on workstations. In
+addition to aerospace applications, NASA is committed to explore and promote
+the non-aerospace applications of these technologies.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+NASA is seeking industrial partners to develop commercial products from its
+software.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

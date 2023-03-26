@@ -1,0 +1,67 @@
+ 
+
+Acoustic Flame-Out Detector
+
+The acoustic flame-out detector was developed at NASA Langley Research
+Center to prevent explosion in high pressure combustors in the event of
+flame-out. The need was to detect a flame-out and deny fuel to the combustor
+as quickly as possible. The device must be very reliable and easily
+constructed and adjusted.
+
+The acoustic flame-out detector was used for the NASA Langley 8-FT HTT
+combustor for over a year with no incidents. The reliability and speed of
+the device eliminated the hazard associated with a flame-out and reignition
+of methane and oxygen at pressures to 136 atmospheres.
+
+Potential Commercial Uses
+
+   * High pressure or chemical/petroleum reactors
+   * High value combustors
+   * Fast restart after flame-out essential
+
+Benefits
+
+   * Reliable and fast
+   * Construction uses commercially parts
+   * Saves equipment, life, and service
+   * Pressure detector in fuel line: no special installation needed in
+     combustion chamber
+
+ 
+
+The Technology
+
+The acoustic flame-out detector was developed to render a large high
+pressure combustor safe in the event of a flame-out and reignition. A simple
+pressure transducer is placed in the fuel line, and able to detect the
+stabilizing flow at the face of the fuel injector. An easily constructed
+circuit converts the signal from these vortices to a series of pulses.
+Another device counts the pulses and continuously resets itself; if 3 pulses
+are missing, then the circuit closes the fuel valve. The fuel is denied and
+the combustor may be shut down or restarted. Since the device relies on a
+fundamental mechanism that all flames have to exist, changes to the
+combustor still enable the detector to function. The device is inherently
+fast since it measures a local event that precedes global flame-out. The
+flame-out detector can work in any combustor, with any fuel. The user only
+needs to measure the oscillations in the fuel line. Simply purchase or
+design a filter for the basic flame stability frequency. Then, reset the
+circuit for pulses at a time interval of one half of that frequency. The
+cost of building in quantity should be modest, and installation is simple.
+
+Options for Commercialization
+
+The technology is part of the NASA Technology Transfer Program. The program
+seeks to stimulate development of commercial applications from
+NASA-developed technology. The flame-out detector has been tested and used
+to render a high pressure combustor safe. One patent is pending, and NASA is
+seeking applicants to license the technology and/or partnerships to broaden
+and refine the technology.
+
+ 
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

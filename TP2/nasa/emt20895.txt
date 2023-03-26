@@ -1,0 +1,97 @@
+ 
+
+Reusable Software Components in Ada
+
+Reusable software components developed in the Ada programming language for
+many popular INTEL microprocessor support chips and communications standards
+are now available. These components save the application developer
+significant development costs. The components have been combined with driver
+level application programming interfaces to provide a complete
+communications package. For example, the chip level drivers for the 8250,
+16450, and 16550 universal asynchronous receiver transmitter (UART) have
+been combined with communication packages for a true multi-tasking
+communications package.
+
+Potential Commercial Uses
+
+Software applications which require interfaces to INTEL chip level drivers:
+
+   * Serial based communications programs
+   * High speed data transfer with direct memory access
+   * Timer based software applications
+
+Software applications which require 1553 based protocol support:
+
+   * Bus controller
+   * Bus monitor
+   * Remote terminal
+
+Software applications which require National Instruments AT-DIO 32F board
+support:
+
+   * High speed message transfers
+   * 16 or 32 bit parallel data transfers
+   * Digital discrete applications
+
+Benefits
+
+   * Portable (originally written for the Alsys Ada DOS compiler (32 bit))
+   * Reliable (flown on the space shuttle STS- 64 mission)
+   * Capable of multi-tasking Real or protected modes available
+   * Flexible
+   * Easy to use
+
+ 
+
+The Technology
+
+The software components were developed for the Space Transportation System
+(STS) 64 mission and have been extensively tested. The components were
+designed from the onset with true multi-tasking capabilities. There are well
+over 30,000 source lines of code (SLOC) with many person years in
+development.
+
+The components were originally written for the Alsys Ada DOS compiler (32
+bit) but can be easily ported to other compiler vendor platforms with little
+or no modifications. All components were developed to run in the protected
+mode of the INTEL 80386/80486 microprocessor for added capability and
+reliability. The following packages have been developed:
+
+Chip Level Packages:
+
+   * 8250, 16450, 16550 Serial Communications Controllers
+   * INTEL Multi-Protocol Serial Communications Controller (MPSC 8274)
+   * INTEL 8237 Direct Memory Access (DMA) Controller
+   * INTEL 8255 Programmable Peripheral Interface (PPI)
+   * INTEL 8259 Programmable Interrupt Controller (PIC)
+   * INTEL 8254 Programmable Interval Timer (PIT)
+
+Driver Level Packages:
+
+   * Serial Communications
+   * NETBIOS
+   * 1553 Bus Controller
+          Bus Monitor Remote Terminal
+
+Complete Applications:
+
+   * Simple Terminal Program (Input/Output)
+   * National Instruments AT-DIO-32F Digital
+   * Input/Output using the DMA controller package.
+   * 1553 Bus Controller, Monitor, Remote Terminal
+   * NETBIOS Communications Package
+
+Options for Commercialization
+
+NASA seeks industry partners to assist in developing production-quality chip
+and driver level Ada software packages. This commercialization opportunity
+is part of the NASA Technology Transfer Program. The objective of this
+program is to pro actively involve the private sector in NASA's programs to
+ensure that the technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

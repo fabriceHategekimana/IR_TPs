@@ -1,0 +1,100 @@
+ 
+
+An Affordable Architecture for Full Internet Access
+
+As the amount and variety of information available on the Internet continues
+to expand, an efficient and economical method for accessing Internet
+resources becomes increasingly important. An affordable method for
+connecting a local area network (LAN) to Internet services including E-mail,
+gopher, file transfer protocol (FTP), and the World Wide Web (WWW) has been
+developed by NASA Langley's High Performance Computing and Communications
+K-12 Program and is currently being implemented by public school systems
+within the Virginia Hampton Roads region. An Ethernet LAN that consists of
+more than 20 Macintosh, PC-compatible, and UNIX computers can have full
+Internet access with only a single standard phone line. The affordability of
+this model is achieved by distributing the financial burden of the high-cost
+items (high-bandwidth Internet connection and full-time network system
+administration) throughout a regional consortium. Thus, after an initial
+capital investment, the only remaining cost is a small monthly fee paid by
+each local site to support the consortium's central connection hub.
+
+Potential Commercial Uses
+
+   * K-12 education: Provide student access to the most current, up-to-date
+     information on the Internet
+   * Libraries: Internet workstations for public use
+   * Small-business consortia: Low-cost internal networking to provide
+     Internet access and E-mail
+
+Benefits
+
+   * Low cost: After an initial investment of less than $10K per site,
+     monthly line and consortium costs of about $100 per site (based on
+     number of members within the consortium)
+   * Continuous, graphical Internet access: No dialing of phone numbers, no
+     hourly usage limits or charges
+   * Based on open standards: No proprietary standards are used
+   * Efficient use of resources: One phone line provides Internet
+     connectivity for more than 20 computers
+   * Decentralized: Each computer has a unique Internet address. Each site
+     can assign hundreds of E-mail accounts
+   * Proper foundation for expansion: Upgradeable without major hardware
+     changes or personnel retraining
+
+ 
+Consortium-based Internet Access Model
+
+The Technology
+
+Since 1993, the NASA Langley HPCC K-12 Program has been developing and
+implementing a low-cost Internet connection model for high schools on the
+Virginia Peninsula. This model includes the system design, training, and
+support, needed to provide Internet access for a network of machines, rather
+than for individual machines. The infrastructure developed does not
+represent individual or groups of machines that dial out into a bulletin
+board system (BBS) or access the Internet with text-only terminal emulation,
+but allows more than 20 machines per school to independently access the
+complete functionality offered by the Internet. As the demand for faster
+Internet access grows in the schools, the model has a simple expansion path
+that eliminates the need to replace major system components and retrain
+personnel. The functionality of this model is identical to that which exists
+at most universities and government laboratories.
+
+Two high-cost items are associated with the connection of a network to the
+Internet: UNIX system administration and a high-bandwidth connection to the
+regional Internet provider (SURAnet in the southeastern U.S.). By locating
+both resources at a central site and sharing these resources and their costs
+among the individual local sites throughout the region, a practical,
+efficient, and affordable infrastructure for providing Internet connectivity
+on a large scale has been developed. Each local site connects to the central
+site through an analog phone line with state-of-the-art commercial modem
+technology. By using data-compression techniques, effective throughputs of
+up to 70Kbit/sec are achieved, surpassing the uncompressed performance of
+current low-end leased-line technology.
+
+Observations of typical Internet usage within an environment, particularly
+school classrooms, have shown that after an initial period of "surfing," the
+Internet traffic becomes repetitive, with several hundred locations being
+visited frequently. By automatically storing the information contained at
+these Internet sites on a large-capacity, networked disk drive at the local
+site (known as disk caching), and updating this information only when it
+changes at the remote Internet site, well over 70 percent of the Internet
+traffic that leaves a location can be eliminated. The requested information
+is retrieved from the local disk cache.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. This low-cost architecture for full Internet
+access has been implemented and proven in Virginia's Hampton Roads public
+school system and is currently being implemented in southwestern Virginia.
+NASA is seeking applicants to cooperatively develop and implement this
+technology in the private sector.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

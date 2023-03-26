@@ -1,0 +1,69 @@
+ 
+
+Electronically Scanned Multi-Channel Cryogenic Pressure Sensor
+
+NASA has produced a miniature multichannel pressure measurement module. The
+unit is 5.5 cm long, 2.5 cm wide and 3 cm high with drift free accuracy. The
+instrument will remain fully functional from -195 degrees C (-320 F) to +100
+degrees C (212 F) and consists of an array of custom micromachined silicon
+sensors. Small tubes connect the instrument to the point at which the
+pressure is to be measured. A computer scans each sensor in the array
+thousands of times each second to read the pressure.
+
+Potential Commercial Uses
+
+   * Magnetic Resonance Imaging
+   * Supercomputing
+   * Liquefied Natural Gas Handling
+   * Fluid Research
+
+Benefits
+
+   * High Accuracy
+   * Extremely Wide Temperature Range
+   * Long Term Calibration Stability
+   * High Speed Measurements
+
+The Technology
+
+A prototype multichannel pressure transducer module has been designed and
+fabricated with materials optimized for reliable performance in the
+cryogenic environment. The module has 16 single crystal silicon
+piezoresistive pressure sensors electrostatically bonded to a metallized
+Pyrex substrate for sensing wind tunnel model pressures. An integral
+temperature sensor mounted on each silicon micromachined pressure sensor
+senses real-time temperature fluctuations to within 0.1 degree Celsius to
+correct for thermally induced non-random sensor drift.
+
+ 
+Cutaway drawing of single channel silicon sensor
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on various Langley held patents for cryogenic multichannel pressure
+sensor technology.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+ 
+Electrostatic bonding apparatus which includes tube furnace, vacuum pump and
+airtight quartz tube with electrical feed-throughs for temperature
+monitoring and high voltage source
+
+ 
+Typical glass substrate with gold circuit and electrostatically bonded
+silicon sensors
+
+ 
+Completed, sensor array with scanning chips mounted on tubing fixture
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

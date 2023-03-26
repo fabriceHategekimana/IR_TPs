@@ -1,0 +1,79 @@
+ 
+
+Severing Materials By Augmented Shock Wave Fracture
+
+A new approach has been developed for severing or weakening a variety of
+materials. Parallel grooves are cut into the material surface, and explosive
+cords are embedded into the grooves. Simultaneous initiation of the
+explosive cords produces shock waves which cause the material to weaken or
+fail at the desired location. The technique produces no harmful debris as a
+result of the process.
+
+Potential Commercial Uses
+
+   * Fighter aircraft escape
+   * Canopy severance to allow through-canopy ejection
+   * Crew module severance
+   * Panel severance
+   * Commercial aviation
+   * Severing passenger egress panel
+   * Severing panels for fire suppression/venting
+   * Launch vehicle staging
+   * Severing panels for missile deployment and recovery
+
+Benefits
+
+   * No harmful inboard debris
+   * Simpler assembly than those in common usage
+   * Embedding of explosive cord provides damage protection
+   * For canopy severance
+   * Minimum visual interference
+   * Simple modification to existing canopy
+   * No loss in canopy strength
+   * For commercial aviation
+   * Replace plug-type openings with solid panel
+   * Resistant to jamming
+   * Reduce weight of opening
+   * Reduce maintenance
+
+ 
+Cross sectional view of augmented shock wave severance approach in metal.
+Bottom notch not required for canopy materials.
+
+ 
+Conceptual view of incident and reflected shock waves in metal to produce an
+augmented tensile front on the centerline.
+
+The Technology
+
+This is a new approach for severing or weakening a variety of materials. The
+technique employs embedding explosive cords into parallel grooves that are
+cut into a surface of a material. The cords are initiated simultaneously to
+produce shock waves that progress toward the centerline between the cords
+and the lower surface of the material. Intersecting incident and reflected
+waves augment at the centerline to fail or weaken the material in tension.
+No harmful debris is produced in the opposite side of the material from the
+explosive cords. The explosive material selected for a particular
+application depends on the environment requirements. Explosive cords are
+available that are stable at cryogenic temperatures to 350 deg. F, and from
+high pressures to deep-space vacuum.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products,
+using this explosive severing process. An agreement is currently in effect
+with McDonnell Douglas, St. Louis for explosive fracturing of fighter
+aircraft canopies. A jointly authored patent application has been filed.
+Future patentable processes, developed through joint agreements, can be
+fully exploited without licensing, and without royalty sharing. This
+commercial opportunity is part of the NASA Technology Transfer Program. The
+objective of this program is to proactively involve the private sector in
+NASA's research programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

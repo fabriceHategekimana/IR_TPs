@@ -1,0 +1,76 @@
+ 
+
+Affordable General Aviation Electronic Pilot Weather Reporting System
+(EPiREPs)
+
+Electronic Pilot Weather Reporting System (EPiREPs) is a system of
+collecting real time weather data directly from sensors on a flying aircraft
+and datalinking it to the ground automatically for observation and
+forecasting use. Upper air (3000-18,000 ft) wind, temperature, humidity,
+icing, turbulence, and lightning detection are the target parameters. Upper
+air is where severe summer and winter convective and storm activity spawns
+and develops. All data will be geographically tagged by GPS to pinpoint the
+measurements.
+
+Potential Commercial Uses
+
+   * Retrofit existing general aviation aircraft with the state-of-the-art
+     sensors and provide aftermarket products
+
+   * Forward fit all new aircraft including the advanced GA aircraft
+
+   * Network the resolved weather data products to other National
+     Transportation System users such as trucks, rail, marine, forestry,
+     emergency medical services, school buses, and recreation facilities
+
+Benefits
+
+   * Better national forecasting and severe storm warning for all aspects of
+     life
+   * Increased safety of flight and transportation
+   * Increased business efficiency by avoidance/rerouting/rescheduling
+   * Increased EMA response and disaster recovery through intelligent
+     weather knowledge
+   * Value-added to the U.S. Gross Domestic Product (GDP) and public benefit
+
+The Technology
+
+General Aviation (GA) adds $45 billion directly to the GDP of the U.S. each
+year. Bad weather detracts $8 billion from the GDP output by causing delays
+and safety hazards. The National Weather Service has a $4 billion
+modernization program underway to significantly increase the "nowcast"
+capabilities of the system by upgrading sensors such as radar and airfield
+observation automation. Still, extensive UPPER AIR DATA DOES NOT EXIST
+(rawinsondes only account for 200 soundings per day and they are expensive,
+"intrusive" devices). Since over 70% of the FAA traffic is GA and is the
+predominant force (tens of thousands) in the air at any one moment, 24 hours
+per day, using GA aircraft as automated airborne data collection platforms
+yields a win-win scenario.
+
+NASA has taken the lead to make EPiREPs a reality by funding ARNAV Systems
+Inc. through Phase I and II of EPiREPs development. ARNAVs innovation is the
+use of commercial off-the-shelf, low cost/volume/weight sensors and
+telecommunications systems integration experience to accomplish the task.
+
+Options for Commercialization
+
+ARNAV Systems seeks to commercialize this package with General Aviation
+enthusiast, and commercial aircraft companies.
+
+These commercialization/technological development opportunities are part of
+the NASA SBIR program. An objective of the SBIR program is for NASA to
+actively be involved in technology transfer while giving the small business
+a chance to develop and commercialize innovative and technically risky
+products.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If you are interested in the EPiREPs package, or if you would like
+additional information, please contact:
+
+Frank Williams ARNAV Systems Pierce County Airport 16923 Meridian East
+Puyallup, WA 98373 Phone: 206-848-3502 Fax: 206-848-3555
+

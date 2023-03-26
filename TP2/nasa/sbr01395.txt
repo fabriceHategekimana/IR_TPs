@@ -1,0 +1,109 @@
+ 
+
+Rapid Electron-Beam Cured Composite Resins
+
+10 MeV electron beam (E-Beam) cure processing has been found to increase the
+cure rate by an order of magnitude over thermally cured systems, yet provide
+less molded in stresses and high T(g)s. The technology,introduced by an
+academia-industry partnership sparked by NASA's Langley Research Center,
+utilizes a cost effective, rapid curing processing technique for polymeric
+composites which effectively reduces the need for expensive, thermally
+stable tooling and energy/time inefficient autoclave processing. The beam
+can cure the laminate in seconds, (compared to hours for autoclave thermal
+curing), in ambient or sub-ambient conditions. The process is based on
+E-Beam curing of a new series of specially formulated, 65 to >1,000,000 cPs
+resins that have been shown to exhibit excellent mechanical and physical
+properties once cured.
+
+ 
+
+ 
+
+Potential Commercial Uses
+
+   * Corona and ozone resistant insulations, coatings and potting compounds
+     for the electric power distribution industry
+   * Radar, sonar and microwave transparent domes with low dielectric
+     constant and loss
+   * Thick composite submarine and ship hulls, with corrosion resistance and
+     biofouling release properties
+   * Truss structures for civil engineering infrastructural applications
+   * Composite radomes, potting compounds and adhesives (e.g. structural,
+     die attach etc.)
+   * Pultruded and filament wound, prepreg and RTM molded composites
+   * Molded components include primary aircraft structures and other high
+     fuel efficiency sensitive, lightweight transportation applications such
+     as car frames and safety cages and other structures replacing steel,
+     rail cars, trailers, buses and subways
+   * Sporting goods such as bike frames, rackets, and golf clubs, Sailboat;
+     masts, hulls and superstructures
+   * High thermal stability composite tooling directly from a low
+     temperature master such as wood
+   * Space Deployable Rigidized Lightweight Inflatable Structures
+
+Benefits
+
+   * Innovative polymers form protective low earth orbit atomic oxygen
+     resistant (AOR) glass surface layer in low earth orbit (Aeroplas AOR
+     resin series)
+   * Composites made from these polymers have excellent strength, modulus
+     and toughness and one series is fire retardant
+   * Low shrinkage, CTE and low molded in stresses since the E-Beam curing
+     takes place at room temperature
+   * High thermal stability possible without postcure, making low cost,
+     once-off tooling a reality
+   * Very low moisture regain and outgassing for ideal space cleanliness
+     conditions
+   * Extremely rapid cure time and >1" cure thickness in one pass with new
+     lower cost compact accelerators
+   * Energy efficient, environmentally friendly, solventless, no amine
+     curing agent required and non-toxic resin components
+
+The Technology
+
+A wide range of resins are now available that, when cured by the 10 MeV
+E-Beam curing technique, possess performance properties equal or exceeding
+current state-of-the-art toughened epoxies and BMI's. These new resins can
+be successfully cured with solar, ultraviolet and E-Beam radiation. The
+resins cure in seconds, compared to hours for thermal curing, in ambient or
+sub-ambient conditions. The E-Beam cured Aerotron AOR series polymers, when
+exposed to AO, form an AO resistant glass surface layer, eliminating the
+need for a temporary metallic or ceramic coating. The non-amine cured epoxy
+base resins exhibit excellent physical and mechanical properties, low
+shrinkage, good impact resistance and low outgassing when compared to
+currently utilized thermally cured epoxy composites. Other lower cost epoxy
+based resins are also available. The E-Beam curing process is energy
+efficient, and both the E-Beam curing process and the cured resins are
+engineered to be hygienically safe, environmentally friendly, energy
+efficient.
+
+Options for Commercialization
+
+Aeroplas Corporation is seeking to license this NASA Langley SBIR technology
+or formulate additional resins for proprietary customer applications in
+addition to their own patent pending cationic cure AOR and lower cost epoxy
+based resins formulated for all types of composite manufacturing processes.
+
+These commercialization/technological development opportunities are part of
+the NASA SBIR program. An objective of the SBIR program is for NASA to
+actively be involved in technology transfer while giving the small business
+a chance to develop and commercialize innovative and technically risky
+products.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Thomas C. Walton
+Aeroplas Corporation International
+265B Proctor Hill Road (Route 130)
+Hollis, NH 03049-6427
+E-Mail: tcwalton@aeroplas.com
+WWW Site: http://www.aeroplas.com
+Sales/Technical Phone: 508-433-9351
+Plant/Lab: 603-465-7300 FAX: 603-465-9799
+

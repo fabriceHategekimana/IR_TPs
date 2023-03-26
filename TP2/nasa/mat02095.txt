@@ -1,0 +1,75 @@
+ 
+
+Shape Memory Alloy
+
+Design, Fabrication, and Testing of an SMA Actuator
+
+Shape memory alloys (SMAs) are a special class of adaptive materials that
+can convert thermal energy directly into mechanical work. The shape memory
+effect occurs when the alloy is mechanically deformed at low temperatures
+then, when heated above a critical transition temperature, results in the
+restoration of the original "memory" shape of the specimen.
+
+Potential Commercial Uses
+
+   * Couplers: pipe couplings, electric connectors, package clamps
+   * Temperature control devices: air conditioning controllers, shower head
+     scald protection, overheat monitors, fire control safety valves and
+     releases, radiator fan clutches, gas shut-off valves, water sprinklers
+   * Medical Devices: Orthodontic wire (braces), orthopedic implants,
+     Harrington rods, aneurysm clips, dental drill bit regulator, prosthetic
+     limbs, steerable catheters, surgical anchors, clot filters
+   * Separation mechanisms: manipulator release, buoy or tether release,
+     ballast system release, launch-locking, payload jettison, protective
+     shielding detachment, quick connect/ disconnect joints, ejection seats,
+     fin lock/unlock release
+   * Miscellaneous: heat engines, mechanical muscles (robotics), toys,
+     eyeglass frames, brassiere wire, connectors, fog lamp louvers, latching
+     devices, motor protectors, valves, circuit breakers, retractable
+     headlights
+
+ 
+Electrically driven technology demonstration actuator
+
+Benefits
+
+   * Performance: High strength, biocompatibility, high recovery force, and
+     excellent resistance to corrosion and fatigue make memory metal
+     suitable for a wide range of applications. This unique material will
+     function in water and in other liquids, in a vacuum, and in most
+     hazardous environments. Actual units can be non-destructively tested
+     after installation.
+   * Key Features: Due to a high force output per unit volume the use of
+     shape memory wire as a replacement to conventional actuator systems can
+     lead to smaller and lighter-weight mechanisms.
+   * Fabrication: Shape memory alloys are available in a wide variety of
+     forms including wire, plate/sheet, bar/rod, tube, and thin film.
+
+The Technology
+
+As a result of a one year in house research project, researchers at NASA
+Langley achieved a fundamental understanding of Nickel Titanium shape memory
+alloy behavior. The effort included developing an in-house capability to
+instill memory in NiTi wire and the design, fabrication, and automated
+testing of an electrically driven technology demonstration actuator.
+Preliminary characterization to verify analytically predicted displacement,
+force and actuation speed at room temperature was also performed.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on technology under a space act agreement. NASA currently has no
+patent coverage in this area, therefore there are no associated royalty fees
+to commercialize this technology.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA programs to ensure that the technology will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

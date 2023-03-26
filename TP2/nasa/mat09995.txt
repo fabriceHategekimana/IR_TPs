@@ -1,0 +1,82 @@
+ 
+
+A Test Method for Determination of Energy Absorption Characteristics of
+Composite Materials
+
+A test method for determining the energy absorption capability of composite
+materials has been developed. The test fixture, shown in the photograph,
+supports flat composite plate specimens as compressive load is applied, such
+that global buckling is not induced prior to crush initiation of the plate.
+The plate may be crushed by as much as 80% of its original length. The
+energy absorbed by the crushed plate is equal to the area under the load
+versus deflection curve (a typical data plot is shown).
+
+ 
+Typical load-displacement plot
+
+Potential Commercial Uses
+
+   * Crashworthy design of rotorcraft/aircraft subfloors fabricated of high
+     strength, low weight composite materials
+   * Crash barriers for highways
+   * Protective containers
+   * Crashworthy design of other vehicles such as automobiles, tanks, and
+     boats
+   * Crashworthy design of machinery and bumpers
+
+ 
+Photograph of Crush Test Fixture
+
+Benefits
+
+   * Replaces expensive tube crush technique
+   * Serves as a material screening test for energy absorption
+   * Test fixture can accommodate plates of two different sizes
+
+The Technology
+
+Energy absorbing structural elements are often used to enhance the safety of
+a vehicle during crash events. This test fixture enables designers to screen
+various composite material systems and different lay-up combinations to
+maximize energy absorption potential. The fixture provides lateral support
+to the plate specimen during compressive loading. Typically, a trigger
+mechanism is machined along one end of the plate. The trigger mechanism
+serves as a site for crush initiation. A stable crushing response produces
+the maximum energy absorption.
+
+The test fixture has been used to conduct static and dynamic impact tests on
+graphite-epoxy plates and graphite-PEEK plates, of the same lay-up and size.
+These tests demonstrated that the PEEK resin specimens had superior
+performance compared to the standard epoxy resin specimens when tested under
+static load; however, under dynamic load, strain rate effects reduced the
+energy absorption of the PEEK resin specimens.
+
+In November 1994, ASTM established a task group to investigate test methods
+for determining energy absorption capabilities, and to evaluate this crush
+test fixture, in particular, as a standard test method for energy
+absorption.
+
+The test fixture was designed and tested by researchers at Virginia
+Polytechnic Institute and State University, through grant support by NASA
+Langley Research Center.
+
+The crush test fixture was recently used as a composite material system and
+laminate stacking sequence screening test for the subfloor design of the MD
+Explorer Helicopter, manufactured by McDonnell Douglas, for improved
+crashworthiness.
+
+Options for Commercialization
+
+The crush text fixture technology is available for licensing. NASA LaRC
+seeks commercial partners for the joint development of this technology. This
+commercial opportunity is part of the NASA Technology Program. The objective
+of this program is to proactively involve the private sector in NASA's
+programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

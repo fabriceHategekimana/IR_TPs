@@ -1,0 +1,65 @@
+ 
+
+Oxygen-free Welding Contact Tips
+
+NASA Langley Research Center has developed a new contact tip to be used with
+robotic welding equipment. The oxygen-free welding contact tip replaces
+existing standard oxygen impregnated copper tips, and offers significant
+savings in cost and time. In applications using the oxygen-free tip, contact
+tip replacement down time is reduced, electrical characteristics are
+improved, and fewer welded parts are rejected.
+
+Potential Commercial Uses
+
+   * Robotic welding applications
+   * Automotive manufacturing
+   * Heavy structure manufacturing
+   * Any mass production processes utilizing robotic welding
+
+ 
+
+Benefits
+
+   * Less down time for robotic welders
+   * Longer equipment life
+   * Improved electrical characteristics
+   * Fewer part rejections
+   * Cost savings
+
+ 
+
+The Technology
+
+Contact tips for gas/metal arc welding (GMAW) have been fabricated from an
+oxygen-free copper, significantly reducing the electrical erosion rate.
+Standard GMAW contact tips, which are manufactured from a low grade, oxygen
+impregnated copper are considered to be expendable items. Problems
+associated with electrical erosion in robotic welding of heavy weldments
+include the need to spend excessive down time in the removal and replacement
+of the contact tips. The material used for manufacture of the prototype
+contact tip is an oxygen free copper (ASTM F-68-92) for electron devices.
+Use of the oxygen-free contact tip material reduces electrical erosion,
+improves electrical conductivity, and reduces mechanical wear. Robotic
+welding productivity is increased, while equipment down time for contact tip
+removal and replacement is minimized. Joint/filler metal alignment also
+improves, reducing the rejection/repair rate for unacceptable weldments due
+to joint misalignment.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on the Oxygen-free Contact Tip invention. NASA was issued a U.S.
+patent entitled "Substantially Oxygen-free Contact Tip," (# 5,192,852), and
+welcomes inquiries regarding possible licensing of this technology.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's research programs to ensure that the technology developed will
+have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

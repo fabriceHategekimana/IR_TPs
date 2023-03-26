@@ -1,0 +1,73 @@
+ 
+
+Pressure and Temperature Imaging System
+
+A new method has been developed for simultaneous pressure and temperature
+imaging on a specially prepared surface with stability and sensitivity at
+higher temperatures and with faster response time than previously thought
+possible. The new method uses a unique ceramic-dye matrix which glows a
+green-red color when exposed to blue light. The brightness and color ratio
+of the glowing or luminescent surface are separately functions of pressure
+and temperature. Using a technique known as chromatic sensing, the
+luminescence is measured and pressure and temperature mappings are
+calculated with an image processing computer.
+
+ 
+
+ 
+Potential Commercial Uses
+
+   * Chemical sensing: oxygen sensing/mapping for rugged environments
+   * Aerospace diagnostics: use for surface pressure and temperature mapping
+     in high temperature and short duration test facilities
+   * Transition measurements: use for surface flow measurements where
+     highly-polished aerodynamic surfaces are required
+
+Benefits
+
+   * Performance: ceramic-dye matrix enables simultaneous pressure and
+     temperature imaging with high temperature stability and fast time
+     response
+   * Smoothness: ceramic-dye surface may be polished to a glass-smooth
+     finish
+   * Economy: imaging techniques have proven faster and less expensive than
+     conventional instrumentation for high- density surface measurements
+
+The Technology
+
+Pressure and temperature imaging system is based on measurements of induced
+luminescence brightness and color ratio from an organic-dye/ceramic matrix
+and sensitivity to oxygen quenching and thermal environment. Luminescence
+performance is highly dependent on matrix preparation and is stable once the
+matrix is set.
+
+At present the ceramic-dye matrix may be prepared by either saturation and
+processing of a porous ceramic surface or spray coating with a colloidal
+suspension of ceramic power.
+
+This technology has potential application for surface measurements of air
+flow or oxygen pressure for very fast response (< 50 msec), relatively high
+temperature stability (> 150 deg. C) and intrinsic measurement of both
+temperature and pressure. The technique was presented at the AIAA Aerospace
+Ground-Testing Conference, June 1994. The technique is being developed for
+hypersonic blow-down wind tunnels at NASA Langley Research Center with
+slip-cast ceramic test models.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on the simultaneous pressure and temperature imaging system. This
+technology is very new and is currently being reviewed for patent
+application.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

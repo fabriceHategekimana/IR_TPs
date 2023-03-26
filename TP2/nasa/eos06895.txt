@@ -1,0 +1,53 @@
+ 
+
+Nonintrusive Planar Optical Diagnostics Planar Laser-Induced Fluorescence
+(PLIF)
+
+Nonintrusive optical diagnostics provide the means to study many aspects of
+aeronautics. These include the flow around objects in subsonic, supersonic,
+and hypersonic flows in cold flow facilities. Also, combustion flows can be
+probed. Since the method is an optical technique, it is nonintrusive and
+does not disturb the flow as do physical probes.
+
+Potential Commercial Uses
+
+   * Windtunnel instrumentation
+   * Probe for internal combustion engine efficiency
+   * Ramjet and Scramjet instrumentation
+   * Probe flame composition and structure
+   * Optical thermometry
+
+ 
+Optical instrumentation
+
+Benefits
+
+   * High combustion species sensitivity
+   * Nonintrusive
+
+ 
+Experimental schematic
+
+The Technology
+
+The instrumentation and results described here are designed specifically to
+probe combustion environments. The technique uses a high energy pulsed laser
+with appropriate optics to generate a light sheet. This light sheet
+interacts with molecules in the flow and generates a fluorescence signal.
+The resulting signal is viewed with an intensified CCD camera, digitized,
+and stored for later analysis. Both qualitative data on the size and
+location of flow structures as well as quantitative data such as temperature
+and density can be obtained.
+
+ 
+Burner exit and flow schematic
+
+ 
+Supersonic burner
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

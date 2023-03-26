@@ -1,0 +1,105 @@
+ 
+
+Integration of Mechanical Design, Analysis, and Fabrication Processes
+
+Mechanical design has been integrated with thermal, structural and optical
+analysis, and with fabrication. Electronic import of the model geometry
+eliminates the repetitive steps of geometry input to develop each analysis
+model, leading to faster and more accurate analyses. Electronic transfer of
+a part to fabrication eliminates the need to manually input a complex
+geometry into a numeric control (NC) machine.
+
+ 
+
+Potential Commercial Uses
+
+   * Any design or manufacturing process, e.g.
+        o Automotive
+        o Appliance
+        o Plastics
+        o Airplane
+        o Nuclear
+   * Laboratory optical testing
+   * Automated process analysis
+   * Nuclear plant analysis
+
+Benefits
+
+   * Rapid model development
+   * Accuracy and precision of models
+   * Ease of analysis transfer
+   * Automatic tolerance definition and fit-checking
+   * True optical performance predictions
+   * Rapid, efficient and exact fabrication
+
+ 
+
+The Technology
+
+In many industries there has recently been a concerted movement toward
+concurrent engineering: the idea of integrating the design and analysis
+processes so that they are not separate, sequential processes (often
+involving design rework due to analytical findings) but instead form an
+integrated system with smooth transfers of information. Electronic
+integration of design and analysis processes was achieved and refined at
+NASA Langley Research Center during the development of an optical bench for
+a laser-based aerospace experiment. Accurate predictions of optical bench or
+test bed deflections are necessary to calculate beam paths and determine
+optical performance. All analysis processes have lately been challenged to
+create a more streamlined process and include all known variables to produce
+the best possible predictions. These goals can be accomplished by using an
+integrated process to accomplish design and all analyses. This integrated
+analysis process has been built around software that was already in use by
+designers and analysts at NASA Langley. The process as currently implemented
+at NASA Langley uses Pro/Engineer for design, Pro/Manufacturing for
+fabrication, PATRAN for modeling and post-processing, NASTRAN or Mechanica
+for structural analysis, SINDA or P/Thermal for thermal analysis, and CODE-V
+for optical analysis. At the present time, the only analysis model that must
+be built manually is the CODE-V model; all others can be imported from the
+Pro/E geometry. The results from the thermal and structural analyses can be
+exported to CODE-V to produce optical analyses based on the predicted
+deflections due to temperature and load distributions. Most of these
+integration and interface steps are also possible with other software,
+although some of the translators were developed or modified for use with
+this specific software.
+
+ 
+
+ 
+
+Options for Commercialization
+
+This type of design/analysis/fabrication integration is being developed by
+many manufacturing companies (such as automotive). This technology is an
+extension of commercially available software functions, and includes some
+in-house developed code and methods. There is no patent licensing involved.
+Our status in this integration is displayed to assist companies that are
+attempting to more fully integrate their own design and analysis processes.
+
+   * Software available free of charge* from the COmputer Software
+     Management and Information Center (COSMIC)
+        o NASTRAN (structural)
+        o SINDA-85 (thermal)
+        o PATCOD (PATRAN to CODE-V)**
+        o PATEAL (PATRAN to EAL)**
+
+* To government and those government contractors requiring the software for
+a specific contract
+** To be released in the near future
+
+   * Commercial codes used*
+        o ProEngineer (design/fab)
+        o PATRAN (modeling)
+        o CODE-V (optical)
+        o MSC NASTRAN (structural)
+        o Mechanica (structural)
+
+* Listing of these commercial programs does not constitute an endorsement by
+NASA
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,67 @@
+ 
+
+Computer Numerical Control Composite Patternmaking
+
+Composite patternmaking uses Computer Numerical Control (CNC) machining to
+create a foam and fiberglass structure which is lightweight, stiff and holds
+its shape well. Using lightweight polyurethane foam, the pattern is machined
+by computer generated programs, allowing for skin thickness normal to the
+required surface. Tool marks are slightly sanded to provide a smooth
+surface. Next, a skin of fiberglass and resin is applied by hand onto the
+core, building up to the required shape and size. The pattern is then
+reinstalled on the CNC machine for necessary trimming. The CNC process is
+also capable of creating mold surfaces, and if applicable entire parts can
+be fabricated rather than patterns or molds.
+
+ 
+Machining the pattern
+
+Potential Commercial Uses
+
+   * Aviation:
+        o wind tunnel research models
+        o radio-controlled flight models
+   * Automotive:
+        o wind tunnel research models
+   * Recreational sports:
+        o boats
+        o snowboards
+
+Benefits
+
+* Time and labor savings
+* Greater accuracy and symmetry
+* Ease of fabricating complex shapes
+
+The Technology
+
+Traditional fabrication techniques of wind tunnel models using wooden
+patterns is labor intensive and presents numerous obstacles to the craftsman
+including deformation associated with climatic changes, splintering due to
+carving against irregular grain structures. CNC fabrication techniques, on
+the otherhand, use foam materials which have lack grain structure thus
+saving machining time and improving fabrication accuracy. Additional time
+savings can be attained when symmetrical parts are produced by mirroring
+programs generated for one half of the part.
+
+Many variations can be derived from this composite patternmaking technique.
+Should the pattern shape become too complex for hand laying the fiberglass
+due to large skin thickness and accuracy requirements, the glass and resin
+surface can be lightly machined to the correct shape. Alternatively patterns
+can be machined and the manual addition of parting planes completes the
+preparation for the molding process. The CNC process is also capable of
+creating mold surfaces, and if applicable entire parts can be fabricated
+rather than patterns or molds.
+
+NASA Langley seeks commercial partner for the joint development of this
+technology. This commercial opportunity is part of the NASA Technology
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

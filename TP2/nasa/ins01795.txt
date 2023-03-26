@@ -1,0 +1,57 @@
+ 
+
+Esophageal and Urodynamic Catheter
+
+A circumferential pressure probe has been developed that addresses some of
+the problems existing catheters have when used to measure pressures inside
+various body cavities. This probe is a flexible catheter which permits
+discrete measuring segments to be positioned longitudinally along the length
+of the catheter according to the function for which it was designed. This
+may be a distal segment located at some distance from a series of closely
+spaced segments encountered in urethral diagnostic studies or they may be
+evenly distributed along a longer system for esophageal motility studies.
+
+ 
+
+Potential Commercial Uses
+
+   * Urethral dysfunction and incontinence studies
+   * Esophageal motility and diagnostics studies
+
+Benefits
+
+   * Accurate assessment of sphincter competence is obtained quickly
+   * Multi-sensors allow simultaneous measurement of pressure profile
+   * Sensitive to complete circumferential pressure distribution
+
+The Technology
+
+Cylindrical measuring segments are formed in the shape of a "C". Deformation
+of the open side of the segment is caused by external circumferential
+pressures. Strain gages at the base of each segment sense the induced
+strains caused by the deformation and produce an electrical output
+proportional to the circumferential pressures. Interconnecting several
+measuring segments with miniature bellows provides needed flexibility and
+allows segment spacing to be determined by the application. For urodynamic
+studies, five segments are located within a 3.7 cm section and a sixth
+sensor is located at the distal end to sense the reference bladder pressure.
+For esophageal studies, one might have as many as twenty sensors on a
+one-centimeter spacing.
+
+ 
+Esophageal and Eurodynamic Catheter
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products.
+This commercialization opportunity is part of the NASA Technology Transfer
+Program whose objective is to proactively involve the private sector in
+NASA's programs to ensure that the technology developed will have the
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

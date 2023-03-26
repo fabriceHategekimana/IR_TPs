@@ -1,0 +1,77 @@
+ 
+
+Active Control Of Noise
+
+Is Noise An Annoyance? Becoming annoyed by the irritating sounds your home
+appliances are constantly making? Is the equipment in your office or
+workplace producing unbearable noise? These annoyances may no longer disturb
+your work and pleasure time thanks to active noise control technology
+developed by researchers at NASA Langley Research Center. Once
+commercialized, this technology holds the promise to significantly reduce
+excessive low frequency noise in aircraft and in many other applications in
+everyday life.
+
+ 
+Present commercial application of active noise control use loudspeakers in
+aircraft cabins to reduce noise.
+
+Potential Commercial Uses
+
+   * Noise control in general aviation aircraft
+   * Noise control in automotive applications
+   * Noise/vibration control in trains and ships
+   * Noise control in portable factory offices
+   * Vibration sensitive instrumentation
+   * Reduction of fatigue failures in high vibration environments
+   * Reduction of factory noise
+   * Reduced vibration from hand operated machinery
+   * Control of office equipment noise
+   * Reduction of noise from home appliances
+
+ 
+A large scale fuselage model in Acoustic Research Laboratory anechoic
+chamber for evaluation of piezoceramic actuators in noise reduction
+experiment.
+
+Benefits
+
+   * Effective for low frequency noise/vibration
+   * Can be compact and lightweight
+   * Can be integrated with passive treatment
+   * Target particular frequencies and/or modes
+
+The Technology
+
+The noise and vibration experienced by aircraft (or automobile) passengers
+is a critical element to customer acceptance. Evidence of this is the use of
+quiet interiors as an advertising element by automobile companies. In
+aircraft, efficient acoustic treatments are particularly important in order
+to save weight. Recent work has demonstrated that active control concepts
+can be very effective at low frequencies where conventional passive
+treatments give poor performance. By employing acoustic sources in the cabin
+or force actuators on a vibrating structure, the noise exposure of the
+passenger and crew may be dramatically reduced. Control of noise propagation
+in ducts, radiation from vibrating panels and noise from aerodynamic sources
+have all been demonstrated. Active vibration mounts and active control of
+vibrational power flow in frame like structures have also been demonstrated.
+
+Another aspect to NASA's current technology development is the use of
+computer modeling for design optimization. Dividends are now being paid due
+to NASA support over the past 20 years of research towards developing finite
+element and boundary element prediction codes. Commercial computer programs
+are now available that may be used as design tools to optimize passive and
+active noise control treatments.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+A patent on control of vibration in framework structures has been granted
+and is available for license. Other patent applications are under
+consideration.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

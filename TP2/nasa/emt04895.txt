@@ -1,0 +1,71 @@
+ 
+
+STAGS/FRANC3D - Structural and Fracture Analysis
+
+STAGS is a geometric and material nonlinear finite element code used for the
+analysis of shell structures. FRANC3D is an automatic mesh generation code
+that performs fracture simulation on specified surfaces. These two codes are
+coupled in order to analyze complex structures and structural components
+with propagating cracks and to determine their residual strength.
+
+Potential Commercial Uses
+
+   * Linear and nonlinear stress and stability analyses
+   * Damage tolerance and residual strength analyses of aircraft structural
+     components
+   * Fracture analysis of pressure vessels such as water tanks
+   * Fracture analysis and damage tolerance analysis of marine vehicles
+   * Fracture analysis and damage tolerance analysis of automobile
+     components
+
+Benefits
+
+   * Most advanced nonlinear structural analysis code available
+   * Minimum computer resources required for complicated analysis
+   * Ability to model straight and curved crack growth in a nonlinear
+     equilibrium state
+
+ 
+Global Model of Fuselage Section
+
+The Technology
+
+STAGS is a geometric and material nonlinear finite element code for general
+shell structures and is capable of conducting strength, stability, and
+collapse analyses. STAGS can perform crack-propagation and residual strength
+analyses that represent the effects of crack growth on nonlinear shell
+response. Curved crack growth is simulated with adaptive mesh refinement
+using the solid modeling code FRANC3D. When modeling curved cracks, FRANC3D
+is used as a graphical interface between the user and STAGS. Results include
+strain energy release rates and stress intensity factors. A critical
+crack-tip opening angle (CTOA) is used to calculate residual strength.
+
+The figure shows an analytical study of the nonlinear response of a
+stiffened fuselage section with long cracks using STAGS/ FRANC3D. The
+structure is modeled with a hierarchical modeling strategy that accurately
+accounts for global and local response phenomena. The hierarchical models
+consist of a global fuselage section model and several smaller stiffened
+panel models. Internal pressure and mechanical bending loads are applied to
+the global model to obtain the proper load distribution. Boundary conditions
+are transferred from the global model to the smaller stiffened panel models
+which are used to study local effects. The effects of crack location and
+orientation on the response of the fuselage section are evaluated, as well
+as the effects of mechanical fasteners on the response of a lap joint in the
+structure.
+
+Options for Commercialization
+
+NASA Langley seeks industry partners to cooperatively develop commercial
+products based on the STAGS/FRANC3D technology. This commercialization
+opportunity is part of the NASA Technology Transfer Program. The objective
+of this program is to proactively involve the private sector in NASA's
+programs to ensure that the technology will have maximum commercial impact.
+Suitability of this technology to specific needs can be investigated at NASA
+Langley.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

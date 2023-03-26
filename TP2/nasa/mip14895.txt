@@ -1,0 +1,80 @@
+ 
+
+Combustibility Testing of R-134a Refrigerant
+
+Beginning January 1, 1996, the production of ozone-depleting (CFC)
+refrigerant will be banned in most industrialized nations. This ban has
+major implications for companies that operate and sell refrigerant
+equipment.
+
+Researchers at NASA Langley have recently completed tests on a
+hydrofluorocarbon, HFC-134a, that has emerged as a replacement for CFC-12 in
+many applications. A comprehensive database has been created to predict the
+combustibility behavior of HFC-134a over a range of operating conditions. In
+addition, a methodology for testing refrigerant gases at non-ideal
+temperatures, pressures, and concentrations has been developed.
+
+Potential Commercial Uses
+
+   * Refrigerant Management: The database can be used to establish
+     guidelines for the safe use and handling of HFC-134a. This information
+     is ideally suited to users with non-traditional or specialized
+     applications of CFC replacement gases
+   * Combustibility Testing: The test apparatus enables the user to
+     characterize the combustibility of a given gas for a range of
+     temperatures, pressures, and concentrations
+
+Benefits
+
+   * Database defines combustibility envelop for safe usage of HFC-134a
+   * Test apparatus can be used to investigate several ignition sources
+     including: exploding wire, hot surface, and auto-ignition
+   * A wide range of test conditions are possible: Temperature Range
+     (ambient temperature-600 deg. F)
+   * Pressure Range (atmospheric - 740 psia)
+   * Concentration Levels (2%-50%)
+
+ 
+Pressure vs. concentration , exploding wire ignition
+
+The Technology
+
+Hydrofluorocarbon (HFC-134a) has been developed as an alternative gas for
+chlorofluorocarbons. HFC-134a is thermodynamically similar to CFC-12 and
+contains no chlorine, therefore it has an Ozone Depletion Potential (ODP) of
+zero. It can be used in many applications that currently use
+dichlorodifluoromethane (CFC-12), such as refrigeration, polymer foam
+blowing, and aerosol products. HFC-134a, however, is combustible under
+certain conditions of temperature, pressure, and concentration with an
+oxidizer.
+
+NASA currently uses CFC-12 as the working medium in the Transonic Dynamics
+Tunnel (TDT), a large-scale wind tunnel at Langley Research Center. The
+CFC-12 or heavy gas is separated and reclaimed from the gas/air mixture by
+condensing. This reclamation process subjects the heavy gas/air mixture to a
+variety of pressures, temperatures, and oxidizer concentrations.
+
+HFC-134a was identified as a suitable replacement gas in the TDT. It was
+recognized, however that under conditions present in the TDT reclamation
+system, HFC134a/air mixture could form a combustible mixture. A test program
+was initiated at NASA Langley to characterize the combustibility of HFC-134a
+in terms of pressure, temperature, concentration, and type of ignition.
+Other tests were conducted to investigate the combustibility characteristics
+in the presence of nitrogen diluent and conditions favorable to flame
+propagation.
+
+ 
+R134a Charge and Purge Schematic
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to ensure that NASA-developed technology
+will have maximum benefit in the private sector.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

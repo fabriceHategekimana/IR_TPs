@@ -1,0 +1,92 @@
+ 
+
+Miniature Magnetic Surface Crawler with Color Zoom Camera and a Lightweight
+Pan & Tilt
+
+Visual Inspection Technologies Inc. (VIT) is currently developing a
+miniature color zoom camera system with pan & tilt that will be mounted on a
+remotely operated magnetic crawler. The system will play and integral part
+in NASA's plans to inspect portions of the Shuttle Launch Platform for
+damage caused during the launch. Previously this area of the launch platform
+was inaccessible or very difficult to reach.
+
+The project demands lightweight components, a high resolution real-time
+video image and seamless integration with the magnetic crawler. Zoom
+capabilities and a high resolution image will allow for highly detailed
+video images while auto camera functions and a pan & tilt will allow for
+versatility and easy operation. This combined technology offers a multitude
+of remote inspection, sensing, mapping and access applications.
+
+Potential Commercial Uses
+
+   * Tank and pressure vessel inspection for refineries and plants
+   * Ship hull applications (single or double hulls) or construction and
+     maintenance
+   * Nuclear Steam Generator inspection and radiological mapping
+   * Large-bore piping inspection for oil distributors and plants
+   * Hydro-electric pen stock inspections
+   * Confined space inspection
+   * Hazardous area inspection/viewing
+   * Electrical transformer inspection for utilities
+
+Benefits
+
+   * Manless entry
+   * Eliminates Scaffolding
+   * Documents inspection
+   * Improved safety
+   * Tolerant of adverse/dangerous environments
+
+The Technology
+
+Technological advancements are needed to insure that the magnetic crawler
+has a high degree of mobility while being securely fastened and to
+incorporate a powerful but lightweight color zoom camera and pan & tile
+system. Additional sensor packages may include ultrasonics, paint thickness,
+oxygen, radiation and profilometry.
+
+Visual Inspection Technologies, Inc. (VIT) presently manufactures a wide
+variety of packaged miniature color cameras. Throughout the 80's,
+advancements in CCD chip technology, electro mechanical components and
+design engineering have allowed VIT to produce camera systems that have
+continually decreased in size and weight while increasing picture quality.
+
+Recently, VIT developed the Ca-Zoom camera which is a small lightweight
+color zoom camera with auto focus, auto iris and macro capabilities. The
+camera weighs only eight ounces and has an 8:1 (6-48mm) power zoom lens,
+420,000 pixels or 460 H TV line output CCD imager, S-Video (Y-C) or
+composite (RS-170A) outputs and is RS-232 addressable and programmable. It
+can be packaged according to application requirements. To complement the
+weight of this camera, VIT also developed a lightweight and waterproof pan &
+tilt system and positional (angular) encoders/sensors.
+
+The advanced magnetic crawler for the NASA SBIR project is being supplied by
+SRI International. VIT manufacturers its own magnetically attached metal
+surface crawler which is currently used to visually and ultrasonically test
+large above-ground storage tanks, large diameter pipes and nuclear steam
+generators.
+
+Options for Commercialization
+
+The combined technologies of the remotely-operated magnetic metal surface
+crawler with miniature zoom inspection camera with pan & tilt is presently
+available for commercial use. Opportunities introduced by any company that
+wishes to further develop this technology for special applications are
+welcome. Visual Inspection Technologies presently works with several
+commercial partners on various projects.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Bruce Pellegrino, General Manager
+Visual Inspection Technologies, Inc.
+27-2 Ironia Road
+Flanders, NJ 07836-9172
+Phone: 201-927-0033 Ext. 801
+Fax: 201-927-3207
+

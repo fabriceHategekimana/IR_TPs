@@ -1,0 +1,65 @@
+ 
+
+The Surgical Force Detection Probe
+
+A new hand held multiple component force measurement device has been
+developed for use in the medical field. This device can be used to monitor
+the force applied to a patient throughout a medical operation. Readout
+instrumentation, which provides complete isolation between the input and
+output signals, is provided.
+
+Potential Commercial Uses
+
+   * Training tool to help residents to develop techniques required in
+     surgery
+   * Device to measure structural loads for a variety of industrial
+     applications
+   * Ergonomic tool design
+   * Handwriting analysis using the probe as an instrumented writing tool
+
+Benefits
+
+   * Performance: Allows establishment of base line force data during
+     surgery. To our knowledge, this type of force data has not previously
+     been acquired during surgery. Base line force data may lead to new
+     concepts in surgeries involving critical nerves
+
+   * Key Features: To our knowledge, there are no competing technical
+     products which are currently on the market
+
+   * Fabrications: Force measurement transducers using this technology can
+     be fabricated in a wide variety of sizes and can be as small as 0.25
+     inch in diameter
+
+The Technology
+
+The pen shaped surgical force detection probe, measuring 0.5 inch in
+diameter and six inches in length, was designed and fabricated using
+techniques derived from internal strain-gage balances. Strain-gage balances
+are standard force and moment sensing transducers which measure the
+aerodynamic force vectors and couples that are generated on models in wind
+tunnel testing. The technology requires machining measuring beams in a good
+spring material. This structurally weakens the material to make the beams
+sensitive to the loads to be measured. Strain-gages are applied to the
+measuring beams. The gages are wired in a wheatstone bridge arrangement.
+When connected to a power supply and data acquisition system, electrical
+signals proportional to the applied loads are produced and recorded. The
+surgical probe measures the forces and movement transmitted through the
+surgeon's hand to the human tissues.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial
+applications based on the Surgical Force Detection Probe.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

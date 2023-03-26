@@ -1,0 +1,94 @@
+ 
+
+Automated Software Safety Analysis Tool
+
+The PiSCES Software Safety Analysis Tool(TM) performs dynamic safety
+assessment of software. This tool can be used to determine the impact of
+hardware failures and software faults on software systems. Safety analysis
+can be applied during both software development and testing. The tool can
+determine if software faults can cause catastrophes to occur in the system,
+and it can provide a mean-time-to-catastrophe for a software system given
+its level of use. This software tool was developed under a NASA Langley
+Research Center SBIR contract.
+
+Potential Commercial Uses
+
+   * Avionics: Predict catastrophes due to mechanical and electronic
+     failures
+   * Medical security: Determine security of computer systems
+   * Nuclear power control systems: Predict effects of hardware/software
+     failures
+   * Transportation: Predict catastrophes due to mechanical and electronic
+     failures
+   * Communications: Predict catastrophes due to mechanical and electronic
+     failures
+
+Benefits
+
+   * Automated dynamic safety assessment tool
+   * Based on implementation, not just design
+   * Pinpoints regions in code where errors can cause catastrophes and where
+     additional fault-tolerant mechanisms are necessary
+   * Gives quantified mean-time-to-catastrophe for system
+   * Simulates various types of hardware failures and software faults
+   * User definable catastrophic conditions
+
+The Technology
+
+Today's software is being increasingly embedded into critical systems;
+failure of such software has the potential to cause catastrophic system
+failure and loss of life. Software safety analysis defines failures as
+either critical or non-critical, and attempts to assist in the design,
+development, and testing of systems such that critical failures will not
+occur.
+
+Traditional approaches to safety assessment have been static. Static
+analysis of the design can provide information as to the possibility of a
+fault in the system, and the possibility of that fault to cause a system
+failure. Static analysis' deficiency is that it is based on the design and
+ignores the implementation.
+
+RST has developed a dynamic safety analysis tool. Dynamic analysis attempts
+to place the software into one of the catastrophic states identified by
+static analysis, then examines the effects of that disastrous state on the
+overall system. By automating this analysis and allowing the user to define
+what is a catastrophe for the system, our tool can provide information as to
+the overall safety of the system.
+
+The basic research into performing dynamic, rather than the typical static,
+analysis of software safety was performed by RST with NASA Langley via the
+SBIR program. This research provided the technology to develop prototypes of
+dynamic analysis tools. Through the SBIR program, this technology has been
+applied to many popular programming languages and prototypes have been
+developed to explore the viability of a dynamic software safety assessment
+tool.
+
+Options for Commercialization
+
+RST markets the PiSCES Software Safety Analysis Tool(TM) which performs
+dynamic safety assessment on software written in both traditional C and ANSI
+C programming languages.
+
+RST is expanding the use of PiSCES to perform dynamic safety assessment on a
+variety of programming languages such as C++, Ada, and FORTRAN. RST is
+interested in contacting developers and testers of safety-critical software
+in order to apply our assessment tool to the safety analysis procedures of
+today's cutting-edge software development.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Aaron S. Binns
+Reliable Software Technologies Corp.
+Loudoun Tech Center
+12515 Ridgetop Circle, Suite 250
+Sterling, VA 20166
+Phone: 703-404-9293
+Fax: 703-404-9295
+Email: asbinn@rstcorp.com
+

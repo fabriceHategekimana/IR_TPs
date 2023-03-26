@@ -1,0 +1,91 @@
+ 
+
+Computational Fluid Dynamics
+
+Computational fluid dynamics (CFD) is defined as the numerical simulation of
+fluid dynamic flows. The field has grown rapidly over the past 25 years
+through advances in computer speed and algorithm efficiency into a mature
+tool for analysis and design. Viscous flow computations that were
+impractical 15 years ago can now be done on engineering workstations. In the
+aerospace industry, CFD is widely used and complements the traditional
+methods of experiment and theory for the design of aerospace vehicles.
+However, the technology has broad applications and is applicable to any
+component or device that operates in a fluid.
+
+ 
+Flow field computed over the F-18 vehicle at high angle of attack
+
+Potential Commercial Uses
+
+   * Analysis and design of aerospace vehicles: drag reduction studies for
+     supersonic and subsonic transports, performance predictions of highly
+     maneuvering aircraft, propulsion-airframe integrations,
+     single-stage-to-orbit vehicles
+   * Automotive applications: under-hood cooling flows, internal combusting
+     flows, external drag reduction, passenger compartment air ventilation,
+     windshield deicing, sunroof designs
+   * Other applications: submarine and surface ships designs, building wind
+     loads, turbines, compressors, blood flows, cooling devices
+
+Benefits
+
+   * Full flow-field detail: The entire flow field is available for display
+     and interrogation. In many cases, this information is impractical to
+     obtain otherwise.
+   * Reduced cost: Costly experiments and flight tests can be replaced with
+     parametric computational evaluations.
+   * Faster turnaround: In many cases, a CFD simulation can be constructed
+     and evaluated within hours to provide results much faster than through
+     experiment.
+   * Reduced variation: A CFD simulation can overcome restrictions
+     associated with experiment or flight tests, such as power limitations,
+     support interference effects, model imperfection effects, or scale
+     effects.
+
+ 
+Characteristics of the six NASA-developed codes for distribution as part of
+this technology opportunity
+
+The Technology
+
+CFD is a discipline that solves a set of equations governing the fluid flow
+over any geometrical configuration. The equations can represent steady or
+unsteady, compressible or incompressible, and inviscid or viscous flows,
+including nonideal and reacting fluid behavior. The particular form chosen
+depends on the intended application. The state of the art is characterized
+by the complexity of the geometry, the flow physics, and the computer time
+required to obtain a solution. The field has been well established for
+inviscid flows, in which viscosity is neglected. Laminar flows and turbulent
+flows, modeled through a statistical process termed Reynolds averaging, are
+being computed for complete aircraft configurations. The direct simulation
+of high-Reynolds-number turbulent flows is beyond practical realization,
+except in narrow ranges of Reynolds number and geometry. However, these
+direct simulations are used for flow modeling and control studies, such as
+for transition control and in the development of better Reynolds-averaged
+models.
+
+ 
+Example of an adaptive grid computation for transonic flow over an airfoil
+
+Options for Commercialization
+
+NASA seeks industrial partners with requirements for commercial product
+design and analysis that can be met with advanced CFD tools. The methods
+have been highly refined for aerospace industry use but have many other
+applications. Partnerships are sought to explore these other applications.
+For instance, NASA Langley is evaluating CFD technology for under-hood
+cooling and passenger compartment ventilation with Ford Motor Company. Six
+codes are available for release to U.S. companies, including structured and
+unstructured grid codes for viscous and inviscid flows. The general
+capabilities of the codes are summarized in the accompanying table. This
+commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

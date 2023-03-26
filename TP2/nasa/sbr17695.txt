@@ -1,0 +1,104 @@
+ 
+
+Broad-Based Computational Fluid Dynamics Technology
+
+Under a Phase II SBIR Contract sponsored by the NASA Langley Research
+Center, AeroSoft, Incorporated has developed an unstructured grid generation
+technology using a variety of elements in the volumetric grid. In addition,
+computer software for simulating fluid dynamic phenomena has been developed
+and tested. This methodology offers a wide variety of physical models so
+that numerical experiments can be conducted ranging from very low speeds to
+hypersonic speeds including the effects of finite-rate chemistry and thermal
+non-equilibrium. AeroSoft seeks a commercial partner to further expand the
+range of use of these tools.
+
+ 
+Grid for the Space Shuttle Main Engine Impeller
+
+ 
+Wing/Pylon/Store Configuration
+
+ 
+Chemistry Model Manager window
+
+Potential Commercial Uses
+
+   * Hypersonic and re-entry calculations
+   * Inlets/nozzles/combustors
+   * Nose-to-tail analysis for flight vehicles at all Mach numbers
+   * Engine analysis
+   * Automotive flows
+        o internal and external flows
+        o deployment of air bags
+   * Store separation problems
+   * Grid generation for structures problems
+   * Blood flows, bio-medical simulations
+   * Electronic cooling
+   * HVAC computations
+
+Benefits
+
+   * Flexible geometric modeling capability
+   * Wide range of thermo-chemical models
+   * Runs on UNIX workstations and supercomputers
+   * Graphical User Interface for ease of use
+   * Global and space-marching modes with efficient memory management
+
+The Technology
+
+The modeling of detailed engineering problems gives rise to the need to be
+able to represent general geometries with high fidelity and relative ease.
+Although there are several approaches for generating volumetric grids with
+polyhedra, these methods are limited in their modeling capability or in
+their ability to adequately cluster elements in regions of interest. In
+addition, the rapid development of graphics workstations and parallel
+processors in a highly networked environment has resulted in important
+changes in the underlying numerical algorithms used for simulation purposes.
+
+For several years, AeroSoft, under contract support from the NASA Langley
+Research Center, has been developing a technology that generates and makes
+use of multiple control volume elements including triangles, quadrilaterals,
+prisms, hexahedra, and tetrahedra. This software can be used for both
+structures and fluid dynamic simulations. The surface grid shown for the
+Space Shuttle Main Engine (SSME) is an example.
+
+Computational fluid dynamics algorithms must also advance as grid generation
+software offers more flexibility and as computing platforms evolve. AeroSoft
+has developed a new CFD tool that takes advantage of multiple control volume
+types for maximum geometric modeling flexibility. In addition, the software
+includes the ability to partition a domain for better memory management and
+for parallel processing on modern workstations and supercomputers. The
+Wing/Pylon/Store simulation shown was run on an in-house workstation and
+represents one of many possible applications of this software.
+
+AeroSoft has developed a thermochemical library that can be used for
+modeling a wide range of fluid mechanics problems including the flow of
+perfect gases, mixtures, and fluids undergoing chemical reactions. A
+graphical user interface (shown) has been developed to assist the user in
+the selection of an appropriate chemistry model. Applications include
+combustion phenomena, mixture efficiency, atmospheric re-entry, deployment
+of air bags, and engine analysis.
+
+Options for Commercialization
+
+AeroSoft is seeking industrial partners to assist in the commercialization
+and marketing of these products. The grid generation tool can be marketed
+separately or combined with the CFD simulation software. Both software
+products have been tested on UNIX platforms. The Graphical User Interface is
+written in OSF/ Motif for a high degree of portability.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Robert W. Walters
+Aerosoft, Incorporated
+1872 Pratt Drive, Suite 1275
+Blacksburg, VA 24060-6363
+Phone: 804-231-6125
+Fax: 804-231-6137
+

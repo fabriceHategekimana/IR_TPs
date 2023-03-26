@@ -1,0 +1,63 @@
+ 
+
+Textile reinforced composites are strong and lightweight and can be made
+using low-cost processes. Under NASA sponsorship, Analytical Services and
+Materials, Inc. developed the TEXCAD desktop computer software for Macintosh
+and PC desktop computers. This software can be used by design engineers to
+calculate mechanical properties of textile composites.
+
+Potential Commercial Uses
+
+   * 2D laminated composite (classical lamination theory)
+   * 3D spatially oriented composite (whisker & chopped fiber composites,
+     etc.)
+   * 2D weaves (plain, 5-harness satin, 8-harness satin, etc.)
+   * 2D braids
+   * 2D 2x2 triaxial braids
+   * 2D 1x1 triaxial braids
+   * 3D multi-interlock 5-layer braids
+   * Other (supplied by user)
+
+ 
+TEXCAD PC User Interface
+
+Benefits
+
+   * Performance:
+        o only minutes of computation time on Macintosh Quadra and PC 486
+          computers
+        o PC version supports MS Windows 3.0 and 3.1
+        o requires less than 1MB of memory on hard drive and 4 MB of RAM
+   * Key Features: requires only brief description of textiles such as yarn
+     sizes, yarn properties, braid angle, and fiber volume fraction
+
+The Technology
+
+The architecture of a textile composite is periodic. Thus, the bulk
+properties of a textile composite can be represented by those of a repeating
+unit cell. TEXCAD models a single repeating unit cell. The centerline of the
+yarn paths is represented by sinusoidal undulations where yarns cross one
+another. The yarn paths are segmented and overall stiffnesses are computed
+using a 3D stress averaging procedure and assuming uniform strain. Strengths
+are calculated using a model of a curved beam on an elastic foundation. The
+applied loads are incremented and stiffness properties are reduced for
+failed yarn segments. Nonlinear shear and geometric effects can be
+simulated. TEXCAD calculates thermal coefficients of expansion, residual
+thermal stresses, and estimates of damage evolution and strength for various
+states of applied stress.
+
+Options for Commercialization
+
+TEXCAD is developed as part of NASA's Aeronautics Program and is available
+for commercialization by industry partners. This commercialization
+opportunity is part of the NASA Technology Transfer Program. The objective
+of this program is to proactively involve the private sector in NASA's
+programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

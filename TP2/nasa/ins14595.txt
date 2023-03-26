@@ -1,0 +1,75 @@
+ 
+
+Apparatus for Evaluating the Mechanical Properties of Mammalian Heart
+Muscles
+
+A clamping apparatus has been developed that allows mammalian heart muscles
+to be mounted in such a way as to neither mechanically or chemically alter
+the normal response of the stimulated muscle. This apparatus closely
+simulates the physiological conditions of the human body. Once the muscle is
+attached, it is electrically stimulated and its response is evaluated
+through a number of sensing devices to determine the mechanisms by which
+cardiac muscle hypertrophy (growth) takes place.
+
+ 
+
+Potential Commercial Uses
+
+   * Clinical Research of muscles or other tissues
+   * Research leading to the prevention and treatment of Heart Disease
+   * Research leading to the prevention and treatment of High Blood Pressure
+   * Evaluation and treatment of Heart Valve Abnormalities
+   * Treatments for better Heart Attack Recovery
+
+Benefits
+
+   * Precise and repeatable muscle attachment
+   * Helps preserve muscle integrity
+   * Allows for accurate measurement
+   * Versatile research applications
+   * Experimental equipment necessary to clinically relevant problems
+
+The Technology
+
+Mammalian Heart Muscles research focuses on determining the mechanisms by
+which cardiac muscle hypertrophy (growth) takes place. When the heart
+undergoes pressure overload hypertrophy, it becomes less efficient at
+producing mechanical energy, thus reducing its ability to supply the proper
+amount of blood to the body necessary for standard bodily functions. In
+order to fully investigate this bodily response to an increase in pressure,
+the heart muscle must be studied on both a cellular and tissue level. The
+process by which the muscle fails is representative of the physiological
+conditions seen in people with heart diseases such as high blood pressure,
+valve abnormalities and people recovering from heart attack.
+
+The clamping apparatus was jointly developed by NASA LaRC and the Medical
+University of South Carolina. A method was developed to investigate the
+mechanical properties of mammalian heart muscles. Mammalian heart muscles
+are "whole" muscles within the heart that are responsible for the opening
+and closing of numerous one-way valves present in the heart. The "whole"
+muscles are removed from the heart and placed into the clamping apparatus.
+
+In order to reliably study these muscles, a state of physiological
+simulation is accomplished by clamping the muscle in such a manner as to
+nearly sever the muscle in half in order to reduce the amount of dead
+tissue. The clamp is very light weight so that it does not interfere with
+the force reading taken by an ultra-sensitive load cell. Muscle samples are
+usually 1 cm long by 4 mm wide.
+
+Options for Commercialization
+
+NASA Langley and the Medical University of South Carolina seek commercial
+partners for the joint development of this technology. This technology is
+not patent protected by NASA.
+
+This commercial opportunity is part of the NASA Technology Program. The
+objective of this program is to proactively involve the private sector in
+NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

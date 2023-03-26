@@ -1,0 +1,83 @@
+ 
+
+Affordable General Aviation Integrated Cockpit Display System (Panel 2000)
+
+The innovation is the synergistic system integration of current advanced
+technologies such as GPS navigation solutions with low cost/volume/weight
+automotive sensors, and commercial off-the-shelf Multi Function cockpit
+graphical displays that present real and predictive virtual "highways in the
+sky" and the x-y-z-time-energy temporal and spatial parameters of the
+aircraft.
+
+Potential Commercial Uses
+
+   * Retrofit the 175,000 aircraft that are registered today and provide
+     aftermarket products
+   * Upgrade the light commuter class aircraft
+   * Forward-fit all new-start aircraft and advanced general aviation class
+     aircraft of tomorrow
+
+Benefits
+
+   * Safer all-weather aircraft operations
+   * More fuel efficient operations using smarter decision aids and cockpit
+     references
+   * Easier initial and continuation VFR and IFR training
+   * Less work load on ground-based ATC controllers and aviation support
+   * Streamlined maintenance via on board recorders
+   * Increased operational performance of agricultural, forestry, security,
+     business, public service, and recreational aircraft
+   * Revitalized General Aviation Transportation System (GATS)
+
+The Technology
+
+The general aviation aircraft of today and tomorrow are in the unique
+position to benefit from the "third wave" of information processing
+technology. Rapid advances and development of affordable and powerful
+computers is making its way into the cockpit to increase pilot efficiency
+and safety.
+
+NASA Langley Research Center has taken the lead as a partner in the Advanced
+General Aviation Transport Experiments (AGATE) program and is introducing
+these advances directly into the GA cockpit. NASA has funded an STTR for
+ARNAV Systems Inc. and Research Triangle Institute to design and develop the
+cognitive and intuitive "glass cockpit" by integrating affordable GPS
+navigation solutions and displays with EXPERT algorithms to assist and
+burden-share the single pilot operational tasks of operating today's and
+tomorrow's high perfomance light aircraft cockpits. Display functions
+include primary flight, navigation, powerplant, and airframe systems
+presentation.
+
+The bottom line is a safer, more economical and easier aircraft to operate
+that capitalizes on high technology to perform the mission.
+
+Options for Commercialization
+
+Cirrus Design seeks to commercialize this package with General Aviation
+enthusiast and commercial aircraft companies.
+
+These commercialization/technological development opportunities are part of
+the NASA SBIR program. An objective of the SBIR program is for NASA to
+actively be involved in technology transfer while giving the small business
+a chance to develop and commercialize innovative and technically risky
+products.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+ 
+
+Contact
+
+If you are interested in this technology, or if you would like additional
+information, please contact:
+
+Dean Vogel
+Cirrus Design
+Duluth International Airport
+4515 Taylor Circle
+Duluth, MN 55811
+Phone: 218-727-2737 Fax: 218-727-2148
+
+ 
+

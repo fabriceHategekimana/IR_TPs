@@ -1,0 +1,88 @@
+ 
+
+Neural Network Flight Control Technology
+
+Accurate Automation has developed and tested artificial neural network
+flight controllers. This neurocontroller represents the first of a new
+generation of smart actuator controllers. This smart actuator
+neurocontroller will eventually be integrated into a three part control
+system consisting of outer-loop control, mid-level vehicle and propulsion
+control, and the inner-level actuator neurocontroller.
+
+Potential Commercial Uses
+
+   * Controls:
+          Digital Flight Controls
+          General Controller Methodology
+   * Aircraft:
+          General Aviation
+          Commercial Transports
+          Military
+          Space Flight
+
+Benefits
+
+   * Completely independent of the dynamics of the actuator-surface system
+     that it is controlling
+   * Adapts to unexpected loads
+   * Uses Adaptive Critic Design Methodology which allows an engineer to
+     design the controller according to a users qualitative performance
+     measure while maintaining stability
+   * Allows the incorporation of pilot experience
+   * Neural Network Processor is fully digital, MIMD, 8K Neurons per
+     processor, 32K weights per processor, 140 million connections per
+     second per processor (35 Mhz), PC and VME versions
+   * Neural Network Processor can also be used to significantly speed up
+     other applications of artificial neural networks
+
+The Technology
+
+The actuator control technology incorporates an adaptive control structure
+for the adaptation of the controller parameters and artificial neural
+networks to learn optimal initial parameters and adaptation rates. An
+actuator control testbed has been built. This system has an actual aircraft
+actuator attached to an aileron and is currently interfaced to a Silicon
+Graphics workstation.
+
+The neural network software system will be implemented on the Accurate
+Automation Corporation Neural Network Processor. The Accurate Automation
+Corporation Neural Network Processor (NNP) was designed specifically to run
+artificial neural network software at very high speed. Each Sparse Matrix
+NNP is capable of implementing 8,192 neurons with 32,768 interconnections.
+The computational capability of a single processor is 140 million
+connections per second (35 MHz). An 8 processor Multiple
+Instruction/Multiple Date (MIMD) NNP system is capable of over one billion
+connections per second. The NNP architecture is extremely flexible and any
+neuron is capable of interconnecting with any other neuron in the system.
+The NNP is implemented on both VME and IBM compatible cards. The NNP
+supports two I/O buses, one for interprocessor communication and the other
+for mapping NNP memory into the memory map of a supporting mother processor.
+Each processor in the NNP is controlled by a RISC-like instruction set. NNP
+software development is supported by an Assembler, a Neural Network
+Translator, and the AAC Neural Network Toolbox.
+
+Options for Commercialization
+
+Accurate Automation Corporation seeks other corporations to license these
+technologies or as partners in the further developments of these
+technologies.
+
+This commercialization opportunity is a part of NASA Langley's SBIR-funded
+Technology program. The objectives of this program is to proactively involve
+industry to maximize technology applications.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Robert Pap, President
+Accurate Automation Corporation
+7001 Shallowford Road
+Chattanooga, TN 37421
+Phone: 615-894-4646
+Fax: 615-894-4645
+

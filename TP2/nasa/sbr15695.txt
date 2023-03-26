@@ -1,0 +1,90 @@
+ 
+
+User-Friendly Expert Stability Analysis System
+
+Innovative Aerodynamic Technologies has developed a user-friendly expert
+stability analysis system with NASA SBIR funding. This package, which is
+called LAMDA (Laminar Airfoil Manager for Design and Analysis), offers an
+innovative and revolutionary tool for low drag airfoil/wing design and
+analysis. An airfoil flow analysis code, a boundary layer analysis code and
+a boundary layer stability code are tied together under a graphical user
+interface (GUI) to conduct an incompressible laminar boundary layer
+stability analysis for airfoils and wings. LAMDA reduces the effort of
+airfoil stability analysis from days to hours. An example of a
+representative display of the LAMDA package is shown in the figure.
+
+ 
+Laminar boundary layer stability analysis of NASA NLF(1)-0414F airfoil using
+LAMDA graphical user interface package.
+
+Potential Commercial Uses
+
+   * Offers General Aviation engineers possibility of designing low drag
+     laminar flow aircraft configurations
+   * Offers increased productivity to commercial aircraft companies and
+     research organizations for laminar flow airfoil/wing design
+   * Learning tool for advanced aeronautics graduate and undergraduate
+     students in universities
+
+Benefits
+
+   * Reduces turn around time for analysis from days to hours, thereby
+     increasing productivity
+   * Unique tool for the design/analysis of low drag laminar flow airfoils
+   * Invaluable visualization tool to learn airfoil, boundary layer and
+     stability analysis
+   * Multi-platform based (both PC's and Workstations). Written in Motif
+     running under X-windows
+   * Increases the reliability of laminar airfoil design significantly
+   * Provides modularity so test related computer codes could be added to
+     the user-interface
+   * Provides complete bookkeeping of user files related to the laminar flow
+     analysis
+   * NACA 4,5,6 Series airfoil generation capabilities integrated within the
+     graphic user interface
+
+The Technology
+
+The quest for performance, fuel efficiency, range and speed in the current
+global economic environment, has sparked a renewed interest in designing and
+analyzing laminar flow wings for airplanes. The innovation developed is an
+integrated, user-friendly graphical user interface (GUI) based laminar flow
+analysis system.
+
+This analysis system combines a flow analysis code, a boundary layer
+mean-flow code and a laminar stability analysis code together to allow an
+inexperienced user to conduct a reliable 2D incompressible stability
+analysis. Data transfer interface programs were coded with crucial 'expert'
+information for correct selection of instability frequencies. Control
+programs were written to check and flag runtime data quality. File
+bookkeeping functionality was provided. NACA airfoil generation programs are
+provided as part of the package. An encompassing graphics package was
+programmed to quickly plot relevant data. Program modularity is incorporated
+for future analysis program expandability for the Phase II and Phase III
+development.
+
+Options for Commercialization
+
+IAT seeks to commercialize this package with General Aviation enthusiast,
+commercial aircraft companies, research organizations, and universities.
+These commercialization/technological development opportunities are part of
+the NASA SBIR program. An objective of the SBIR program is for NASA to
+actively be involved in technology transfer while giving the small business
+a chance to develop and commercialize innovative and technically risky
+products.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Sally Viken
+Innovative Aerodynamic Technologies
+534 Wythe Creek Rd., Suite C
+Poquoson, VA 23662
+Phone: 804-868-4151
+Fax: 804-898-8283
+

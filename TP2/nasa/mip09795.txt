@@ -1,0 +1,88 @@
+ 
+
+Low-Temperature Oxidation Catalysts
+
+NASA Langley has developed technology for the design and fabrication of
+catalysts for low-temperature oxidation of carbon monoxide (CO) and other
+gases. Oxidation of CO to carbon dioxide (CO2) and of formaldehyde (CH2O) to
+CO2 and water can be readily achieved at typical room temperatures with
+these catalysts.
+
+Potential Commercial Uses
+
+   * Regeneration of CO2 in closed-cycle CO2 lasers
+   * Removal of CO and formaldehyde from houses and other buildings
+   * Removal of CO and formaldehyde from automobile, aircraft, and other
+     vehicle interiors
+   * Conversion of toxic CO to nontoxic CO2 in protective face masks
+   * Removal of CO from internal-combustion engine exhaust during cold-start
+     conditions
+
+Benefits
+
+   * Performance: The oxidation catalysts developed at NASA Langley have
+     high activity at low temperatures. Stoichiometric oxidation of CO has
+     been achieved at temperatures as low as 0% C and catalyst activity
+     increases with increasing oxygen concentration. Both CO and
+     formaldehyde can be readily oxidized in air at typical room
+     temperatures.
+   * Key Features: NMRO catalysts perform essentially as passive devices,
+     catalyzing the oxidation of both CO and formaldehyde at ambient
+     temperatures without requiring any energy input, provided that a
+     suitable gas flow through the catalyst is maintained.
+   * Fabrication: NMRO catalysts can be fabrication in a number of ways and
+     coated onto various catalyst supports, including porous ceramic
+     monoliths and beads.
+
+ 
+NASA-LaRC Catalyst
+
+The Technology
+
+A new class of low-temperature oxidation catalysts has been developed which
+consist of a combinations of a noble-metal and one or more reducible-oxides.
+These noble-metal/reducible-oxide (NMRO) catalysts, which were originally
+developed for CO2 regeneration in space-based CO2 lasers, have significantly
+higher catalytic activities than noble metal or reducible oxide catalysts
+alone.
+
+The NMRO catalysts which have been most extensively developed to date are
+based on platinized tin-oxide (Pt/SnO2). Pt/SnO2 catalysts developed at
+NASA-LaRC can continuously recombine small stoichiometric concentrations of
+CO and O2 in closed-cycle CO2 lasers to regenerate CO2 at ambient laser
+temperatures and thereby maintain laser performance.
+
+Although originally developed for laser applications, Pt/SnO2-based
+catalysts are also excellent catalysts for the oxidation of CO to CO2 in air
+at typical room temperatures. These catalysts also efficiently catalyze the
+room-temperature oxidation of formaldehyde in air to CO2 and water. Thus,
+both CO and formaldehyde can be removed from air at typical room
+temperatures by catalytic oxidation with a single catalyst.
+
+Development and testing of NMRO catalysts for low-temperature oxidation of
+other gases and for other applications is currently in progress.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+and applications involving low-temperature oxidation catalysts. Mantic Corp.
+(Salt Lake City, UT) has been granted a partial exclusive license for the
+manufacture of CO-removal face masks. Negotiations for partially exclusive
+licenses are currently in progress with Rochester Gas and Electric Corp. for
+indoor air purification and with Science and Technology Corp. (Hampton, VA)
+for CO2 regeneration in commercial lasers. However, NASA currently holds
+several patents pertinent to the manufacture and use of low-temperature
+oxidation catalysts which are available for licensing for other
+applications.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

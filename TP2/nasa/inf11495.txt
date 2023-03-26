@@ -1,0 +1,38 @@
+ 
+
+Software to Filter Satellite Imager Data
+
+A global cloud mask methodology has been developed at Langley Research
+Center for detecting clouds in satellite images as part of the Clouds and
+Earth's Radiant Energy System (CERES) of the NASA Mission to Planet Earth
+initiative. The goal of this effort is to determine those imager pixels that
+are unobstructed between the top of the atmosphere and the surface. The
+output from this algorithm is a pixel-level mask that includes information
+about which cloud masking tests were applied, whether each test did or did
+not indicate cloud, and a final decision of whether cloud was or was not
+present for each pixel in the image.
+
+Potential Commercial Uses
+
+   * Solar insulation quantification over any location to study feasibility
+     of potential solar power generation facility
+   * Land use/ location of surface resources
+   * Biomass burning, desertification and vegetation change quantification
+     to aid in policy determination
+
+Benefits
+
+   * Filters out clouds from data providing a better product to the end-user
+   * Potential data reduction (>60% globally) leading to lower data
+     acquisition costs
+
+ 
+(a) Daytime image recorded over the central U.S.A. by the Advanced Very High
+Resolution Radiometer (AVHRR) instrument located on the NOAA-11 platform.
+
+ Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,78 @@
+ 
+
+DSMC: When Conventional CFD is Not Enough
+
+The direct simulation Monte Carlo (DSMC) method is a technique for the
+computer modeling of a real gas by some thousands to millions of simulated
+molecules. The method is used primarily for the modeling of low density
+(rarefied) gases for which the Navier-Stokes equations of computational
+fluid dynamics (CFD) do not provide a valid model. The computer conducts a
+direct physical simulation of the fluid problem, rather than solving the
+system of mathematical equations that model the process. DSMC has been used
+at the Langley Research Center to study everything from 3-D Shuttle reentry
+in the upper atmosphere to the details of the interaction between two shocks
+on a scale of a few thousandths of an inch.
+
+ 
+
+Potential Commercial Uses
+
+   * Low pressure chemical vapor deposition
+   * Micromechanical devices, microchannel flow
+   * Chemical vapor infiltration techniques
+   * Thin film bearings
+
+Benefits
+
+   * Reduce experimental requirements
+   * Runs on inexpensive personal computers
+   * More accurate analyses
+   * Easy to understand and apply
+
+The Technology
+
+The direct simulation Monte Carlo (DSMC) method allows the computational
+modeling of rarefied gases outside (as well as within) the range of validity
+of the Navier-Stokes equations of fluid mechanics. The computer follows many
+thousands or even millions of representative simulated molecules through
+collisions and boundary interactions in simulated physical space. Solutions
+for steady and unsteady problems are obtained by averaging over many small
+time steps.
+
+A flow is considered rarefied when the typical size dimension of the problem
+is comparable to the mean free path (average distance a molecule travels
+between collisions) of the molecules in the gas. Thus, DSMC is alternately
+applicable to flows at very low pressure or to problems with very small
+characteristic dimensions (i.e. Microelectromechanical devices). The method
+is also valid for problems of greater density and larger dimensions, but
+computational time and costs eventually become prohibitive. Recent
+improvements in computer technology have made calculations that were
+impossible five years ago routine today. Anticipated improvements in both
+hardware and software will continue to extend the range of applicability of
+the method.
+
+Considerable expertise in applying DSMC to complex engineering problems
+resides at Langley Research Center. Advanced and special purpose DSMC codes
+are developed, tested and applied here.
+
+Options for Commercialization
+
+The DS2G two-dimensional or Axially Symmetric DSMC code executable and
+user's guide are available without restrictions from the Langley Research
+Center. This code runs on an IBM PC or PC clone with a 386 processor or
+better and a minimum 8 Meg RAM. The code comes with 9 demonstration cases
+which illustrate the range of engineering problems which can be solved using
+this technique.
+
+Opportunities exist for obtaining or jointly developing more advanced codes
+to meet commercial requirements. This technology opportunity is part of the
+NASA Technology Transfer Program. The program seeks to transfer critical
+technologies to the private sector to ensure that NASA programs will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

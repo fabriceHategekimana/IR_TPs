@@ -1,0 +1,80 @@
+ 
+
+Equation Solvers,   {x} = {b} on High-Performance Computers
+
+Several new NASA algorithms to solve large systems of simultaneous equations
+now allow most scientific and engineering problems to be solved
+significantly faster. User feedback from structural analysis, crash
+dynamics, electromagnetics and optimization applications show typical
+speedups of from 2-20 over the best existing solvers. The NASA equation
+solvers also reduce the memory required for solution. This allows
+applications, formerly requiring a supercomputer, to be solved on relatively
+"inexpensive" workstations. For example, the NASA solver reduced the
+analysis time of the 218,000 equation NASA Ames Wind Tunnel shown from days
+to 2 minutes on a Cray C-90 and 15 minutes on an IBM 590 workstation.
+
+ 
+
+A complete automobile structural analysis with 264,000 equations was solved
+in 1 minute on a Cray C-90 and six minutes on an IBM workstation.
+
+ 
+
+Potential Commercial Uses
+
+   * Structural Analysis
+   * Electromagnetic Analysis
+   * Finite Element Analysis
+   * Impact (Crash) Analysis
+   * Physics, Computer Science
+
+Benefits
+
+   * Performance: Less time and memory required to solve very large systems
+     (millions) of equations. Comprehensive "intractable" problems now
+     solveable.
+   * Key Features: Adapts to general-purpose finite element structural
+     analysis codes; portable (100% FORTRAN - operational on most
+     computers).
+   * Availability: Source code, benchmarks and documentation available on
+     request.
+
+The Technology
+
+Reliable predictions of detailed stress and displacement states are required
+during the design of aerospace, marine, building and automotive structures
+to understand structural behavior in order to reduce costs and extend life.
+Detailed finite element models provide accurate detailed stress and
+displacement predictions of structures with complex geometry. However, the
+more accurate and detailed the model, the longer it takes to solve the
+underlying equations and store the associated data. The new NASA algorithms
+solve the underlying equations faster than any known method for arbitrary
+applications and allow even larger, more accurate models to be analyzed.
+Along with the solution of the equations, an error norm is provided
+indicating the overall accuracy.
+
+Results of the NASA equation solvers have been demonstrated and validated
+using dozens of benchmark models previously solved by well-known Library
+Solvers, and solvers in the NASA Computational Mechanics Testbed (COMET),
+NASTRAN and other commercial codes. In all cases, the NASA solvers were
+faster and more accurate than other solvers.
+
+Options for Commercialization
+
+NASA seeks software vendors and other corporate organizations interested in
+marketing and/or utilizing NASA high-performance solver algorithms. IBM has
+been granted non-exclusive cooperative research rights to develop and market
+the NASA high-performance equation solvers. The terms of the agreement,
+however, allow additional commercialization of this technology.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to pro actively involve the
+private sector in NASA's programs to ensure that the technology developed
+will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

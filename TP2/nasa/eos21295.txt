@@ -1,0 +1,62 @@
+ 
+
+Microscopic Subsurface Flaw Characterization System (Scanning Electron
+Acoustic Microscopy - SEAM)
+
+A modification to the conventional scanning electron microscope (SEM) has
+been developed. The modified microscope is called the scanning electron
+acoustic microscope (SEAM). Unlike the SEM, which restricts examination to
+specimen surfaces, SEAM permits examination of subsurface flaws, defects,
+and residual stress fields.
+
+ 
+SEM
+
+ SEAM (f = 305.43 kHz)
+
+Potential Commercial Uses
+
+   * Materials Process Monitoring: metals, ceramics, semiconductors, crystal
+     growth
+   * Fabrication Technology: microcircuits, advanced composites, electronic
+     components
+   * Components Manufacturing: ball bearings, optical components, machine
+     components
+
+Benefits
+
+   * Nondestructive assessment of subsurface flaws
+   * Displays residual stress field of material
+   * Adaptable to irregular shapes of test object
+   * Add-on to existing scanning electron microscope
+
+The Technology
+
+The modulation (or chopping) of an electron beam striking a specimen surface
+generates acoustic waves in the specimen. The strength of the acoustic waves
+depends upon the thermal and mechanical properties of a volume of specimen
+beneath the point on the surface at which the electron beam strikes. The
+acoustic waves propagate through the specimen and are detected by a
+transducer attached to the specimen. As the modulated electron beam scans
+the specimen surface, an image of the subsurface flaws and residual stresses
+"seen" by the acoustic waves is generated.
+
+Researchers at Cambridge University in England and NASA Langley Research
+Center have developed physically-based models for assessing the generated
+images. The predictions of the models have been confirmed in experimental
+tests.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based in SEAM technology. This commercialization opportunity is part of the
+NASA Technology Transfer Program. The objective of this program is to
+proactively involve the private sector in NASA's programs to ensure that the
+technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

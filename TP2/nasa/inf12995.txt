@@ -1,0 +1,77 @@
+ 
+
+Distributed Computing with Workstation Clusters using DCE/DFS
+
+NASA Langley Research Center is assembling a workstation cluster using the
+Distributed Computing Environment / Distributed File System (DCE/DFS) from
+the Open Software Foundation (OSF). The proliferation of inexpensive,
+powerful workstations in the last few years has caused many organizations to
+concentrate on tapping the store of latent computing cycles that exist on
+their local networks. Langley has developed expertise in capturing and
+utilizing this diffuse resource. Langley is aggressively implementing
+workstation clustering resources using DCE/DFS, and has modified and
+developed many new tools in the process. World Wide Web users can learn more
+about NASA Langley's cluster activities by visiting the following URL:
+http://www.larc.nasa.gov/org/cluster/
+
+ 
+
+Potential Commercial Uses
+
+   * Large scale workstation system administration
+   * Large scale latent cycle reclamation
+   * Large scale file sharing among heterogeneous computers
+
+     These tools can provide a foundation from which to expand the usability
+     of DCE/DFS:
+   * acl_edit
+   * mkfileset
+   * copy_acl
+   * fix-perms
+   * passwd_export
+   * kinfo for AIX
+   * wrap_dce_login
+   * authenticating ftpd
+   * authenticating xdm
+   * DCE module for Perl
+
+Benefits
+
+   * Efficient use of existing computational resources
+   * Increasing the total amount of computational services available at a
+     site
+   * Utilizing non-prime hours on personal workstations
+   * DCE addresses security and naming concerns
+   * DFS provides highly available, highly secure uniform file system
+
+The Technology
+
+Workstation Clustering as a phenomena emerged in 1991. There have been a
+number of empirical and mathematical studies demonstrating the benefits of
+using workstation clustering in a variety of computational profiles.
+Generally, workstation clustering and other distributed computing efforts
+revolve around 2 main thrusts: a message passing system such as Parallel
+Virtual Machine (PVM) or Message Passing Interface (MPI) and a
+scheduling/queuing system such as Distributed Queuing System (DQS) or Load
+Sharing Facility (LSF).
+
+NASA Langley has taken workstation clustering a step further by implementing
+a DCE cell and DFS file servers on the initial cluster machines. Since
+DCE/DFS is still an emerging technology, much local expertise has been
+developed on implementing DCE/DFS in a heterogeneous workstation cluster.
+
+Options for Commercialization
+
+NASA seeks industry partners to assist in developing production-quality
+workstation clustering tools and DCE/DFS user and administration tools. This
+commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,67 @@
+ 
+
+LaSRS++ Object-Oriented Real-Time Flight Simulation Software
+
+A real-time simulation architecture has been developed utilizing
+object-oriented analysis and design techniques. The architecture has been
+implemented using the object-oriented programming language C++. This has
+resulted in a highly flexible system capable of simulating multiple
+instances of dynamic objects. These objects can be distributed across
+multiple CPUs (Central Processing Units).
+
+ 
+High level view of dynamic vehicle simulation architecture
+
+Potential Commercial Uses
+
+   * Real-Time man in the loop training simulations: fighters, transports,
+     general aviation, ships, trucks, cars, air traffic control
+   * Entertainment: video games, home flight simulators
+   * Engineering tool: analysis of vehicle dynamics, vehicle control system
+     analysis, aerodynamic data validation, component level dynamic modeling
+   * Education: System modeling to support diagnostic training
+
+Benefits
+
+   * Flexibility: Each object specifies is own interface, behavior, and
+     internal states
+   * Portability: A high degree of platform independence has been achieved
+   * Performance: C++ gives the speed and performance of C, while permitting
+     the application of object technology
+   * Generic Simulation Model: Supports continuous cyclic or discrete-event
+     simulations
+   * Reuse: Encapsulation of both data and functions in a single entity
+     (object) facilitates reuse
+
+The Technology
+
+The software architecture is a self contained environment that is capable of
+supporting any type of dynamic object. All data is encapsulated in classes.
+There is no global or public data in this architecture.
+
+Each vehicle contains its own sequence of routines to execute. This allows
+each vehicle to have completely different dynamic behavior compared to the
+other vehicles in the simulation. Multiple vehicles are simulated
+simultaneously and the relative geometry between these vehicles is
+calculated.
+
+The main routine driving this simulation is completely independent of both
+vehicle (airplane, truck, ship, etc.) and simulation (continuous cyclic or
+discrete-event) type. This along with the supporting class library
+facilitates the rapid development of new types of vehicles through reuse.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA developed technology. A real-time simulation architecture has been
+developed utilizing object-oriented analysis and design techniques.
+Suitability of this technology to specific needs can be investigated at
+Langley.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

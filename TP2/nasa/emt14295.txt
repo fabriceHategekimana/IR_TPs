@@ -1,0 +1,79 @@
+ 
+
+Dataflow Design Tool for Multiprocessing
+
+The Dataflow Design Tool was developed to facilitate the design of
+multiprocessor solutions for a class of computational problems. The class of
+problems include digital signal processing (DSP) algorithms and control law.
+Given a dataflow graph description of the computational problem, the tool
+can automatically determine performance bounds, scheduling constraints, and
+resource requirements.
+
+ 
+Dataflow graph
+
+Potential Commercial Uses
+
+Facilitate the mapping of:
+
+   * General-purpose DSP such as filtering
+   * Image processing
+   * Data compression
+   * Digital control algorithms
+   * Real-time applications to multiprocessor architectures
+
+ 
+Steady-state graph play
+
+Benefits
+
+   * Automates the determination of computing performance and resource
+     requirements
+   * Provides graph-theoretic solutions in a hardware-independent context,
+     which is useful
+   * Affords fast solutions when varying parameters
+   * Can be used with commercial DSP tools
+
+The Technology
+
+The Dataflow Design Tool utilizes the dataflow paradigm to model
+computational problems. The dataflow model provides a graphical and
+mathematical description of computations that are partially-ordered due to
+data dependencies. In this way, the dataflow model exposes all of the
+inherent parallelism limited only by data dependencies. The model uses graph
+nodes to represent computations which can be scheduled, directed edges to
+describe the dataflow between nodes, and tokens to indicate the presence of
+data. The nodes are assigned deterministic times that represent the
+execution durations of the associated computations. Solving the dataflow
+model for timing constraints produces a scheduling range for computations
+that exploits the parallelism while ensuring the logical correctness of
+computed results. In addition, the directed edges imply physical memory
+storage of shared data (buffers), which are implemented with
+first-in-first-out queues. Solving the dataflow model for the token bounds
+on the edges defines the minimum buffer requirements for data. The Dataflow
+Design Tool was developed by NASA-Langley to analytically solve the dataflow
+graph for performance bounds, scheduling constraints, and resource
+requirements (i.e., processors and buffers). The tool automatically solves
+the model for performance metrics and displays these metrics numerically and
+graphically. Features are provided that permit user interaction for purposes
+of changing model parameters and selecting optimum solutions. The tool is
+written in C++ for Microsoft Windows 3.1 or NT, is menu driven, and boasts
+many user-friendly features such as on-line help documentation. By employing
+textual files for dataflow-graph input and measurement output, the tool can
+be easily linked with complementary tools, resulting in an enhanced tool
+set.
+
+Options for Commercialization
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact. NASA seeks industry partners to cooperatively
+develop commercial products that incorporate the Dataflow Design Tool.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,80 @@
+ 
+
+Net-Casting Ceramics
+
+A new method has been developed for netcasting ceramic articles which
+previously were considered too delicate or detailed for ceramic slip
+casting. The new method uses a unique shell mold which is formed over an
+investment pattern such as injectable wax, QuickCast{Registered} resin or
+other investment materials used in rapid prototyping.
+
+The set materials are taken to a high temperature to burn out the investment
+pattern, leaving a detailed and seamless shell mold. Once cooled, the shell
+mold can be used for slip casting. The shell mold is weakened by the liquid
+it absorbs from the slip and is quickly and easily removed from the final
+casting.
+
+ 
+
+Potential Commercial Uses
+
+   * Fabrication and prototyping: rapid production of net-form ceramics and
+     ceramic composites
+   * Prosthetics: use in reconstructive surgery of complex joints and bone
+     formation
+   * Optics: use in fabrication of platforms, brackets and mirrors for
+     thermal and flexural stability
+   * Electronics: use in fabrication of solid state and dielectric large
+     scale components such as insulators and superconducting ceramics
+   * Engines: use with high-temperature high-strength materials for
+     development of fuel efficient engines
+
+Benefits
+
+   * Detail: shell mold used for ceramic slip casting replicates fine detail
+     and is easily removed from a final casting
+   * Economy: casting techniques are quick and inexpensive
+   * Versatility: new method allows for slip casting with more and different
+     materials
+
+The Technology
+
+A slip is a crowded suspension of microscopic ceramic particles in a liquid.
+A slip is first poured into a mold which draws out the liquid and sets the
+initial shape of the piece through particle packing. It is then removed from
+the mold and fired to high temperatures at which the particles bond.
+
+In the past, plaster of Paris was used in flask or block molds for slip
+casting since it absorbs water readily. Mold preparation for detailed shapes
+is complex and inaccurate since separate mold pieces are required. In
+addition, plaster is strengthened upon absorption of water making release
+from detailed cast parts nearly impossible.
+
+The new technique uses a calcium-bonded refractory mix to form a shell mold
+over an investment pattern, such as wax, which is then taken to high
+temperatures and burned out or vaporized, leaving a complete detailed mold
+pattern. The new slip mold draws water or aqueous liquids similar to plaster
+of Paris but also draws non-aqueous liquids such as alcohol and other
+organic liquids. It is also weakened by the liquid it absorbs and is thus
+easily peeled or removed from the finished casting.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on the new method of ceramic slip casting. Precision Ceramics, Inc.
+(Richmond, VA) has been granted a partially exclusive license for the
+manufacture of products for medical, marine, recreational, optical and
+electronic applications. However, NASA holds patents for other applications
+which are available for licensing.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

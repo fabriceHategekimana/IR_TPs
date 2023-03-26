@@ -1,0 +1,100 @@
+ 
+
+ADAPT
+
+Approach to Data Management, Archive, Protection, and Transmission
+
+Managing information has long been a requirement of any project. Recent
+advances in computer hardware, software and network technologies have made
+it easier to generate increasing amounts of information of varying types
+which must be shared with a wider range of individuals. These advances have
+created new problems areas such as remote data access and data security. The
+result is that data management has become both a more complex and a more
+critical component of many projects. In support of a joint wind tunnel
+project by NASA Langley Research Center and the aerospace industry, an
+integrated approach to data management was developed to address the above
+issues. The methodology and software tools comprising the Approach to Data
+Management, Archive, Protection and Transmission (ADAPT) could be applied to
+help solve information management needs in other projects.
+
+ 
+The ADAPT System
+
+Potential Commercial Uses
+
+The integrated approach and selectable tool set employed by ADAPT are not
+dependent on any particular application nor restricted to any particular
+data types.
+
+   * Project support documentation creation and organization
+   * On-line information sharing (with security)
+   * Data tracking (storage, query, preview and retrieval)
+   * Common end-user interface to ADAPT and project-specific applications
+
+Benefits
+
+   * the approach and tools are project independent
+   * selectable, customizable and extensible software tools
+   * access to data from remote machines
+   * optional and transparent data security
+   * integrated management/creation for project documentation
+   * short-term and long-term data management
+   * open systems approach
+   * point-and-click user interface
+
+The Technology
+
+In the Information Age, data management is rapidly increasing in both
+importance and complexity. The definition of data is expanding beyond
+conventional technical data to include documentation, images, graphs,
+metadata (data about data), etc. In addition, people are beginning to expect
+near real-time access to such data from remote sites which is resulting in
+concerns over short- and long-term archival, data transmission, and data
+security. ADAPT is an integrated approach to data management, developed to
+support a joint NASA and industry wind tunnel project, that addresses many
+of the issues of managing information with today's technology.
+
+Although ADAPT is primarily composed of a collection of software tools, the
+"Approach" portion of ADAPT must be emphasized. For it is in the way that
+these tools are applied and integrated for a particular project that
+determine the success of ADAPT in managing information. For this reason the
+software tool set is designed to be customizable, extensible and optionally
+selectable based on project requirements and capabilities of the native
+computing environment.
+
+ADAPT utilizes both the features and extension capability of the World Wide
+Web (WWW) technology to provide the end-user interface as well as a
+transparent and internal interface with the other ADAPT software tools. For
+example, interfaces to the security encryption/decryption software and the
+electronic mail facility are included in this collection of tools. These
+interfaces use both the public domain HyperText Transfer Protocol (HTTP)
+server and the Mosaic browser, available from the National Center for
+Supercomputer Applications (NSCA). The NASA Langley developed Program for
+Information Storage and Management (PrISM) is used for storing, querying,
+previewing and retrieving project specific data. The PrISM data and/or
+metadata tracking tool (built atop a commercial Data Base Management System
+(DBMS)) provides a common graphical user interface that is independent of
+the underlying data model. In order to integrate supporting documentation
+into the data management equation, tools were developed to create an
+electronic notebook. A WYSIWYG ("what you see is what you get") HyperText
+Markup Language (HTML) editor was developed for creating individual pages. A
+PageManager program was developed for collecting and organizing these pages
+into a notebook format. Finally, the WWW interface tools discussed
+previously, were extended to provide a capability for remote collaboration
+on the notebook.
+
+Options for Commercialization
+
+NASA seeks industry partners to assist in further evolving the ADAPT
+approach and developing production ready versions of the software support
+tools. This commercialization opportunity is part of the NASA Technology
+Transfer Program. The objective of this program is to proactively involve
+the private sector in NASA's programs to ensure that the technology
+developed will have maximum commercial impact
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

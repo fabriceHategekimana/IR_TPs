@@ -1,0 +1,67 @@
+ 
+
+A System-level Dependability Analysis Tool DEPEND
+
+DEPEND is a simulation-based environment especially geared for the design
+and evaluation of mission/life critical systems. Using DEPEND, a designer
+can analyze an entire system under various realistic stress conditions to
+determine the types of faults to which it is especially vulnerable. The
+designer can also study the dynamic interactions between the components in
+the system and identify the major impediments to dependability.
+
+Potential Commercial Uses
+
+Any digital system whose reliability is critical.
+
+   * Avionics
+   * High speed rail
+   * Factory floor
+   * Robotics
+   * Communications
+   * Biomedical instrumentation
+   * Power systems
+   * Automotive control systems
+   * Environmental controls
+
+ 
+
+Benefits
+
+   * Object-oriented framework
+   * Library of fault-tolerant building blocks
+   * Automated fault injection facility
+   * Allows analysis of software behavior under the influence of hardware
+     faults
+
+The Technology
+
+DEPEND is a computer-aided engineering tool that consists of a graphical
+interface, a library of objects, and a simulation engine. Designers can
+construct system models by interconnecting objects that represent system
+components. These objects can be predefined DEPEND objects, or they can be
+user-defined collections of DEPEND objects. Both hardware and software
+systems can be defined. By instantiating fault injector objects within each
+failable component, dependability analysis can be performed. DEPEND produces
+statistics that include: availability, mean time between failures, mean time
+between repairs, coverage, fault isolation times, error latencies, repair
+times, and the types and locations of faults that occurred.
+
+DEPEND was developed under NASA grant NAG-1-613 by Dr. Kumar Goswami and Dr.
+Ravi Iyer at the Illinois Computer Laboratory for Aerospace Systems and
+Software (ICLASS), a NASA Center of Excellence. ICLASS is located at the
+University of Illinois at Urbana-Champaign.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop a commercial DEPEND
+product. This commercial opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

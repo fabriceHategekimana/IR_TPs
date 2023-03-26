@@ -1,0 +1,76 @@
+ 
+
+Advanced Diagnostic Tool for Transition Detection
+
+A non-intrusive thin film technology has been developed to detect boundary
+layer transition in a variety of flow conditions. These sensor arrays, when
+operated in conjunction with an anemometer and a data acquisition system,
+allow the user to determine transition location in an accurate and timely
+manner. The sensors are applicable to any non-conductive fluid flow
+environment and function over a wide range of temperatures (-175C to 200C).
+This technology can potentially be expanded to include a number of
+commercial applications, including: a drag diagnostic tool for the
+automobile/boating industry, temperature measurements, and calibration
+devices.
+
+ 
+Photo of NACA-0012 airfoil model with aluminum insert and direct deposited
+sensor array
+
+Potential Commercial Uses
+
+   * Pre-stall warning devices for general aviation
+   * Drag diagnostic tool for auto/boating industries
+   * Calibrated temperature measurement devices
+   * Localized heating of a surface or fluid in contact with a surface
+
+ 
+Photo of constant temperature anemometer and data acquisition system
+
+Benefits
+
+   * A non-intrusive method to detect boundary layer transition
+   * Accurate and timely method for detecting boundary-layer transition
+   * Use in any non-conductive fluid environment
+   * Wide range of operating temperatures (-175C to 200C)
+
+The Technology
+
+The need for developing a non-intrusive diagnostic tool to detect boundary
+layer transition is well established. Conventional techniques presently do
+not offer an adequate means of measuring transition location under various
+conditions. The key components of the thin film technology are the
+dielectric coating layer and the data acquisition system. The dielectric
+layer isolates the thin film sensor from the metal model surface and is also
+capable of handling a wide range of temperatures.
+
+There are two types of sensor arrays, direct deposited and adhesive bonded
+sensor arrays. These arrays are made using polyimide based materials and
+various metals for the sensor and thin film leads. Both types of arrays can
+be used with either constant temperature or constant voltage anemometers.
+The data acquisition system is capable of measuring sensor resistance,
+plotting AC/DC signals versus sensor position, providing both time code and
+filtered data for recording devices. The plot of AC/DC signals versus sensor
+position provides an easy manner to interpret indication of laminar,
+transitional, and turbulent regions on the model.
+
+ 
+Photo of 3D cone model
+
+Options for Commercialization
+
+This Technology Opportunity is part of the NASA Technology Transfer Program.
+Multiple patents have been filed on this technology. NASA is actively
+seeking applicants to license and/or form partnerships to further refine
+this technology for commercialization. NASA is interested in jointly
+investigating the suitability of this technology to specific industry needs.
+
+ 
+Photo of CFD validation model with adhesive bonded sensor array
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

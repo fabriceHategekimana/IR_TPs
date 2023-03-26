@@ -1,0 +1,74 @@
+ 
+
+Thermal Bond Inspection System
+
+The Thermal Bond Inspection System (TBIS) uses thermal energy and infrared
+imaging to characterize the state of a bonded structure. A small amount of
+heat is applied to the surface of the structure, and the surface temperature
+is then recorded using an infrared camera and image processor. Various data
+analysis methods can then be performed to transform the temperature images
+into images representative of physical features of the measured structure.
+
+ 
+
+Potential Commercial Uses
+
+   * Defect detection in bonded aluminum structures
+   * Defect determination in laminated structures (i.e. laminated furniture)
+   * Defect detection in composites (i.e. graphite/ epoxy, fiberglass,
+     kevlar, etc.)
+   * Thickness characterization in metal structures (i.e. corrosion
+     characterization)
+   * Defect detection in electronic circuits and circuits boards
+   * Process control and monitoring for fabrication of composites
+   * Paint thickness and bond quality characterization
+
+Benefits
+
+   * Completely non invasive and non-contacting
+   * Geometry insensitive
+   * Rapid response
+   * Can examine a large area
+   * Can be applied to a large number of materials and geometries
+
+The Technology
+
+The figure shows a block diagram of a typical TBIS setup. An inspection
+consists of the application of heat to the surface of a structure (in this
+case an aircraft) and subsequent measurement of the surface temperature as a
+function of time. By heating a sample, a temperature differential is created
+in regions with differing heat capacities. In disbonded or corroded regions,
+the heat flow is reduced. This reduction of heat flow is reflected in an
+increase in temperature over the corroded region due to reduction in
+thickness relative to the uncorroded regions.
+
+The surface temperature as a function of time is measured with an infrared
+imager. The imager converts the infrared radiation (thermal response) from
+the surface of the sample to a video signal which is digitized by an image
+processor that performs a real time average of the digitized images. The
+real time averaging of these images significantly increases the signal to
+noise ratio of the data. Averaged images are obtained for a given time
+series as determined by the microcomputer controller. The current system
+allows for both immediate reduction of the data and storage of the data for
+further analysis.
+
+An important feature of the system for quantitative measurements is a
+microcomputer which synchronizes the data acquisition with the application
+of heat. Without this synchronization it is difficult to interpret the
+resulting images obtained and impossible to obtain quantitative results.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. A procedure for thermal inspection has been
+developed and tested extensively. A patent has been issued, and NASA Langley
+is seeking licensees. Suitability of this technology to specific needs can
+be investigated at NASA Langley.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

@@ -1,0 +1,61 @@
+ 
+
+Ice Thickness Gauge
+
+An ice thickness gage has been developed to measure the buildup of ice over
+the detector. This gage allows aircraft and other structures to monitor the
+ice accumulation, and in some cases, to initiate de-icing.
+
+ 
+
+Potential Commercial Uses
+
+Monitor (and for some cases, initiate de-icing) of:
+
+   * Aircraft, ground vehicles and ships
+   * Buildings, towers, power lines, and ground locations
+   * Water lines, freezer compartments, cooling coils
+
+Benefits
+
+   * Allows de-icing of structures before they become unsafe
+   * Gages can be retrofit on exterior of aircraft or other structures
+   * Technology is low cost and simple to produce
+
+The Technology
+
+The gage consists of a combination of a temperature measuring sensor and two
+or more capacitance measuring sensors, along with electronic circuits that
+combine information from the components to determine the presence of ice and
+its thickness.
+
+Ice on a surface strongly affects capacitance between a pair of conductors
+embedded near the surface. Capacitance levels off as ice thickness becomes
+larger than the separation of the conductors. The capacitance ratio between
+two pairs of conductors with greatly different spacing depends only on ice
+thickness--the effects of temperature and composition are removed. The
+capacitance ratio indicates ice thickness if the two sets of conductors are
+spaced so that thickness is larger than the spacing in one set of
+conductors, but smaller than the spacing in the other set of conductors. If
+a wide range of thickness' need to be monitored, a range of spacing can be
+used in several sets of conductors.
+
+Options for Commercialization
+
+Innovative Dynamics, Inc. of Ithaca, NY has been granted a limited
+non-exclusive license to use the ice thickness gage for aircraft ice
+detection, and de-icing system. However, the patent is available for other
+non-exclusive licenses for aircraft use, and either non-exclusive or
+exclusive licenses for non-aircraft use.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to pro actively involve the
+private sector in NASA's programs to ensure that the technology developed
+will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

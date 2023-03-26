@@ -1,0 +1,70 @@
+ 
+
+Surface Navigation in Low Visibility Conditions
+
+NASA and industry are developing new automated technologies
+
+NASA and industry are developing new automated technologies to improve
+safety and increase capacity of the airport surface movement area during low
+visibility conditions. As part of this joint effort, an electronic moving
+map display has been integrated with a surface radar system and a high speed
+data link. By sending controller information and air traffic positions to
+aircraft by a digital data link, pilots will be more aware of the airport
+environment in all weather conditions.
+
+ 
+Schematic of ASTA flight concept
+
+Potential Commercial Uses
+
+   * Any navigation systems, including:
+        o Automotive
+        o Rail
+        o Ships
+        o Aircraft
+        o Police, fire, ambulance
+
+Benefits
+
+   * Improve safety
+   * Improve situational awareness
+   * Improve guidance and communications
+   * Reduce user workload
+   * Eliminate need for paper maps
+   * Improve airport productivity
+
+The Technology
+
+NASA Langley Research Center and industry partners have integrated several
+technologies that address airport surface operations issues. These
+technologies include: an electronic moving map display, Differential Global
+Positioning System (DGPS), high speed data link, surface radar, automated
+surface warning system, and transponder based vehicle identification. The
+electronic moving map display shows all runways and taxiways on an airport
+as well as surface traffic positions, air traffic control instructions, and
+automated warning information. DGPS is a method of determining the location
+of an object on the earth's surface within centimeters. The high speed data
+link transmits information using VHF radios, in this instance from the
+airport surface to an aircraft. Airport Surface Detection Equipment, or
+ASDE-3 radar, employs sophisticated digital signal processing to detect and
+provide the location of ground traffic in nearly all weather conditions. The
+Airport Movement Area Safety System, or AMASS, is an automated collision
+avoidance system for use with the ASDE-3 radar that monitors airport surface
+traffic to advise ground controllers of potential incursions on runways and
+at taxiway intersections. A specialized transponder provides vehicle
+identification to the ASDE-3 radar for display to the controller next to the
+appropriate radar return.
+
+Options for Commercialization
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

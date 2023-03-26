@@ -1,0 +1,105 @@
+ 
+
+Polymers for Space and Beyond
+
+PAEBI, produced by Triton Systems, Inc. (TSI) under an exclusive patent
+license from NASA, has been studied by TSI since early 1992. PAEBI has
+evolved as a leading material for a number of commercial space applications
+where resistance to atomic oxygen (A/O) erosion for structures deployed in
+low earth orbit (LEO) is critical.
+
+PAEBI is available from TSI as a powder; varnish (for adhesive bonding and
+insulation purposes); polymer solution (for film casting); free standing
+film; metalized film for thermal radiation; and, as a polymer thread for
+stitching applications.
+
+ 
+
+Potential Commercial Uses
+
+Space Applications
+
+   * Components in flexible solar array
+   * A/O resistant coating
+   * A/O resistant thread for connecting multi-layer insulation blankets
+   * Arc tracking resistant electrical insulation for space
+
+Non-Space Applications
+
+   * Multi-chip module inter-layer dielectric
+   * Flexible printed circuit substrate
+   * Electrical wire insulation
+   * High temp. wire and cable wrapping
+   * Radiation resistant wire
+   * Electric motor and generator insulation
+   * Thermal control coating
+   * Electrical insulation for nuclear reactors
+   * Corona resistant films
+   * Flexible solar arrays
+   * Insulation resins
+   * Fiber for Multi-Layer Insulation Blankets
+   * Thermal radiator technology
+
+Benefits
+
+   * Exceptional adhesion to copper for high performance multi-chip modules
+   * High corona resistance, making it suitable as a high temperature
+     electrical insulator
+   * High arc track resistance, making it suitable for wire insulation
+   * Shown to be the most A/O resistant polymeric material tested to date
+   * Processed into Free Standing film for delivery to Lockheed
+   * Being implemented in Flexible Solar Array prototypes
+
+The Technology
+
+PAEBI, also known as TOR (Triton Oxygen Resistant), is a remarkable A/O
+resistant high temperature and high performance polymer for potential use in
+commercial space applications. PAEBI, unlike other polymers currently used,
+incorporates phosphorous and oxygen linkages in its backbone. Upon
+interaction with A/O, the polymer forms a phosphorous-oxygen skin that
+protects it against A/O. Since, the P=O linkage is amply present in the
+polymer, the A/O resist skin is self-replenishing.
+
+TOR combines the dielectric properties and processability of polyimides, the
+high temperature and structural properties of rigid polymers, and the
+exceptional adhesive properties of benzimidazoles. It exhibits an
+outstanding adhesion to copper and to polyimides. TOR, with an expected
+theoretical coefficient of thermal expansion (CTE) of 20-25 ppm/deg. C is
+intermediate to copper and polyimide.
+
+In addition, TOR exhibits a high T (360 deg. C), a low dielectric
+constant, a low dissipation factor. TOR is also easily processed from a
+solution. The most unique feature of this polymer is that unlike polyimides,
+it is available as a fully cyclized polymer that can be dissolved in a
+solvent, it can be spun, cast or sprayed onto a substrate, and later, simply
+dried.
+
+A modified version, the PAEPO, has been shown by Los Alamos National
+Laboratory and two other independent laboratories to be an exceptionally
+effective thermal radiator. PAEPO, code named COR, is available in clear
+form and can be used as potential replacement for FEP Teflon {Registered}.
+COR exhibits substantially improved environmental stability in LEO while
+being 45% lighter than Teflon {Registered}.
+
+Options for Commercialization
+
+Triton Systems seeks commercial partners for the joint development of this
+technology. This commercial opportunity is part of the NASA-sponsored SBIR.
+The objective of this program is to proactively involve the private sector
+to ensure that the technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Contact
+
+If your company is interested in this technology, or if you desire
+additional information, please contact:
+
+Mr. Ross Haghighat
+Triton Systems, Inc.
+114 Turnpike Road
+Chelmsford, MA 01824
+Phone: 508-250-4200
+Fax: 508-250-4533
+

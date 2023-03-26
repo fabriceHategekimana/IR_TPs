@@ -1,0 +1,52 @@
+ 
+
+Molecular Flow Diagnostics: Absorption
+
+A rugged, easy to implement, line-of-sight absorption instrument which
+utilizes a low pressure water vapor microwave discharge cell as the light
+source, has been developed to make simultaneous measurements of the OH
+concentration and temperature at ten spatial positions. The system design
+employs amplitude-modulation techniques followed by phase-sensitive
+detection using fast fourier transform methods to infer the transmitted
+intensity for each spatial position. The OH concentration and rotational
+temperature in the combustion medium are deduced by comparing the detected
+transmission for eight OH spectral channels with the computed transmission
+based on the resonant absorption model of OH.
+
+Potential Commercial Uses
+
+   * The system can be used to measure the rotational temperature and the OH
+     concentration at the exhaust of a scramjet engine
+   * This design can be extended to NO molecule
+   * With some modification, the system may find usage in the shock tube
+     facilities
+
+Benefits
+
+   * Easy to operate
+   * Uses fiber optics for transmission of the light
+   * Detects vibrational and rotational non- equilibrium
+   * Corrects for effects such as beam deflection or absorption due to other
+     species than OH
+   * Capable of obtaining the product of the OH concentration and the path
+     length, and the rotational temperature of OH at ten spatial positions
+     simultaneously
+   * Data acquisition time is variable from 2 to 20 seconds
+
+ 
+OH temperature system (10 simultaneous measurement positions)
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on molecular flow diagnostics technology. This commercial opportunity
+is part of the NASA Technology Transfer Program. The objective of this
+program is to proactively involve the private sector in NASA's programs to
+insure that the technology developed will have maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

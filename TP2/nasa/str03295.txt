@@ -1,0 +1,77 @@
+ 
+
+Carbon-Carbon Engine Components
+
+The Carbon-Carbon Piston is a new piston concept which has been developed to
+overcome a number of shortcomings of aluminum pistons. There are several
+advantages of a carbon-carbon piston: they operate at higher temperatures
+without piston failure; have greater reliability at high power output
+levels; they can be designed to have less reciprocating mass because
+carbon-carbon is stronger and lighter than aluminum; and they use leaner
+fuel-air mixtures to achieve higher fuel economy and much lower hydrocarbon
+emissions.
+
+ 
+
+Potential Commercial Uses
+
+   * High-performance, light-weight internal combustion gasoline or diesel
+     engines
+   * High-performance automotive engines
+   * Racing engines (NASCAR, Formula One, Motorcross, Go-cart, etc.)
+   * Oilless piston applications (natural gas pumps, etc.)
+   * Snowmobiles, motorcycles, hovercraft, jet-skis, and other recreational
+     vehicle engines
+   * Ultralight aircraft engines, outboard motors, and other weight critical
+     applications
+
+ 
+
+Benefits
+
+   * Has a lower density than aluminum alloy, lower reciprocating mass
+   * Has a low coefficient of thermal expansion
+   * Maintains its strength and stiffness at operating temperatures over
+     2500 deg. F
+   * Has tailorable thermal conductivity
+   * Has excellent resistance to thermal shock
+   * Has greater reliability at high-power output levels
+   * Can use leaner fuel-air mixtures to achieve higher fuel economy, lower
+     hydrocarbon emissions, and/or greater power output
+
+ 
+
+The Technology
+
+Pistons used in high-performance internal combustion engines are usually
+made of an aluminum alloy. The strength and stiffness of aluminum alloys
+decrease rapidly as material temperatures rise above 350 deg. F (the melting
+temperature of aluminum alloy is approximately 1100 deg. F) and the
+coefficient of thermal expansion of aluminum alloy is relatively large.
+
+High-performance engines are generally designed to have high power-to-weight
+ratios and to operate at moderately high power output levels for extended
+periods or at maximum power output levels for short periods.
+
+High-performance engines operate with exhaust gas temperatures at about 1275
+deg. F. If exhaust gas temperatures exceed 1350 deg. F because of lean
+fuel-air mixture conditions or if pressure loads dramatically increase
+because of detonation, piston failure is likely.
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. The carbon-carbon piston has been fabricated and
+tested at Langley. The program goal is to advance the state of the art by
+developing ringed and ringless carbon-carbon pistons, carbon-carbon liners,
+and carbon-carbon engine components. A patent for this technology has been
+obtained. NASA is seeking applicants to license the technology and/or
+partnerships to further broaden and refine the technology.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

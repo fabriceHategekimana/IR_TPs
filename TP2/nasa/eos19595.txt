@@ -1,0 +1,69 @@
+ 
+
+CCD-Based Mosaic Digital Mammography
+
+A novel scheme for implementing electronic, all-digital x-ray breast imaging
+has been proposed and the basic technique demonstrated. By using advanced
+Charged-Coupled Device (CCD) imaging technology, superior dynamic range and
+sensitivity relative to film-based systems is achieved. Additionally, the
+technique described here has superior spatial resolution to competing
+digital mammography methods as well as a novel scatter-rejection method.
+
+ 
+Schematic of CCD-Mosaic concept
+
+ 
+Reconstructed image; NIST pattern rotated at 45 degrees
+
+Potential Commercial Uses
+
+   * Electronic breast x-ray acquisition
+   * Other (e.g. chest) x-ray imaging systems
+
+Benefits
+
+   * Dynamic range and sensitivity far superior to film
+   * Better spatial resolution compared to all other digital mammography
+     techniques
+   * Ease of image archival, retrieval, and transmission
+   * Novel scatter-rejection technique
+
+The Technology
+
+Digital mammography techniques have long been sought because of the superior
+imaging properties inherent in electronic image sensors, such as CCDs,
+relative to film. These advantages include better sensitivity,
+signal-to-noise ratios, and linearity over many orders of magnitude.
+Additionally, digital data storage allows for automated image analysis
+software to help doctors locate tumors as well as ease of image storage and
+retrieval. Finally, digitally stored images may be transmitted to a remote
+location for interpretation by other experts in the case of difficult to
+interpret results. The main obstacle in implementing such systems has been
+the lack of an imager suitable for the large format (18cm x 24cm) required
+for full breast imaging.
+
+Investigators at NASA Langley Research Center in cooperation with both the
+University of Virginia School of Medicine and the University of
+Massachusetts School of Medicine have tested a concept that addresses these
+needs and makes all-digital full breast imaging possible. Test results
+clearly show the feasibility of this concept and demonstrate all the
+critical technology elements. Additionally, a novel scatter-rejection scheme
+is employed to further enhance the system performance.
+
+Options for Commercialization
+
+NASA seeks industry partners to develop a clinical system based on this
+concept. However, no licenses have been granted and no formal arrangements
+between NASA and any industry partner currently exist.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+the maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

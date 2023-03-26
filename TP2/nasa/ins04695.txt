@@ -1,0 +1,81 @@
+ 
+
+Application of Self-Nulling Probe Technology to Nondestructive Evaluation of
+Aircraft Structure
+
+Highly reliable, low cost nondestructive evaluation (NDE) methods are in
+great demand. This is especially true in the airline industry where the cost
+factor is critical while safety is indispensable.
+
+To help the US airline industry enhance its competitiveness NASA Langley
+Research Center has developed an innovative electromagnetic NDE probe
+technology that meets these conditions. The technology has been licensed to
+Krautkramer Branson, Inc. for commercialization and a hand-held
+"crackfinder" has already entered the market. Due to its extreme
+versatility, the application area of the probe technology extends far beyond
+the airline industry, and the personnel of NASA Langley and Krautkramer
+Branson are available to provide specialized customer services.
+
+Potential Commercial Uses
+
+   * Corrosion detection
+   * Fatigue crack detection
+   * Nonconducting coating thickness gauging
+   * Characterization of conductive coating quality
+
+Benefits
+
+   * Simple instrumentation: low cost devices
+   * No need of user training
+   * No need of data interpretation
+   * Versatility: broad range of applications
+
+ 
+Crackfinder being marketed by Krautkramer Branson
+
+The Technology
+
+The NASA Langley-developed electromagnetic probe consists of two coils;
+outer (drive) and inner (pickup) coils which are separated by a thin-walled
+cylinder, called the magnetic flux-focusing lens, made of ferrous metal. The
+lens creates a concentrated eddy current distribution in the test object
+immediately underneath of the probe generating a magnetic field that opposes
+the original field produced by the drive coil. The lens also prevents the
+drive coil-generated flux lines from directly linking the pickup coil
+without passing through the test object. When the probe, operating at a
+frequency of 50 kHz or above, is placed on a flaw free metallic object its
+output is automatically nulled. The presence of a flaw alters the delicate
+self-nulling condition causing a distinctive probe output amplitude.
+
+Rotating the probe around the rivet heads of aircraft lap joints, one can
+obtain the probe output amplitude as a function of angular position.
+Applying simple real-time numerical processing, one can remove the
+background noise due to misalignment between the circular probe path and the
+rivet head. This rotating probe technique detects fatigue cracks hidden
+under the rivet heads.
+
+The probe can detect cracks in welded joints between steel tubes and other
+structure. It also has been applied to detect the wall thinning of steel
+tubes both from the inside and outside of tube.
+
+Due to the simplicity in design of the probe and associated electronics, an
+array of probes can be installed in inaccessible locations for periodic
+monitoring of crack growth of critical infrastructures.
+
+Options for Commercialization
+
+Krautkramer Branson has obtained an exclusive license for commercialization
+and hand-held "CrackFinders" just entered the market. The next step of
+commercialization is to develop a metal thickness gauge and then a
+nonconducting coating thickness gauge.
+
+NASA Langley, in cooperation with Krautkramer Branson, can arrange
+customized services utilizing the expertise of personnel of a private
+company who participated in the development of the probe technologies.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

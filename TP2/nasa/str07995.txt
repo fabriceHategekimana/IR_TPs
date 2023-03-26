@@ -1,0 +1,88 @@
+ 
+
+Cooled Structures Technology - Thermally and Structurally Efficient Devices
+
+Thermally and structurally efficient heat transfer devices have been
+developed which can reduce peak temperatures, temperature gradients, and
+thermal stresses and distortions. Three heat transfer mechanisms are
+highlighted: Transpiration, heat pipe, and oscillating coolant heat
+exchangers.
+
+ 
+
+Potential Commercial Uses
+
+   * Electronic component cooling (e.g., circuit boards, computer chips,
+     etc.)
+   * Waste heat recovery
+   * Distortion-and/or stress-free structures
+   * Uniform temperature ovens for crystal growth
+
+Benefits
+
+   * Performance: The devices mentioned above may result in very efficient
+     heat transfer, automatic temperature control, and lightweight
+     distortion and stress-free structures.
+   * Key Features: Transpiration: very effective in cooling plus blocks heat
+     transfer to a structure heated convectively.
+        o Heat pipe: self-contained heat transfer device which transports
+          heat very effectively by the evaporation and condensation of a
+          working fluid. Does not require any external means for pumping.
+        o Oscillating Coolant: transports heat very effectively by
+          oscillating a working fluid and, thus, reducing the local boundary
+          layer thickness and increasing the effective heat transfer
+          coefficient.
+   * Fabrication: The above mentioned devices can be fabricated using
+     standard metal forming and joining fabrication techniques.
+     Miniaturization can be accomplished using standard methods for
+     fabricating micro-machines.
+
+The Technology
+
+Three areas of cooled structures technology are highlighted: heat pipe
+cooling, transpiration cooling, and innovative regenerative cooling methods.
+This technology is useful when components that are in heated environments
+must be kept within restricted temperature ranges. Heat pipes are closed
+cooling devices that require no external power. They consist of a structure
+that has 3 features: an internal working fluid, a vapor space, and a
+capillary wick. Heat is transported from one area (called the evaporator) to
+another area (called the condenser) in the following manner. Heat absorbed
+in the evaporator region changes the phase of the working fluid from liquid
+to gas. The gas flows in the vapor space to the condenser region and changes
+phase from gas to liquid, thereby releasing the latent heat. The condensed
+liquid is transported to the evaporator using the capillary pumping action
+of the wick.
+
+Heat pipes currently have many applications such as cooling electronic
+components, and cooling structures in severe, oxidizing environments.
+
+Transpiration cooling requires a liquid or gas coolant that flows through
+the surface of a severely heated component and exits the component from the
+heated surface through small pores in the surface. The coolant will both
+reduce the convective part of any heating and also removes heat from the
+surface in a very efficient way. Transpiration cooling is presently used in
+local regions of commercial turbine and rocket engines.
+
+One innovative regenerative cooling method is the Oscillating Coolant Heat
+Exchanger which has recently been awarded 2 patents. This device behaves
+like a mechanically driven heat pipe, however it is not limited by the
+operational constraints that often limit the usefulness of heat pipes. The
+device has not been applied commercially to date.
+
+Options for Commercialization
+
+NASA seeks industry partners to cooperatively develop commercial products
+based on various Langley held patents for Cooled Structures Technology and
+Thermal Devices.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

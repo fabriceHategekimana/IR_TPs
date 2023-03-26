@@ -1,0 +1,82 @@
+ 
+
+Neural Network Controls Software
+
+A software package for developing neural network controllers has been
+developed at NASA Langley Research Center. The package, called NNET, is
+based on the backpropagation paradigm and has been structured for, but is
+not limited to, the implementation of various control designs. NNET is coded
+in ANSI C and runs on a number of different platforms.
+
+ 
+
+Potential Commercial Uses
+
+Any application in which control systems are required including:
+
+   * Chemical processing plants
+   * Magnetic suspension systems
+   * Flight Control Systems
+   * Robotic Control
+
+Benefits
+
+   * Inexpensive, quick-start package for neural control system development
+     and evaluation.
+   * The neural generalized predictive controller is built into the code.
+   * ANCI C source code is provided for tailoring and flexibility.
+   * Real-time data collection feature.
+
+The Technology
+
+The NNET package is a development platform for creating neural network
+controllers. NNET is based on the backpropagation paradigm and has been
+structured for the implementation of various control designs. NNET is
+composed of four elements; the network structure, the input map, data
+control blocks, and generic devices. The network structure includes any
+feature that defines the architecture of the neural network such as the
+number of layers and the number of nodes in a layer. The input map defines
+the type of network inputs such as external inputs or delay nodes. Data
+control blocks define the wiring between the neural network , the generic
+devices, and the users plant. Generic devices include signal generators,
+discrete filters, and display devices. The signal generator outputs a user
+defined wave-form. Generated signals can be passed through a discrete
+filters set with user-specified parameters. Display devices are set to
+display selected variables within the control block. The neural network
+architecture features supported in NNET include time delay nodes,
+recurrency, plant feed back, user programmable activation functions, and
+selective update of neural network weights. The control architectures
+featured are direct neural network control, indirect neural network control,
+and neural generalized predictive control, as well as user programmable
+control architectures. The flexibility of the code and the fact that the
+source code is available for tailoring, lends itself to the development of
+real time control systems. NNET has been used by the US Army to analyze
+helicopter control, and here at Langley to analyze wind tunnel data. The
+package has been delivered to NASA Ames for flight control systems, and to
+the USDA for analyzing market trends for meat pricing. NNET has also been
+used for a Shuttle tile identification and inspection task. Specific
+features of NNET include:
+
+   * Network initialization using user-defined linearized plant
+   * Support of off/on train for specific weights
+   * Contains hooks for real-time implementation
+   * Both menu driven and script driven interfaces available
+   * Generic devices: signal generator, discrete filters, and display
+     devices
+   * Available on a number of different platforms
+
+Options for Commercialization
+
+This technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. A software package for developing neural network
+controllers has been developed and applied to a variety commercial
+applications. Suitability of this technology to specific needs can be
+investigated at Langley.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

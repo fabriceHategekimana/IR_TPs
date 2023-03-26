@@ -1,0 +1,60 @@
+ 
+
+Compact Laser-Based Gas Sensor
+
+An instrument, based on technology used in NASA atmospheric measurement
+programs, has been developed that can detect important
+environmental/industrial gases. This portable sensor incorporates tiny
+semiconductor lasers developed originally for the communications industry.
+Because of its small size and gas measurement versatility, this sensor has
+many potential applications.
+
+ 
+
+Potential Commercial Uses
+
+   * Gas Leak Detection: A hand-held version of this sensor may be used in
+     such environments as chemical processing plants and natural gas pumping
+     stations to remotely locate gas leaks
+   * Stack Gas Monitoring: Installed on an industrial stack, this sensor
+     could make "cross-stack" measurements of important plant emissions
+   * Remote Automobile Emissions Measurements: The fast response and high
+     sensitivity of this instrument would enable real time automobile
+     exhaust measurements
+
+Benefits
+
+   * Performance: The measurement sensitivity and gas selectivity of diode
+     laser instrumentation have been proven over two decades of
+     research-oriented applications
+   * Size: The sensor may be made highly portable since it relies on tiny,
+     low power diode lasers
+   * Versatility: A variety of gases may be detected by using diode lasers
+     operating in different spectral regions
+
+The Technology
+
+The gas sensor consists of a compact laser transceiver that houses a small,
+near infrared diode laser as well as a collecting optic and detector. Using
+differential absorption techniques, the concentration of a gas may be
+determined along the optical path between the transceiver and inexpensive
+retroreflecting material commonly found on road signs. By strategically
+locating the retroreflecting material, many gas measurement applications are
+possible.
+
+Options for Commercialization
+
+NASA Langley seeks industry partners to cooperatively develop commercial
+products based on Compact Laser-Based Gas Sensor technology.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

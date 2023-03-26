@@ -1,0 +1,70 @@
+ 
+
+Exploiting Fuzzy Logic and Telepresence Technology for Surveillance Vehicles
+
+This project is a sharply focused effort to demonstrate a miniature, highly
+automated, low cost, rotorcraft Unmanned Aerial Vehicle (UAV) surveillance
+platform form for both civil and military applications The research is
+focusing on total system integration and the exploitation of cognitive
+computing theories and telepresence.
+
+ 
+
+Potential Commercial Uses
+
+   * Cognitive computing:
+        o Adaptive fuzzy logic for process controls
+        o Artificial neural networks for dynamic systems modeling
+        o Genetic algorithms for optimization
+
+   * Sensor integration
+        o Miniature
+        o Redundant
+
+   * Unmanned aerial vehicles
+        o Miniature
+        o Vertical takeoff and landing
+
+   * Surveillance
+        o Telepresence
+
+Benefits
+
+   * Affordable performance: Cognitive computing offers opportunities for
+     low- cost integration
+   * Rapid development: Automated control system development expedites
+     system integration
+
+The Technology
+
+* Developing a hierarchical fuzzy logic flight control system:
+
+ 
+
+ 
+
+* Modeling the dynamic system with artificial neural networks:
+
+ 
+
+* Using genetic algorithms to optimize the controller in parallel over a
+network:
+
+ 
+
+Options for Commercialization
+
+NASA and the U.S. Army seek industry partners to cooperatively develop
+commercial products exploiting this technology.
+
+This commercialization opportunity is part of the NASA Technology Transfer
+Program. The objective of this program is to proactively involve the private
+sector in NASA's programs to ensure that the technology developed will have
+maximum commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

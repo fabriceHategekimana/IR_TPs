@@ -1,0 +1,80 @@
+ 
+
+Thermally Perfect Gas Computer Code
+
+The Thermally Perfect Gas (TPG) computer code was developed as a stand-alone
+analysis tool for one-dimensional gas dynamics. The TPG code is capable of
+handling any type of gas (monatomic, diatomic, triatomic, or polyatomic) or
+any mixture of such gases. It produces tabulated results of the gas
+expansion and normal shock properties for any specified Mach number or range
+of Mach numbers. The code requires only simple responses to an interactive
+program and typically takes only a minute or less of user time to obtain
+results. It is accessible in either a FORTRAN version with input prompt
+statements or a graphical- user-interface version with menu selection. The
+TPG code is available free through Internet on the World Wide Web at the
+NASA Langley Software Server (at URL: http://www.larc.nasa.gov/LSS).
+
+ 
+
+Potential Commercial Uses
+
+   * Any engineering code that uses NACA Report 1135 analysis methods for a
+     perfect gas
+   * A stand-alone analysis tool for one-dimensional gas dynamics
+   * Situations which require knowledge of the specific heat for any mixture
+     of gases
+   * As a teaching tool for university professors of engineering and/or
+     physics
+
+Benefits
+
+   * Applicable to any type of gas or mixture of gases
+   * Greater accuracy and precision than NACA Report 1135
+   * Fast, easy-to-use computer program
+   * User-specified tabulated results provided
+   * Free, available through Internet
+
+The Technology
+
+The TPG code utilizes a polynomial curve fit of the specific heat at
+constant pressure, cp , versus temperature for a given gas to describe the
+variation of the gas heat capacity. The data required to generate such curve
+fits can be found in tabulated form in several published sources, such as
+the NBS "Tables of Thermal Properties of Gases" and the "JANAF
+Thermochemical Tables." Actual coefficients for specific types of polynomial
+curve fits are also published in NASP TM-1107 and NASA SP-3001. The code has
+default coefficient values for the standard 4-species composition of air (N
+2 , O 2 , Ar, CO 2 ), and includes separate species data files containing
+the curve fit coefficients for many other common gases (H 2 , H 2 O, NO, OH,
+...). Typically, engineering textbooks contain derivations of the
+compressible flow relations only for a calorically perfect (constant cp )
+gas. The equations have been rederived for this method with cp as a
+polynomial function of temperature to obtain a set of compressible flow
+relations for a thermally perfect (cp varies with temperature) gas and have
+been incorporated into the two versions of the TPG code. The equations for
+arbitrary mixtures of gases are evaluated by computing an equivalent mixture
+molecular weight, gas constant, and cp. The development and results of this
+method are documented in NASA TP 3447,Computer Code for Determination of
+Thermally Perfect Gas Properties. A paper copy of this report is available
+for a nominal cost from the National Technical Information Service (NTIS).
+An electronic version of the report is available free through Internet on
+the World Wide Web at the NASA Langley Technical Report Server (URL:
+http://techreports.larc.nasa.gov/ltrs/ltrs.html).
+
+ 
+
+Options for Commercialization
+
+The technology opportunity is part of the NASA Technology Transfer Program.
+The program seeks to stimulate development of commercial applications from
+NASA-developed technology. The Langley Research Center seeks to transfer the
+TPG code to the research and applied engineering community for use as a
+stand-alone analysis tool or for incorporation into engineering codes to
+provide gas dynamic analyses.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+

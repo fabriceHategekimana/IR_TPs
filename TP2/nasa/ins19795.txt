@@ -1,0 +1,77 @@
+ 
+
+Automatic Force Balance Calibration System
+
+A more efficient method to calibrate a force balance has been developed
+using a six-component force transducer to measure the aerodynamic forces and
+moments on wind tunnel models. This new calibration technique calibrates a
+test balance directly against a high-precision reference balance.
+
+Potential Commercial Uses
+
+   * Production costs may prove to be low enough to enable most wind tunnel
+     sites to have a system for on-site balance calibration
+
+   * A portable version could be used in the wind tunnel test section to
+     apply check loads to the balance for system check-out or for
+     determining sting deflections
+
+Benefits
+
+   * It can be easily automated for efficiency
+
+   * Calibration hardware requirements (adapters) for each balance are
+     minimal
+
+   * The need for precise deformation measurements and alignments are
+     eliminated
+
+   * There are no extraneous tare loads introduced by the calibration
+     equipment
+
+   * Ability to apply any load or load combination with equal facility
+
+   * The full system for small balances can be small enough to be portable
+
+   * A fully automated system will be much less expensive than current
+     commercially available systems
+
+The Technology
+
+Currently accepted calibration procedures using precision weights requires
+that the six components, the three orthogonal forces and moments, be
+calibrated with single loads in each axis as well as in combinations of two
+components loaded simultaneously to adequately define the force balance
+output. The force balance output is then used to determine the calibration
+matrix. This method has been and is still considered to be the standard
+against which all other calibration methods are compared. This calibration
+method is a difficult and time consuming task. (100 work-hours +).
+
+Three existing calibration systems are shown in these photographs as
+examples of automatic calibration systems. These systems are efficient
+(approx. 8 work-hours) but are large, complex, and expensive. Insuring that
+the applied calibration loads are accurate and orthogonal is a difficult
+task.
+
+The new automatic force calibration system developed will be able to provide
+the capability to calibrate balances with widely variable load ranges and to
+make and calibrate reference balances to the desired accuracy to qualify as
+a standard. Accurate force balance calibrations will be obtained with this
+new technology at minimum costs.
+
+Options for Commercialization
+
+NASA Langley is actively seeking applicants to license the technology and/or
+partnerships to further broaden and refine the technology.
+
+This commercial opportunity is part of the NASA Technology Transfer Program.
+The objective of this program is to proactively involve the private sector
+in NASA's programs to ensure that the technology developed will have maximum
+commercial impact.
+
+See Working With NASA Langley: The Technology Transfer Process for more
+details
+
+Fill out the Commercialization/Partnership Form if you are interested in
+commercializing or partnering to further develop this technology.
+
