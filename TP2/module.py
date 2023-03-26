@@ -68,6 +68,7 @@ def file_names_to_text(list_of_files: Sentences, root_docs_path: str = ".") -> S
 def file_name_to_text(file_name: str, root_docs_path: str = "."):
     """
     take a file name and return it's content in plain string
+    root_docs_path: folder to look for the file
     """
     f = open(root_docs_path+"/"+file_name, mode="r", encoding="windows-1252")
     lines = f.readlines()
