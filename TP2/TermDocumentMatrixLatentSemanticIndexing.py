@@ -80,7 +80,7 @@ def tokenize_queries(queries):
     queries_tokenized = []
     
     for query_num, query in enumerate(queries):
-        # query is a string (sentence)
+        # query is a string
         queries_tokenized.append(nltk.word_tokenize(query))  
         
     return queries_tokenized
@@ -137,7 +137,6 @@ def build_lsi(tf_idf_matrix, k=2):
     return lsi_docs, U_k, s_k, Vt_k
 
 def query_lsi(queries_tokenized, U_k, s_k, Vt_k, unique_words):
-    # Convert unique_words to a list
     unique_words = unique_words.tolist()
 
     # Create a term-query matrix
